@@ -1,6 +1,16 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1 Competidores
+![logo-Vendty](assets/logo-Vendty.png)
 
+***Vendty:*** Vendty es una solución de punto de venta y gestión de inventario basada en la nube diseñada para pequeñas y medianas empresas. Con una interfaz intuitiva, Vendty ofrece funcionalidades de venta, gestión de inventarios, y reportes en tiempo real, apoyándose en su capacidad para trabajar tanto online como offline. Ideal para comercios y restaurantes, Vendty facilita la operación diaria y ayuda en la toma de decisiones estratégicas con su análisis de datos.
+
+![logo-Bsale](assets/logo-Bsale.png)
+
+***Bsale:*** Bsale es un software de ventas originario de Chile que se ha expandido a otros mercados en LATAM. Destaca por su sistema de facturación electrónica y herramientas de gestión de inventarios, enfocándose en mejorar la eficiencia y la experiencia de usuario. Bsale es adaptable, ofreciendo desde sistemas de punto de venta hasta soluciones integrales de e-commerce, lo que lo hace adecuado para una variedad de negocios incluyendo restaurantes, bares y tiendas minoristas.
+
+![logo-Logimov](assets/logo-Logimov.png)
+
+***Logimov:*** Logimov es una plataforma de software especializada en la gestión de inventarios y almacenes, que se caracteriza por su alto grado de personalización y su capacidad para manejar complejas operaciones logísticas. Es particularmente adecuada para grandes empresas que necesitan control sobre lotes, series y fechas de vencimiento, y se integra bien con sistemas ERP y de cadena de suministro. Logimov es valorado por su robustez y soporte técnico especializado.
 ## 2.1.1 Análisis Competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
