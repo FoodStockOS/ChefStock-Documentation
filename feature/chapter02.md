@@ -12,6 +12,169 @@
 
 ***Logimov:*** Logimov es una plataforma de software especializada en la gestión de inventarios y almacenes, que se caracteriza por su alto grado de personalización y su capacidad para manejar complejas operaciones logísticas. Es particularmente adecuada para grandes empresas que necesitan control sobre lotes, series y fechas de vencimiento, y se integra bien con sistemas ERP y de cadena de suministro. Logimov es valorado por su robustez y soporte técnico especializado.
 ## 2.1.1 Análisis Competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>ChefStock </td>
+			<td>Vendty</td>
+			<td>Bsale </td>
+			<td>Logimov </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Sistema que mitiga (y previene) los robos a vehículos.</td>
+			<td>Sistema que previene accidentes vehiculares, y regula la seguridad vial</td>
+			<td>Sistema que localiza y alerta sobre la seguridad e integridad de una persona</td>
+			<td>Sistema que monitorea el automóvil y alerta ante cualquier accidente automovilístico</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Monitoreo y vigilancia del vehículo en tiempo real</td>
+			<td>Regula la seguridad vehicular y relacionados</td>
+			<td>Localización de una persona en tiempo real</td>
+			<td>Detección de choques, servicios de mecánica; actúa como seguro</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>Todos los conductores en general; jóvenes y taxistas principalmente.</td>
+			<td>Todos los conductores en general</td>
+			<td>Todo el público</td>
+			<td>Todos los conductores en general</td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>Promociones y anuncios en páginas, sitios web, periódicos, etc., lugares comunes donde se encuentre nuestro segmento objetivo</td>
+			<td>Redes sociales y páginas de internet; también en parte con organizaciones</td>
+			<td>Anuncios de internet, recomendaciones y en general anuncios comunes</td>
+			<td>Anuncios de internet y páginas de internet; junto con seguros.</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>Dispositivos, servicios y software</td>
+			<td>Servicios y sistemas integrados</td>
+			<td>Dispositivos, servicios y software</td>
+			<td>Sistemas y servicios integrados</td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
+			<td>Tarifas y precios: desde 10 a 20 dólares.</td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+			<td>Disponible en línea a través de la aplicación móvil y la plataforma web.</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li>Sistema de localización y sensores que muestran el entorno del vehículo en tiempo real.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Especialización de sistemas integrados y detección avanzada.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Uso especializado para la localización de personas y rastreo en ciertos casos.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Puede usar sistemas especializados en cierto casos.</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>El sistema aún sigue en procesos de desarrollo y puede no tener todas las funcionalidades completas.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Falta de conocimiento y uso entre los potenciales usuarios.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Puede ser usado para el rastreo.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Puede ser de costo elevado para ciertos casos.</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Reconoce el estado del auto y notificar al usuario.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Alerta para varios usuarios como familiares y conocidos.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Especializado para el uso personal y rastreo.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Sistema avanzado y delimitado para ciertos usuarios.</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>El precio puede ser variable y en algunos casos molestoso.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>El sistema no es muy conocido y puede ser difícil el uso en diferentes países.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>La funcionalidad es limitada en cuanto a el uso vehicular.</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>El sistema puede ser limitado debido a la conexión a internet.</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
