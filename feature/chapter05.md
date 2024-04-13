@@ -243,7 +243,7 @@ Durante el primer sprint, nos enfocaremos en la creación de la Landing Page, di
 </table>
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
-Durante este sprint, llevamos a cabo las funcionalidades definidas en nuestro Sprint Backlog, asegurándonos de incluir sus criterios de aceptación correspondientes. 
+Durante este sprint, llevamos a cabo las funcionalidades definidas en nuestro Sprint Backlog, asegurándonos de incluir sus criterios de aceptación correspondientes.\
 ![image](https://hackmd.io/_uploads/SJMwcUdlR.png)
 
 ![image](https://hackmd.io/_uploads/SkADqUOgR.png)
@@ -252,16 +252,22 @@ Durante este sprint, llevamos a cabo las funcionalidades definidas en nuestro Sp
 
 ![image](https://hackmd.io/_uploads/rJKd5LOl0.png)
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5 Execution Evidence for Sprint Review
+Durante el primer sprint, el equipo de desarrollo de la startup FoodStockOS logró completar la creación de la Landing Page para nuestro proyecto ChefStock. En nuestra página web, los usuarios podrán acceder a detalles sobre...
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+Hasta ahora, no disponemos de documentación de nuestros servicios, ya que este primer sprint se ha centrado en el desarrollo de la Landing Page.
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+Para implementar la Landing Page, inicialmente creamos el repositorio en Github junto con las ramas necesarias main, developer y features.\
+![image](https://hackmd.io/_uploads/HJfSwv_lC.png)\
+![image](https://hackmd.io/_uploads/HyX7DwOg0.png)\
+Luego, cada integrante sube su parte del proyecto 
 
+Finalmente, desplegamos el proyecto en la rama main utilizando la herramienta GitHub Pages.
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.8 Team Collaboration Insights during Sprint
+Durante el transcurso del primer sprint, todos los miembros del equipo de FoodStockOS participamos activamente y de forma constante en la ejecución de las tareas asignadas. 
 
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+Presentamos pruebas del progreso individual:
 
 
 
