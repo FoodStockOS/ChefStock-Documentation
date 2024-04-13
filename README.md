@@ -1,5 +1,5 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/UPC_logo_transparente.png)
+![UPC](feature/assets/UPC_logo_transparente.png)
 # APLICACIONES WEB (SW55)
 ## PROFESOR: Francisco José Cáceres Honores
 ## "INFORME DE TRABAJO 1 APLICACIONES WEB"
