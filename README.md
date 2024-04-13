@@ -745,3 +745,277 @@ Basado en su experiencia, ¿hay algo específico que le gustaría que se abordar
     </tbody>
 </table>
 
+### 2.3 Needfinding
+En esta sección se explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. 
+### 2.3.1. User Personas
+**User Persona 1 (Propietarios de Restaurantes)** 
+![image](https://hackmd.io/_uploads/BJ2I0r_l0.png)
+
+**User Persona 2 (Personal de Restaurantes)**
+![image](https://hackmd.io/_uploads/SyOOCSdxC.png)
+
+### 2.3.2. User Task Matrix
+
+Los segmentos considerados para esta matriz son: 
+
+**Segmento Objetivo 1:** Propietarios de Restaurantes. 
+
+**Segmento Objetivo 2:** Personal de Restaurantes. 
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Tarea</th>
+            <th colspan="2">SO1</th>
+            <th colspan="2">SO2</th>
+        </tr>
+        <tr>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Realizar inventario</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Verificar fechas de vencimiento</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Mantener actualizada la información del inventario</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Comunicar actualizaciones de inventario</td>
+            <td>Baja</td>
+            <td>Baja</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Gestionar pedidos</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Pronosticar la demanda futura</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Media</td>
+        </tr>
+    </tbody>
+</table>
+
+### 2.3.3. User Journey Mapping
+**User Journey Mapping – SO1** 
+
+Este Journey Map muestra la trayectoria de Pedro Nanfuñay, propietario de un restaurante, en el proceso de gestión de inventarios. El cual, busca mejorar la eficiencia operativa y reducir costos en su negocio. 
+**User Journey Mapping – SO2** 
+
+Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un restaurante que se ha comprometido a optimizar los procesos de gestión de inventarios. 
+### 2.3.4 Emphaty Mapping
+**Empathy Mapping – SO1** 
+
+En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay
+![image](https://hackmd.io/_uploads/rJ6WgL_lC.png)
+**Empathy Mapping – SO2** 
+
+En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez. 
+![image](https://hackmd.io/_uploads/SyS7e8dx0.png)
+
+### 2.3.5 As-Is Scenario Mapping
+**As-is Scenario Mapping – SO1** 
+**As-is Scenario Mapping – SO2** 
+
+# Capítulo III: Requirements Specification
+
+### 3.1 To-Be Scenario Mapping
+![image](https://hackmd.io/_uploads/B1gPg8_gA.png)
+
+
+### 3.2. User Stories.
+<table>
+    <thead>
+        <tr>
+            <th>Épica</th>
+            <th>Creación de la Landing Page</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID-HU</td>
+            <td>01</td>
+            <td>Owner</td>
+            <td>01</td>
+        </tr>
+        <tr>
+            <td>Título HU</td>
+            <td colspan="3">Barra de navegación clara</td>
+        </tr>
+        <tr>
+            <td>Puntos de estimación</td>
+            <td>3</td>
+            <td>Sprint</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Descripción HU</td>
+            <td colspan="3">Como usuario, quiero una barra de navegación clara en la Landing Page para poder acceder fácilmente a diferentes secciones del sitio.</td>
+        </tr>
+        <tr>
+            <td>Criterios de Aceptación</td>
+            <td colspan="3">
+                <p>Escenario 01: Navegación intuitiva</p>
+                <p>Dado que estoy en la Landing Page Y quiero acceder a diferentes secciones del sitio Cuando haga clic en un enlace de la barra de navegación Entonces seré redirigido a la sección correspondiente del sitio.</p>
+                <p>Escenario 02: Acceso desde dispositivos móviles</p>
+                <p>Dado que estoy navegando en la Landing Page desde un dispositivo móvil Y quiero acceder a diferentes secciones del sitio Cuando toque en un enlace de la barra de navegación Entonces seré redirigido a la sección correspondiente del sitio.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Épica</th>
+            <th>Creación de la Landing Page</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID-HU</td>
+            <td>02</td>
+            <td>Owner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Título HU</td>
+            <td colspan="3">Visualizar la sección "Quiénes Somos?"</td>
+        </tr>
+        <tr>
+            <td>Puntos de Estimación</td>
+            <td>3</td>
+            <td>Sprint</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Descripción HU</td>
+            <td colspan="3">¿Como usuario, quiero una sección "Quiénes Somos?" en la Landing Page para conocer más sobre la empresa.</td>
+        </tr>
+        <tr>
+            <td>Criterios de Aceptación</td>
+            <td colspan="3">
+                <p>Escenario 01: Visualización de información</p>
+                <p>Dado que estoy en la Landing Page Y quiero conocer más sobre la empresa Cuando navegue por la sección "Quiénes Somos?" Entonces podré ver información detallada sobre la historia, misión y valores de la empresa.</p>
+                <p>Escenario 02: Acceso rápido desde el menú principal</p>
+                <p>Dado que estoy en cualquier sección de la Landing Page Y quiero acceder rápidamente a la sección "Quiénes Somos?" Cuando haga clic en el enlace correspondiente del menú principal Entonces seré llevado directamente a la sección de "Quiénes Somos?".</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Épica</th>
+            <th>Creación de la Landing Page</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID-HU</td>
+            <td>03</td>
+            <td>Owner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Título HU</td>
+            <td colspan="3">Desarrollar el diseño de la sección "Servicios” </td>
+        </tr>
+        <tr>
+            <td>Puntos de Estimación</td>
+            <td>4</td>
+            <td>Sprint</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Descripción HU</td>
+            <td colspan="3">Como usuario, quiero una sección "Servicios" en la Landing Page para conocer los servicios ofrecidos por la empresa.</td>
+        </tr>
+        <tr>
+            <td>Criterios de Aceptación</td>
+            <td colspan="3">
+                <p>Escenario 01: Navegación intuitiva</p>
+                <p>Dado que estoy en la Landing Page Y quiero conocer los servicios ofrecidos por la empresa Cuando navegue por la sección "Servicios" Entonces podré ver una lista de servicios con descripciones detalladas y posibles paquetes o planes disponibles.</p>
+                <p>Escenario 02: Acceso desde el menú principal</p>
+                <p>Dado que estoy en cualquier sección de la Landing Page Y quiero acceder rápidamente a la sección "Equipo de Trabajo" Cuando haga clic en el enlace correspondiente del menú principal Entonces seré llevado directamente a la sección de "Equipo de Trabajo".</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Épica</th>
+            <th>Creación de la Landing Page</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ID-HU</td>
+            <td>04</td>
+            <td>Owner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Título HU</td>
+            <td colspan="3">Visualizar información sobre el Sección Equipo de Trabajo</td>
+        </tr>
+        <tr>
+            <td>Puntos de Estimación</td>
+            <td>5</td>
+            <td>Sprint</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Descripción HU</td>
+            <td colspan="3">Como usuario, quiero una sección "Equipo de Trabajo" en la Landing Page para conocer al equipo detrás de la empresa.</td>
+        </tr>
+        <tr>
+            <td>Criterios de Aceptación</td>
+            <td colspan="3">
+                <p>Escenario 01: Visualización del equipo</p>
+                <p>Dado que estoy en la Landing Page Y quiero conocer al equipo de trabajo de la empresa Cuando navegue por la sección "Equipo de Trabajo" Entonces podré ver una lista de miembros del equipo con sus fotos, roles y una breve descripción de sus responsabilidades y experiencia.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 3.3. Impact Mapping.
+...
+
+
+### 3.4. Product Backlog.
+...
+
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
