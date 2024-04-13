@@ -180,8 +180,102 @@
 
 ## 2.2. Entrevistas.
 
+**El diseño de las entrevistas se centró en comprender las necesidades específicas de los gerentes y personal de cocina de restaurantes en relación con la gestión de inventarios. Las preguntas fueron diseñadas para explorar los desafíos actuales, las soluciones existentes y las características deseadas en una plataforma ideal.**
 
 ### 2.2.1. Diseño de entrevistas.
+
+
+Preguntas de las Entrevistas:
+
+Para Propietarios de Restaurantes:
+
+Objetivo: Comprender las prioridades estratégicas, financieras y operativas de los propietarios en relación con la gestión de inventarios.
+
+Introducción:
+
+Saludo y agradecimiento por su participación.
+
+Breve explicación del propósito de la entrevista, enfatizando cómo su retroalimentación contribuirá a desarrollar una solución que aborde efectivamente los desafíos de la gestión de inventarios en la industria restaurantera.
+
+Visión General y Estrategia:
+
+Considerando la relación entre la gestión de inventarios y los resultados de su restaurante, 	¿cómo influye la gestión de inventarios en la rentabilidad y eficiencia operativa de su 	r	estaurante?
+
+Respecto a sus metas estratégicas, ¿qué cambios o mejoras en la gestión de inventarios 		considera prioritarios para el futuro de su restaurante?
+
+Decisiones y Evaluaciones:
+
+Reflexionando sobre sus experiencias con la gestión de inventarios, ¿cuáles son las características que valora más en una herramienta dedicada a esta área?
+
+¿Puede identificar algún desafío recurrente en la gestión de su inventario que le gustaría 	que se abordara con una solución tecnológica específica?
+
+Impacto en la eficiencia operativa:
+
+Desde su perspectiva, ¿cómo podría una solución integral para la gestión de inventarios 		podría transformar la eficiencia operativa de su restaurante?
+
+¿Qué efectos espera que tenga nuestra solución en términos de reducir errores humanos y optimizar los costos relacionados con la gestión de inventarios?
+
+Interés y Adopción Potencial:
+
+Basándose en las características y beneficios que hemos discutido, ¿cuán interesado estaría en implementar nuestra solución en su restaurante?
+
+¿Qué consideraciones serían decisivas para usted al momento de adoptar una nueva solución de gestión de inventarios?
+
+Feedback Constructivo:
+
+Teniendo en cuenta su experiencia y las necesidades de su negocio, ¿hay alguna sugerencia o comentario que le gustaría hacernos para mejorar nuestra solución antes de su lanzamiento?"
+
+¿Hay alguna característica o servicio que, si se incluyera en nuestra plataforma, consideraría un verdadero diferenciador frente a otras opciones del mercado?
+
+Cierre:
+
+Oportunidad para preguntas finales o comentarios adicionales por parte del entrevistado.
+
+Agradecimiento sincero por el tiempo y las percepciones compartidas, reiterando el valor de su contribución al desarrollo del proyecto.
+
+Para el Personal de Restaurante:
+
+Objetivo: Comprender los desafíos diarios, las necesidades funcionales y las expectativas del personal de restaurante en relación con la gestión de inventarios, y cómo una aplicación diseñada para optimizar esta área podría mejorar su eficiencia y satisfacción laboral.
+
+Introducción:
+
+Saludo y agradecimiento por su participación.
+
+Breve explicación del propósito de la entrevista.
+
+Desafíos y Necesidades:
+
+Desde su perspectiva, ¿cuáles son los mayores desafíos al usar el actual sistema de gestión de inventarios?
+
+¿Qué tareas de gestión de inventarios consume más tiempo o resultan ser más problemáticas?
+
+Características deseadas en la aplicación:
+
+Considerando su rol y tareas diarias, ¿qué características le gustaría que una aplicación de gestión de inventarios incluyera para hacer su trabajo más fácil o eficiente?
+
+¿Hay alguna función que usted cree que podría prevenir los errores comunes que ocurren durante el proceso de gestión de inventarios? ¿Cómo podría mejorarse esto?
+
+Mejora en la Eficiencia y la comunicación:
+
+¿Cómo cree que una aplicación que proporciona seguimiento detallado y 	en tiempo real del inventario afectaría su trabajo diario?
+
+En términos de comunicación dentro del equipo, ¿cómo podría una solución tecnológica mejorar la forma en que usted y sus colegas gestionan y comparten información sobre el inventario?
+
+Capacitación y Facilidad de Uso:
+
+¿Qué tan importante es para usted la facilidad de uso y una curva de aprendizaje suave al introducir una nueva herramienta tecnológica en su trabajo?
+
+Si se implementa una nueva aplicación de gestión de inventarios, ¿qué tipo de capacitación o recursos encontraría más útiles para familiarizarse con ella?
+
+Feedback y Sugerencias:
+
+Basado en su experiencia, ¿hay algo específico que le gustaría que se abordara o incluyera en una aplicación de gestión de inventarios para que realmente se ajuste a sus necesidades?
+
+¿Hay alguna preocupación o sugerencia que tenga respecto a la implementación de una solución tecnológica para la gestión de inventarios en su lugar de trabajo?
+
+Cierre:
+
+Preguntas finales y agradecimiento por su tiempo
 * ** **
 ### Entrevista para :
 
