@@ -37,6 +37,8 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Contenido
 ## Tabla de contenidos
+    Student Outcome
+    Capítulo I: Introduccion        
             1.1.1. Descripción de la Startup
             1.1.2. Perfiles de integrantes del equipo
         1.2. Solution Profile
