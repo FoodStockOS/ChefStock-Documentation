@@ -224,16 +224,19 @@ Durante el primer sprint, nos enfocaremos en la creación de la Landing Page, di
             <td></td>
             <td></td>
             <td></td>
-        </tr>
-        <tr>
-            <td>FoodStockOS/ChefStock</td>
-            <td></td>
-            <td></td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
             <td>FoodStockOS/ChefStock</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock</td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
