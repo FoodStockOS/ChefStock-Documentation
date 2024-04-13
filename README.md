@@ -164,18 +164,14 @@ Estamos dedicados a impulsar la innovación y la excelencia en la gestión de in
 ---
 #### Nombre: Jose Daniel Mario Calderon Huaman (u202213076)
 
-> Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos.\ 
+> Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos.\
 > ![image](https://hackmd.io/_uploads/H1VuRVOg0.png)
-
-
 
 ---
 #### Nombre: Joan Jefferson Talizo Balbin(U202223781)
 
 > Mi nombre es **Joan Jefferson Talizo Balbin** con código de estudiante **u202223781**, soy estudiante de Ingeniería de Software. Actualmente, estoy enfocado en el Desarollo Web. Mi curiosidad innata me impulsa leer, jugar videojuegos, y constantemente aprender cosas nuevas. Valoro la resiliencia, empatía, el aprendizaje rápido y la perseverancia como mis principales fortalezas. Cuento con conocimientos en C++, Python, Java, SQL, JavaScript y aprendiendo más a detalle sobre React. Como miembro del equipo, me comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo.\
 > ![image](https://hackmd.io/_uploads/B1uFANulA.png)
-
-
 
 ---
 #### Nombre: Vittorio Marcelo Eduardo Espinoza(U20231B547)
