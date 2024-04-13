@@ -419,13 +419,6 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1.Competidores
-HomeHeavenly se introduce en el mercado de plataformas digitales inmobiliarias, donde enfrenta la competencia de sitios web establecidos que también facilitan la búsqueda y adquisición de propiedades. A continuación, se describen los competidores directos:
-
-* **Urbania**: Urbania ofrece una plataforma de listados inmobiliarios con una variedad de propiedades para alquiler y venta. Aunque su presencia en el mercado es notable, puede que no ofrezca la misma experiencia de usuario personalizada y las herramientas avanzadas que caracterizan a HomeHeavenly.
-* **Adondevivir**: Este portal inmobiliario es conocido por su amplia oferta de propiedades en Perú. Proporciona opciones tanto para compradores como para arrendatarios, pero HomeHeavenly busca diferenciarse mediante una plataforma más intuitiva y un proceso de búsqueda más eficiente.
-* **LaEncontre**: LaEncontré es un competidor que ofrece servicios similares de listado de propiedades. Sin embargo, HomeHeavenly se distingue por su enfoque en la personalización y la seguridad en el proceso de búsqueda de viviendas, así como por su misión de proporcionar una experiencia integral y satisfactoria.
-
-Estos competidores representan alternativas en el mercado inmobiliario digital, pero HomeHeavenly se posiciona como una opción innovadora que prioriza la experiencia del usuario y la eficiencia del proceso de búsqueda de propiedades.
 
 ### 2.1.1 Análisis Competitivo:
 
