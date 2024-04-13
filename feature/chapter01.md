@@ -20,31 +20,15 @@ Estamos dedicados a impulsar la innovación y la excelencia en la gestión de in
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
-#### Nombre: Tomás Ortiz Fajardo (U201910146)
 
-> Soy **Tomas Ortiz Fajardo** y me encuentro cursando la carrera de Ingeniería de Software. Siempre me ha gustado la programación, y tengo la suerte de poder aprender y dominar más de un lenguaje de programación, como por ejemplo Python, JavaScript, C++, entre otros. Espero poder colaborar a este trabajo lo suficiente para poder generar más buenos recuerdos y seguir aprendiendo.\
-> ![image](https://hackmd.io/_uploads/rkIKpNdx0.png)
+|                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Adrian](aasets/)                 | Soy Adrian Quiroz Cáceres, soy estudiante de la UPC y mi código es U202214864, tengo 19 años y estoy en el quinto ciclo de la carrera de ingeniería de software. Tengo conocimiento en C++, HTML, SQL                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ![Joan](assets/Joan_profile.png)   | Mi nombre es Joan Jefferson Talizo Balbin con código de estudiante u202223781, soy estudiante de Ingeniería de Software. Actualmente, estoy enfocado en el Desarollo Web. Mi curiosidad innata me impulsa leer, jugar videojuegos, y constantemente aprender cosas nuevas. Valoro la resilencia, empatía, el aprendizaje rápido y la perseverancia como mis principales fortalezas. Cuento con conocimientos en C++, Python, Java, SQL, JavaScript y aprendiendo más a detalle sobre React. Como miembro del equipo, me comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo. |
+| ![Jose](assets/Jose_profile.png)   | Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos.                                                                                                                                                                                                                                                                      |
+| ![Tomas](assets/Tomas_profile.png) | Soy Tomas Ortiz Fajardo y me encuentro cursando la carrera de Ingeniería de Software. Siempre me ha gustado la programación, y tengo la suerte de poder aprender y dominar más de un lenguaje de programación, como por ejemplo Python, JavaScript, C++, entre otros. Espero poder colaborar a este trabajo lo suficiente para poder generar más buenos recuerdos y seguir aprendiendo.|
+| ![Vittorio](assets/Victtorio)      | Soy Vittorio Marcelo Eduardo Espinoza, soy un estudiante de la UPC, tengo 21 años y estudio la carrera de Ingeniería de Software. Soy una persona solidaria, calmada, honesta y en la cual se puede confiar, así como tengo algunos conocimientos en programación. Para este trabajo, me esforzaré en ayudar a mi equipo en todo lo que pueda para que entre todos podamos terminarlo de manera adecuada y satisfactoria.                                                                                                                                                                                                           |
 
----
-#### Nombre: Jose Daniel Mario Calderon Huaman (u202213076)
-
-> Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos.\
-> ![image](https://hackmd.io/_uploads/H1VuRVOg0.png)
-
----
-#### Nombre: Joan Jefferson Talizo Balbin(U202223781)
-
-> Mi nombre es **Joan Jefferson Talizo Balbin** con código de estudiante **u202223781**, soy estudiante de Ingeniería de Software. Actualmente, estoy enfocado en el Desarollo Web. Mi curiosidad innata me impulsa leer, jugar videojuegos, y constantemente aprender cosas nuevas. Valoro la resiliencia, empatía, el aprendizaje rápido y la perseverancia como mis principales fortalezas. Cuento con conocimientos en C++, Python, Java, SQL, JavaScript y aprendiendo más a detalle sobre React. Como miembro del equipo, me comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo.\
-> ![image](https://hackmd.io/_uploads/B1uFANulA.png)
-
----
-#### Nombre: Vittorio Marcelo Eduardo Espinoza(U20231B547)
-> Soy **Vittorio Marcelo Eduardo Espinoza**, soy un estudiante de la UPC, tengo 21 años y estudio la carrera de Ingeniería de Software. Soy una persona solidaria, calmada, honesta y en la cual se puede confiar, así como tengo algunos conocimientos en programación. Para este trabajo, me esforzaré en ayudar a mi equipo en todo lo que pueda para que entre todos podamos terminarlo de manera adecuada y satisfactoria. 
-> 
----
-#### Nombre: Adrian Alonso Quiroz Cáceres (U202214864)
-> Soy **Adrian Quiroz Cáceres**, soy estudiante de la UPC y mi código es **U202214864**, tengo 19 años y estoy en el quinto ciclo de la carrera de ingeniería de software. Tengo conocimiento en C++, HTML, SQL  
-> 
 
 
 ## 1.2. Solution Profile
