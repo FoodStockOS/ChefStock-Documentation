@@ -53,7 +53,7 @@
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td>PEstrategias de marketing digital orientadas a la comunidad restaurantera peruana, participación en eventos gastronómicos y colaboración con influencers y chefs reconocidos. </td>
+			<td>PEstrategias de marketing digital orientadas a la comunidad restaurantera peruana, participación en eventos gastronómicos y colaboración con 				influencers y chefs reconocidos. </td>
 			<td>Publicidad digital, presencia en eventos comerciales y alianzas estratégicas con plataformas de e.-commerce. </td>
 			<td>Estrategias de marketing digital orientadas al desempeño y optimización de costos operativos.</td>
 			<td>Marketing B2B y colaboraciones con grandes cadenas y proveedores de la industria. </td>
@@ -61,17 +61,17 @@
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
 			<td>Productos &amp; Servicios</td>
-			<td>Dispositivos, servicios y software</td>
-			<td>Servicios y sistemas integrados</td>
-			<td>Dispositivos, servicios y software</td>
-			<td>Sistemas y servicios integrados</td>
+			<td>Software de gestión de inventarios que incluye seguimiento de ingredientes y suministros, con soporte para dispositivos móviles y capacidad de 				integración con otras plataformas y sistemas de gestión locales.</td>
+			<td>POS con gestión de inventario y facturación.</td>
+			<td>Sistema de ventas integrado con gestión de inventario y facturación. </td>
+			<td>Software de gestión de inventarios y almacenes adaptable a diversos sectores. </td>
 		</tr>
 		<tr>
 			<td>Precios &amp; Costos</td>
-			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
-			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
-			<td>Tarifas y precios de acuerdo a las necesidades del cliente</td>
-			<td>Tarifas y precios: desde 10 a 20 dólares.</td>
+			<td>Modelos de suscripción flexibles que se ajustan al tamaño y necesidades del restaurante, con opciones básicas y avanzadas</td>
+			<td>Ofrece diferentes planes de precios adaptados al tamaño del negocio.</td>
+			<td>Estructura de precios competitiva con planes personalizables según las necesidades del negocio. </td>
+			<td>Precios personalizados basados en el tamaño del almacén y las funcionalidades requeridas.</td>
 		</tr>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
