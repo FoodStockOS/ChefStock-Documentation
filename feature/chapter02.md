@@ -347,7 +347,6 @@ Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g
 
 * Por otro lado, expresa la necesidad de características que simplifiquen la entrada de datos, como el escaneo de productos, y una mejor integración con otros sistemas. Además, sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.
 
-
 ### 2.2.3. Análisis de entrevistas.
 
 
@@ -400,13 +399,13 @@ Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un rest
 ### 2.3.4. Empathy Mapping.
 **Empathy Mapping – SO1**
 
-En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
+- En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
 
 ![image](https://i.ibb.co/s5DvMBG/image2.jpg)	
 
 **Empathy Mapping – SO2**
 
-En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
+- En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
 
 ![image](https://i.ibb.co/cC1XPpG/image.jpg)
 ### 2.3.5. As-is Scenario Mapping.
