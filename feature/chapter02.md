@@ -131,22 +131,24 @@
 			<td>Oportunidades</td>
 			<td>
                 <ul>
-                    <li>Reconoce el estado del auto y notificar al usuario.</li>
+                    <li>Creciente mercado de restaurantes en Perú que buscan digitalizar y optimizar sus operaciones.
+
+Posibilidad de expandir servicios a otras regiones de LATAM con necesidades similares.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Alerta para varios usuarios como familiares y conocidos.</li>
+                    <li>Expansión a través de adaptaciones específicas del producto para atender a nichos de mercado dentro del sector restaurantero.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Especializado para el uso personal y rastreo.</li>
+                    <li>Posibilidad de capturar una mayor cuota de mercado a través de asociaciones estratégicas y mejoras en el producto.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Sistema avanzado y delimitado para ciertos usuarios.</li>
+                    <li>Alianzas con grandes cadenas de restaurantes y proveedores para ofrecer soluciones completas de gestión de inventario.</li>
                 </ul>
             </td>
 		</tr>
