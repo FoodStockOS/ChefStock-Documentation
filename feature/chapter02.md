@@ -85,22 +85,27 @@
 			<td>Fortalezas</td>
 			<td>
                 <ul>
-                    <li>Sistema de localización y sensores que muestran el entorno del vehículo en tiempo real.</li>
+                    <li>Diseñado específicamente para la industria restaurantera peruana, con una profunda comprensión de las necesidades locales.
+                    Características avanzadas como análisis predictivo y optimización automática de pedidos, lo cual ofrece un alto valor agregado.
+                    Interfaz intuitiva y experiencia de usuario adaptada al contexto cultural y operativo de Perú.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Especialización de sistemas integrados y detección avanzada.</li>
+                    <li>Operación robusta tanto en línea como fuera de línea, lo que proporciona flexibilidad a los negocios.
+                        Reconocimiento y establecimiento en el mercado LATAM, con una sólida base de clientes. </li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Uso especializado para la localización de personas y rastreo en ciertos casos.</li>
+                    <li>Solución integrada de punto de venta con facturación electrónica, lo cual es atractivo para negocios que buscan simplificar operaciones.
+                    Flexibilidad y adaptabilidad para negocios de diferentes tamaños y requerimientos. </li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Puede usar sistemas especializados en cierto casos.</li>
+                    <li>Alto nivel de personalización y funcionalidades avanzadas para la gestión de almacenes y cadenas de suministro.
+                    Adecuado para grandes cadenas de restaurantes con necesidades complejas de inventario. </li>
                 </ul>
             </td>
 		</tr>
