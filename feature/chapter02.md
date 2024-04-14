@@ -154,22 +154,24 @@
 			<td>Amenazas</td>
 			<td>
                 <ul>
-                    <li>El precio puede ser variable y en algunos casos molestoso.</li>
+                    <li>Competidores internacionales que entran al mercado peruano con grandes presupuestos de marketing y precios competitivos.
+
+Cambios en las regulaciones fiscales y en la industria restaurantera que requieran adaptaciones rápidas y costosas del software.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>El sistema no es muy conocido y puede ser difícil el uso en diferentes países.</li>
+                    <li>Innovación rápida en la industria que puede requerir actualizaciones y mejoras constantes para mantener la competitividad.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>La funcionalidad es limitada en cuanto a el uso vehicular.</li>
+                    <li>Cambios regulatorios en la facturación electrónica que podrían afectar la funcionalidad principal del software.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>El sistema puede ser limitado debido a la conexión a internet.</li>
+                    <li>La necesidad de integración con sistemas de terceros puede complicar su implementación.</li>
                 </ul>
             </td>
 		</tr>
