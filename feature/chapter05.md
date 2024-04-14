@@ -265,12 +265,14 @@ Como norma general, se espera que el código escrito por los miembros del equipo
 - Creacion Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
 
-   ![CreacionRepositorio](assets/Repository.png)
+![CreacionRepositorio](assets/Repository.png)
 
 
 
 2. Agregar a participantes
+
 ![CreacionRepositorio](assets/Members.png)
+
 ![Overview.png](assets/Overview.png)
 
 
