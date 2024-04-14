@@ -1,4 +1,9 @@
 # **Capítulo I: Introducción**
+## Student Outcome
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|----------------------|----------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Ortiz Fajardo, Tomás TB1 Esta entrega pude aportar con el Producto Design, tanto con los Style Guidelines, e Information Architecture, como con la Landing Page UI. Además, pude aportar con el Impact Mapping y el desarrollo de la Landing Page. | TB1: En conclusión, para esta primera entrega del proyecto podemos decir que el desarrollo de las |
+
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción del Startup
 <div class="text-justify">
