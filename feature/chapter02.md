@@ -19,7 +19,7 @@
 		</tr>
 		<tr>
 			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
-			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+			<td colspan="4">Este análisis nos permite identificar las fortalezas y debilidades de competidores como Vendty, Bsale y Logimov, y entender las necesidades de nuestros clientes. Esta información es clave para tomar decisiones estratégicas informadas, desarrollar nuestro producto y estrategias de mercado, y adaptarnos a las tendencias y cambios en la demanda del consumidor.</td>
 		</tr>
 		<tr>
 			<td colspan="2"></td>
@@ -31,32 +31,32 @@
 		<tr>
 			<td rowspan="2">Perfil</td>
 			<td>Overview</td>
-			<td>Sistema que mitiga (y previene) los robos a vehículos.</td>
-			<td>Sistema que previene accidentes vehiculares, y regula la seguridad vial</td>
-			<td>Sistema que localiza y alerta sobre la seguridad e integridad de una persona</td>
-			<td>Sistema que monitorea el automóvil y alerta ante cualquier accidente automovilístico</td>
+			<td>Un software especializado en gestión de inventarios para la industria restaurantera que integra funcionalidades de análisis predictivo y optimización automática de pedidos, proporcionando un sistema inteligente que mejora la eficiencia operativa y la rentabilidad. </td>
+			<td>Vendty es un sistema POS y de gestión de inventario conocido por su facilidad de uso y capacidad de operación tanto en línea como fuera de línea, ideal para PYMEs y restaurantes que buscan una integración con e-commerce. </td>
+			<td>Bsale es un software chileno que ofrece un sistema de ventas con funcionalidades de POS y facturación electrónica, apuntando a ser una solución eficiente y adaptada a diferentes tamaños de negocios. </td>
+			<td>Logimov es una plataforma de gestión de inventarios y almacenes altamente personalizable que soporta la trazabilidad y la logística compleja, ideal para grandes operaciones de restauración y cadenas de suministro. </td>
 		</tr>
 		<tr>
 			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-			<td>Monitoreo y vigilancia del vehículo en tiempo real</td>
-			<td>Regula la seguridad vehicular y relacionados</td>
-			<td>Localización de una persona en tiempo real</td>
-			<td>Detección de choques, servicios de mecánica; actúa como seguro</td>
+			<td>Diseño intuitivo para la industria restaurantera, con funcionalidades en la gestión de inventario en tiempo real. </td>
+			<td>Sistema integrado con e-commerce y operación en línea y fuera de línea. </td>
+			<td>Facilidad de implementación y cumplimiento de normativas fiscales para la facturación electrónica.</td>
+			<td>Alto grado de personalización y capacidad para manejar operaciones logísticas complejas. </td>
 		</tr>
 		<tr>
 			<td rowspan="2">Perfil de Marketing</td>
 			<td>Mercado objetivo</td>
-			<td>Todos los conductores en general; jóvenes y taxistas principalmente.</td>
-			<td>Todos los conductores en general</td>
-			<td>Todo el público</td>
-			<td>Todos los conductores en general</td>
+			<td>Restaurantes de diferentes tamaños que requieran la gestión de inventario adaptable y escalable. </td>
+			<td>PYMEs en el sector restaurantera que buscan una solución POS con gestión de inventario.</td>
+			<td>Diversos tipos de comercios, incluidos restaurantes y bares que requieren una gestión eficiente de ventas y stock. </td>
+			<td>Grandes cadenas de restauración y empresas con necesidades de gestión de inventario avanzadas.</td>
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td>Promociones y anuncios en páginas, sitios web, periódicos, etc., lugares comunes donde se encuentre nuestro segmento objetivo</td>
-			<td>Redes sociales y páginas de internet; también en parte con organizaciones</td>
-			<td>Anuncios de internet, recomendaciones y en general anuncios comunes</td>
-			<td>Anuncios de internet y páginas de internet; junto con seguros.</td>
+			<td>PEstrategias de marketing digital orientadas a la comunidad restaurantera peruana, participación en eventos gastronómicos y colaboración con influencers y chefs reconocidos. </td>
+			<td>Publicidad digital, presencia en eventos comerciales y alianzas estratégicas con plataformas de e.-commerce. </td>
+			<td>Estrategias de marketing digital orientadas al desempeño y optimización de costos operativos.</td>
+			<td>Marketing B2B y colaboraciones con grandes cadenas y proveedores de la industria. </td>
 		</tr>
 		<tr>
 			<td rowspan="3">Perfil de Producto</td>
