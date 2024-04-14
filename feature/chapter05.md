@@ -2,65 +2,154 @@
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
 - ### Proyect Management:
-    * ### Whatsapp:
-      Una <br>
-      [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
+  * ### Whatsapp:
+  
+    ![logo_WhatsApp](assets/logo_wsp.png)
+  
+    * Una Esta es una plataforma de mensajería instantánea que funciona con sistemas operativos Android e iOS, y ha sido desarrollada por Meta. También ofrece una versión web que puede ser utilizada desde cualquier navegador.<br>
+        [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
        
-    * ### Discord:
-      Una herramienta  <br>
+  * ### Discord:
+    ![logo_Discord.png](assets/logo_Discord.png)
+    * Plataforma diseñada para facilitar la coordinación y realización de reuniones internas de manera semanal.  <br>
       [Link De Descarga](https://discord.com/download)
-    * ### Trello:
-      Una aplicación  <br>
-      [Link De Registro o Inicio De Sesión](https://trello.com/es)
+    
+  * ### Trello:
+  ![logo_trello.png](assets/logo_trello.png)
+    * Aplicación destinada a la gestión de proyectos, que permite un seguimiento eficiente de las tareas asignadas a cada integrante del equipo. <br>
+    [Link De Registro o Inicio De Sesión](https://trello.com/es)
 
 - ### Requirement Management:
-    * ### Miro:
-      Un 
+
+  * ### Miro:
+    ![logo_miro.png](assets/logo_miro.png)
+    * Ofrece una variedad de plantillas para apoyar en la planificación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
-    * ### UXPressia:
-      Es una herramienta 
+  
+  * ### UXPressia:
+    ![uxpressia_logo.jpg](assets/uxpressia_logo.jpg)
+    * Herramienta online que permite el mapeo y análisis de las necesidades del cliente en proyectos específicos.<br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
-    * ### Structurizr:
-      Se trata de u<br>
+  
+  * ### Structurizr:
+    ![logo_Structurizr.png](assets/logo_Structurizr.png)
+    * Suite de herramientas que facilita la creación colaborativa de modelos C4 para la representación gráfica de productos.<br>
       [Link De Registro o Inicio De Sesión](https://structurizr.com)
-    * ### Vertabelo:
-      Una plataforma <br>
+  
+  * ### Vertabelo:
+    ![logo_vertabelo.png](assets/logo_vertabelo.png)
+    * Plataforma colaborativa que permite diseñar de manera conjunta diagramas de bases de datos. <br>
       [Link De Registro o Inicio De Sesión](https://vertabelo.com)
       
+
 - ###  Product UX/UI Design:
-    * ### Figma:
-      Una herramienta  <br>
+  * ### Figma:
+  
+    * Herramienta colaborativa útil para el desarrollo de wireframes y mockups.  <br>
       [Link De Registro,Inicio De Sesión y Descarga](https://www.figma.com/downloads/)
     * ### LucidChart:
-      Una herramienta  <br>
-      [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
+  ![logo_figma.png](assets/logo_figma.png)
+    * Permite la creación colaborativa de flujos de wireframes y mockups.  <br>
+    [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
+  
 - ###  Software Development:
-    * ### HTML5:
-      Es un  <br>
-      [Informacion Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
-    * ### CSS:
-      Un lenguaje  <br>
-      [Informacion Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
-    * ### JavaScript:
-      Un lenguaje  <br>
-      [Informacion Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
-    * ### WebStorm:
-      Un entorno <br>
-      [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
+* ### HTML5:
+    ![logo_HTML.png](assets/logo_HTML.png)
+
+  *  Lenguaje de marcado empleado para estructurar páginas web, incluyendo elementos como texto, imágenes y videos.<br>
+    [Informacion Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
+  
+  * ### CSS:
+  ![logo_CSS.png](assets/logo_CSS.png)
+  
+  * Lenguaje de diseño gráfico que se usa para formatear y estilizar documentos HTML.  <br>
+    [Informacion Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
+  
+  * ### JavaScript:
+  ![logo_JavaScript.png](assets/logo_JavaScript.png)
+  * Lenguaje de programación dinámico orientado a objetos, utilizado para añadir interactividad a las páginas web. <br>
+    [Informacion Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
+  
+  * ### WebStorm:
+
+  <img src="assets/logo_WebStorm.png" style="border: 0.5px solid black; ; width: 500px; height: auto;">
+
+
+  * Entorno de desarrollo integrado (IDE) especializado en JavaScript. <br>
+    [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
 
 - ###  Software Testing:
     * ### Lenguaje Gherkin:
-      Se trata de un  <br>
+    *  Lenguaje Específico de Dominio (DSL), diseñado para escribir pruebas de aceptación de una forma que sea comprensible para todos los participantes del proyecto.  <br>
 - ###  Software Documentation:
     * ### Github:
-      Se trata de <br>
+    * Plataforma de alojamiento para la gestión de código fuente, que facilita la colaboración entre desarrolladores. <br>
       [Link De Descarga]( https://desktop.github.com)
       [Link De Registro o Inicio De Sesión](https://github.com/login)
+  
+
 - ###  Software Deployment:
     * ### Github Pages:
-
+    *  Permite realizar despliegues directos de sitios web desde un repositorio de GitHub.
 
 ### 5.1.2. Source Code Management.
+
+Landing Page Repository: [Landing Page Repository]()
+- #### GitFlow Implementation:
+  * Para adoptar el modelo de ramificación Gitflow en nuestro manejo de versiones con Git, nos hemos guiado por el artículo "A successful Git branching model" de Vincent Driessen. Este recurso ha sido esencial para definir las convenciones específicas que implementaremos en nuestro proyecto.
+
+![Gitflow Vincent Driessen ](assets/Gitflow_graphic.png)
+
+- ### **Master o Main branch**
+   * Rama Principal, Master o Main branch,contiene el código que actualmente está en producción. Se la conoce como la Master branch o Main branch.
+
+  * #### Notación: master o main
+
+- ### **Develop branch**
+  * Rama de Desarrollo, Develop branch, en la rama Develop se acumulan las últimas actualizaciones y cambios que se incorporarán en la próxima versión. Funciona como un entorno de integración y prueba continua antes de que los cambios se fusionen con la rama principal para el despliegue en producción.
+  * #### Notación: develop
+
+- ### **Release branch**
+  * La rama de lanzamiento, Release branch, facilitará la preparación de una nueva versión del producto. Esta rama permitirá la corrección de errores y permitirá que la rama Develop reciba más actualizaciones.
+  
+    <br>Debe derivarse de la rama Develop.
+    <br>Debe fusionarse con la rama Develop y Master.
+  * #### Notación: release
+
+
+- ### **Feature branch**
+  * Rama de Características (Feature branch): Las Feature branches se utilizan para desarrollar nuevas funcionalidades que se incluirán en la siguiente versión o futuras iteraciones. Estas ramas deben originarse desde Develop y eventualmente fusionarse de vuelta a Develop.
+  
+    <br>Debe derivarse de la rama Develop.
+    <br>Debe fusionarse de vuelta a la rama Develop.
+  * #### Notación: release
+
+
+- ### **Hotfix branch**
+  * Rama de Corrección Rápida (Hotfix branch): Utilizada para abordar errores críticos en la versión de producción, la Hotfix branch permite la rápida implementación de soluciones mientras el equipo sigue trabajando en otras mejoras. Debe originarse desde Master y fusionarse tanto con Develop como con Master.
+    
+    <br>Debe derivarse de la rama Master
+    <br>Debe fusionarse con la rama Develop y Master
+  * #### Notación: hotfix
+
+
+- ### **Conventional Commits**
+  * Compromisos Convencionales (Conventional Commits): Es una metodología para estructurar los mensajes de confirmación de cambios en un formato estándar y semántico. Facilita la comunicación de modificaciones y ayuda en la automatización de registros de cambios. El formato típico incluye un encabezado, un cuerpo opcional y un pie de página opcional, y ayuda a describir claramente los cambios para un seguimiento y comprensión efectivos por parte del equipo.<br>
+La estructura de un commit debe seguir las siguientes pautas:
+~~~
+git commit -m “<type>[optional scope]: <title>“ -m “<description”
+~~~
+**Tipos De Conventional Commits**
+~~~
+1. **feat**: Se usa para describir una nueva característica o funcionalidad añadida al código.
+2. **fix**: Indica una corrección de errores o solución a un problema.
+3. **docs**: Se emplea para cambios o mejoras en la documentación del código.
+4. **style**: Describe cambios relacionados con el formato del código, como espacios en blanco, sangrías, etc., que no afectan su funcionalidad.
+5. **refactor**: Se utiliza para modificaciones en el código que no corrigen errores ni añaden nuevas funcionalidades, sino que mejoran su estructura o legibilidad.
+6. **test**: Indica la adición o modificación de pruebas unitarias o funcionales.
+7. **chore**: Se usa para cambios en el proceso de construcción o tareas de mantenimiento que no están directamente relacionadas con el código en sí.
+8. **perf**: Describe mejoras de rendimiento en el código.
+~~~
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
