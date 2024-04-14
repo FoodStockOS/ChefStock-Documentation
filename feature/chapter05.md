@@ -94,7 +94,7 @@
 
 ### 5.1.2. Source Code Management.
 
-Landing Page Repository: [Landing Page Repository]()
+Landing Page Repository: [Landing Page Repository](https://github.com/U201910146/ChefStock)
 - #### GitFlow Implementation:
   * Para adoptar el modelo de ramificación Gitflow en nuestro manejo de versiones con Git, nos hemos guiado por el artículo "A successful Git branching model" de Vincent Driessen. Este recurso ha sido esencial para definir las convenciones específicas que implementaremos en nuestro proyecto.
 
