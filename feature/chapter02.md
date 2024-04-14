@@ -108,22 +108,28 @@
 			<td>Debilidades</td>
 			<td>
                 <ul>
-                    <li>El sistema aún sigue en procesos de desarrollo y puede no tener todas las funcionalidades completas.</li>
+                    <li>Posiblemente menor reconocimiento de marca en comparación con competidores establecidos.
+
+Limitaciones en recursos para marketing y expansión en comparación con grandes empresas internacionales.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Falta de conocimiento y uso entre los potenciales usuarios.</li>
+                    <li>Puede que no ofrezca funciones tan especializadas para la industria restaurantera como las de un software dedicado.
+
+La competencia con plataformas internacionales altamente financiadas puede ser intensa.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Puede ser usado para el rastreo.</li>
+                    <li>Puede carecer de características avanzadas de gestión de inventario requeridas por restaurantes grandes o con operaciones complejas. Riesgo de diluir la marca al intentar atender a una amplia gama de tipos de negocios.</li>
                 </ul>
             </td>
 			<td>
                 <ul>
-                    <li>Puede ser de costo elevado para ciertos casos.</li>
+                    <li>Complejidad y posible sobredimensionamiento para pequeños y medianos restaurantes.
+
+Necesidad de inversión en formación y adaptación para el personal del restaurante.</li>
                 </ul>
             </td>
 		</tr>
