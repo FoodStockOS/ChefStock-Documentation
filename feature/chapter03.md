@@ -163,6 +163,8 @@
 
 # <a name="_bpcx799qz42z"></a>**3.3 IMPACT MAPPING**
 
+![ImpactMapping](assets/ImpactMapping.png)
+
 # <a name="_bpcx799qz42z"></a>**3.4 PRODUCT BACKLOG**
 
 **Product Backlog:**
