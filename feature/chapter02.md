@@ -338,7 +338,21 @@ User Persona 2 (Personal de Restaurantes)
 
 ![image](https://i.ibb.co/NKgndmV/User-Persona-2.png)
 ### 2.3.2. User Task Matrix.
+Los segmentos considerados para esta matriz son: 
 
+**Segmento Objetivo 1**: Propietarios de Restaurantes. 
+
+**Segmento Objetivo 2**: Personal de Restaurantes. 
+
+|  Tarea  | SO1   |   | SO2  |   |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|   |  Frecuencia  |  Importancia  |  Frecuencia | Importancia  |
+|Realizar inventario    |  Alta  |  Alta  |   Alta | Alta   |
+|  Verificar fechas de vencimiento  |  Alta  |  Alta  | Media   |  Alta  |
+|  Mantener actualizada la información del inventario  |  Alta  |  Alta  |  Alta  | Alta   |
+| Comunicar actualizaciones de inventario   |  Baja |  Baja |Alta    | Alta   |
+|Gestionar pedidos    |  Alta  |Alta   |  Media | Alta   |
+| Pronosticar la demanda futura   |Alta    |Alta    |  Media | Media   |
 ### 2.3.3. User Journey Mapping
 **User Journey Mapping – SO1** 
 
