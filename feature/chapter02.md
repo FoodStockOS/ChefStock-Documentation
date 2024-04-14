@@ -243,7 +243,7 @@ Agradecimiento sincero por el tiempo y las percepciones compartidas, reiterando 
 
 Objetivo: Comprender los desafíos diarios, las necesidades funcionales y las expectativas del personal de restaurante en relación con la gestión de inventarios, y cómo una aplicación diseñada para optimizar esta área podría mejorar su eficiencia y satisfacción laboral.
 
-####Introducción:
+#### Introducción:
 
 Saludo y agradecimiento por su participación.
 
