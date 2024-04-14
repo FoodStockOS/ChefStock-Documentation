@@ -328,13 +328,27 @@ Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g
 
 
 ## 2.3. Needfinding
-
-
+En esta sección se explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada.
 ### 2.3.2. User Task Matrix.
+**User Persona 1 (Propietarios de Restaurantes)**
 
+![image](https://i.ibb.co/b3ZPrSb/User-Persona-1.jpg)	
+
+User Persona 2 (Personal de Restaurantes)
+
+![image](https://i.ibb.co/qsx7rmj/User-Persona-2.jpg)
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping.
+**Empathy Mapping – SO1** 
+En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
+
+![image](https://i.ibb.co/s5DvMBG/image2.jpg)	
+
+**Empathy Mapping – SO2**	
+En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
+
+![image](https://i.ibb.co/cC1XPpG/image.jpg)
 
 ### 2.3.5. As-is Scenario Mapping.
 
