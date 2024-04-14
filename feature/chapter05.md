@@ -156,6 +156,20 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 
 ### 5.1.4. Software Deployment Configuration.
 
+- Creacion Landing Page:<br>
+1. Se crea un repositorio remoto en GitHub
+
+   ![CreacionRepositorio](assets/Repository.png)
+
+
+
+2. Agregar a participantes
+![CreacionRepositorio](assets/Members.png)
+![Overview.png](assets/Overview.png)
+
+
+3. Habilitmos Gitgub Pages en branch "master" y ruta "/(root)"
+   ![CreacionRepositorio](assets/Gitgub_Pages.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
