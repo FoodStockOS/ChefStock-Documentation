@@ -329,27 +329,38 @@ Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g
 
 ## 2.3. Needfinding
 En esta sección se explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada.
-### 2.3.2. User Task Matrix.
+### 2.3.1. User Personas.
 **User Persona 1 (Propietarios de Restaurantes)**
 
-![image](https://i.ibb.co/b3ZPrSb/User-Persona-1.jpg)	
+![image](https://i.ibb.co/J3Y6GS0/User-Persona-1.png)	
 
 User Persona 2 (Personal de Restaurantes)
 
-![image](https://i.ibb.co/qsx7rmj/User-Persona-2.jpg)
-### 2.3.3. User Journey Mapping
+![image](https://i.ibb.co/NKgndmV/User-Persona-2.png)
+### 2.3.2. User Task Matrix.
 
+### 2.3.3. User Journey Mapping
+**User Journey Mapping – SO1** 
+
+Este Journey Map muestra la trayectoria de Pedro Nanfuñay, propietario de un restaurante, en el proceso de gestión de inventarios. El cual, busca mejorar la eficiencia operativa y reducir costos en su negocio. 
+
+
+
+**User Journey Mapping – SO2** 
+
+Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un restaurante que se ha comprometido a optimizar los procesos de gestión de inventarios. 
 ### 2.3.4. Empathy Mapping.
-**Empathy Mapping – SO1** 
+**Empathy Mapping – SO1**
+
 En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
 
 ![image](https://i.ibb.co/s5DvMBG/image2.jpg)	
 
-**Empathy Mapping – SO2**	
+**Empathy Mapping – SO2**
+
 En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
 
 ![image](https://i.ibb.co/cC1XPpG/image.jpg)
-
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language
