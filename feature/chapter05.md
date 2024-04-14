@@ -375,7 +375,7 @@ Durante el transcurso del primer sprint, todos los miembros del equipo de FoodSt
 
 Presentamos pruebas del progreso individual:
 
-
+ ![Commits Tomas](assets/commitstomas.png)
 
 ## Conclusiones 
 
