@@ -276,8 +276,55 @@ Basado en su experiencia, ¿hay algo específico que le gustaría que se abordar
 Cierre:
 
 Preguntas finales y agradecimiento por su tiempo
+
 * ** **
-### Entrevista para :
+### Entrevista para propietarios de restaurantes:
+
+
+Objetivo: Comprender las prioridades estratégicas, financieras y operativas de los propietarios en relación con la gestión de inventarios.
+
+Introducción:
+
+Saludo y agradecimiento por su participación.
+
+Breve explicación del propósito de la entrevista, enfatizando cómo su retroalimentación contribuirá a desarrollar una solución que aborde efectivamente los desafíos de la gestión de inventarios en la industria restaurantera.
+
+Visión General y Estrategia:
+
+Considerando la relación entre la gestión de inventarios y los resultados de su restaurante, 	¿cómo influye la gestión de inventarios en la rentabilidad y eficiencia operativa de su 	r	estaurante?
+
+Respecto a sus metas estratégicas, ¿qué cambios o mejoras en la gestión de inventarios 		considera prioritarios para el futuro de su restaurante?
+
+Decisiones y Evaluaciones:
+
+Reflexionando sobre sus experiencias con la gestión de inventarios, ¿cuáles son las características que valora más en una herramienta dedicada a esta área?
+
+¿Puede identificar algún desafío recurrente en la gestión de su inventario que le gustaría 	que se abordara con una solución tecnológica específica?
+
+Impacto en la eficiencia operativa:
+
+Desde su perspectiva, ¿cómo podría una solución integral para la gestión de inventarios 		podría transformar la eficiencia operativa de su restaurante?
+
+¿Qué efectos espera que tenga nuestra solución en términos de reducir errores humanos y optimizar los costos relacionados con la gestión de inventarios?
+
+Interés y Adopción Potencial:
+
+Basándose en las características y beneficios que hemos discutido, ¿cuán interesado estaría en implementar nuestra solución en su restaurante?
+
+¿Qué consideraciones serían decisivas para usted al momento de adoptar una nueva solución de gestión de inventarios?
+
+Feedback Constructivo:
+
+Teniendo en cuenta su experiencia y las necesidades de su negocio, ¿hay alguna sugerencia o comentario que le gustaría hacernos para mejorar nuestra solución antes de su lanzamiento?"
+
+¿Hay alguna característica o servicio que, si se incluyera en nuestra plataforma, consideraría un verdadero diferenciador frente a otras opciones del mercado?
+
+Cierre:
+
+Oportunidad para preguntas finales o comentarios adicionales por parte del entrevistado.
+
+Agradecimiento sincero por el tiempo y las percepciones compartidas, reiterando el valor de su contribución al desarrollo del proyecto.
+
 
 * ** **
 ### Entrevista para :
