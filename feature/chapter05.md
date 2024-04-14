@@ -154,6 +154,112 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+
+Como norma general, se espera que el código escrito por los miembros del equipo esté en inglés.
+- ### HTML
+  - #### Use Lowercase Element Names:
+    Es aconsejable usar minúsculas para los nombres de los elementos HTML.
+      ~~~ 
+    <body>
+          <p>Esto es un párrafo</p>
+    <body>
+     ~~~
+  - #### Close All HTML Elements:
+    Es importante asegurarse de cerrar correctamente todos los elementos HTML.
+      ~~~ 
+    <body>
+          <p>Esto es un párrafo</p>
+          <p>Esto es otro párrafo</p>
+    <body>
+     ~~~
+    
+
+  - #### Use Lowercase Attribute Names:
+    Se recomienda usar minúsculas para los nombres de los atributos en HTML.
+    ~~~ 
+    <a href="https://www.w3schools.com/html/">Visit our HTMLtutorial</a>
+     ~~~
+    
+
+  - #### Always Specify alt, width, and height for Images:
+    Es prudente usar estas especificaciones para mejorar la accesibilidad en caso de que la imagen no se muestre.
+    ~~~ 
+    <img src="html5.gif" alt="HTML5" 
+    style="width:128px;height:128px">
+    ~~~ 
+  - #### Spaces and Equal Signs:
+    Se sugiere evitar espacios entre el nombre del atributo, el signo igual y el valor para mejorar la legibilidad.
+    ~~~ 
+    <link rel="stylesheet" href="styles.css">
+    ~~~ 
+- ### CSS
+  - #### ID and Class Naming
+    Se deben usar nombres significativos que expresen claramente la función del elemento.
+    ~~~ 
+    #gallery {}
+    #login {}
+    .video {}
+     ~~~
+  - #### ID and Class Name Style
+    Prefiera nombres cortos pero descriptivos para facilitar la comprensión de su propósito.
+    ~~~ 
+    #nav {}
+    .author {}
+    ~~~
+  - #### Shorthand Properties
+    Se aconseja usar propiedades CSS en forma abreviada para aumentar la eficiencia y comprensibilidad del código.
+     ~~~ 
+     border-top: 0;
+     font: 100%/1.6 palatino, georgia, serif;
+     padding: 0 1em 2em;
+     ~~~ 
+  - #### 0 and Units
+    Se recomienda omitir la unidad después de un valor cero para optimizar el tamaño y la legibilidad del código.
+     ~~~ 
+     margin: 0;
+     padding: 0;
+     ~~~
+  - #### Declaration Order
+    Se sugiere ordenar las declaraciones alfabéticamente para mejorar el mantenimiento y recordación del código.
+    ~~~ 
+     background: fuchsia;
+     border: 1px solid;
+     border-radius: 4px;
+     color: black;
+     text-align: center;
+     text-indent: 2em;
+    ~~~  
+- ### JAVASCRIPT
+  - #### Use expanded syntax
+    Se recomienda escribir cada declaración en una nueva línea, con las llaves abriendo en la misma línea de la declaración y cerrando en una nueva línea al final.
+    ~~~ 
+    function myFunc() {
+     console.log('Hello!');
+    };
+    ~~~
+  - #### Variable naming
+    Utilizar lowerCamelCase para el nombre de las variables.
+    ~~~ 
+    let playerScore = 0;
+    let speed = distance / time;
+    ~~~  
+  - #### Declaring variables
+    Se prefiere el uso de let y const sobre var.
+    ~~~ 
+    const myName = 'Chris';
+    console.log(myName);
+    let myAge = '40';
+    myAge++;
+    console.log('Happy birthday!');
+    ~~~ 
+  - #### Function naming
+    Usar lowerCamelCase y empezar con un verbo que describa la acción de la función.
+    ~~~ 
+    function sayHello() {
+    alert('Hello!');
+    };
+    ~~~
+
 ### 5.1.4. Software Deployment Configuration.
 
 - Creacion Landing Page:<br>
