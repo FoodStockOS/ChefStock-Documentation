@@ -53,7 +53,7 @@
 		</tr>
 		<tr>
 			<td>Estrategias de marketing</td>
-			<td>PEstrategias de marketing digital orientadas a la comunidad restaurantera peruana, participación en eventos gastronómicos y colaboración con influencers y chefs reconocidos. </td>
+			<td>Estrategias de marketing digital orientadas a la comunidad restaurantera peruana, participación en eventos gastronómicos y colaboración con influencers y chefs reconocidos. </td>
 			<td>Publicidad digital, presencia en eventos comerciales y alianzas estratégicas con plataformas de e.-commerce. </td>
 			<td>Estrategias de marketing digital orientadas al desempeño y optimización de costos operativos.</td>
 			<td>Marketing B2B y colaboraciones con grandes cadenas y proveedores de la industria. </td>
@@ -200,112 +200,124 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 ### 2.2.1. Diseño de entrevistas.
 
 
-Preguntas de las Entrevistas:
+### Preguntas de las Entrevistas
 
-
-
-* ** **
 ### Entrevista para propietarios de restaurantes:
 
 
-Objetivo: Comprender las prioridades estratégicas, financieras y operativas de los propietarios en relación con la gestión de inventarios.
+### Objetivo: 
+- Comprender las prioridades estratégicas, financieras y operativas de los propietarios en relación con la gestión de inventarios.
 
-Introducción:
+### Introducción:
 
-Saludo y agradecimiento por su participación.
+- Saludo y agradecimiento por su participación.
 
-Breve explicación del propósito de la entrevista, enfatizando cómo su retroalimentación contribuirá a desarrollar una solución que aborde efectivamente los desafíos de la gestión de inventarios en la industria restaurantera.
+- Breve explicación del propósito de la entrevista, enfatizando cómo su retroalimentación contribuirá a desarrollar una solución que aborde efectivamente los desafíos de la gestión de inventarios en la industria restaurantera.
 
-Visión General y Estrategia:
+### Visión General y Estrategia:
 
-Considerando la relación entre la gestión de inventarios y los resultados de su restaurante, 	¿cómo influye la gestión de inventarios en la rentabilidad y eficiencia operativa de su 	r	estaurante?
+- Considerando la relación entre la gestión de inventarios y los resultados de su restaurante, 	¿cómo influye la gestión de inventarios en la rentabilidad y eficiencia operativa de su 	r	estaurante?
 
-Respecto a sus metas estratégicas, ¿qué cambios o mejoras en la gestión de inventarios 		considera prioritarios para el futuro de su restaurante?
+- Respecto a sus metas estratégicas, ¿qué cambios o mejoras en la gestión de inventarios 		considera prioritarios para el futuro de su restaurante?
 
-Decisiones y Evaluaciones:
+### Decisiones y Evaluaciones:
 
-Reflexionando sobre sus experiencias con la gestión de inventarios, ¿cuáles son las características que valora más en una herramienta dedicada a esta área?
+- Reflexionando sobre sus experiencias con la gestión de inventarios, ¿cuáles son las características que valora más en una herramienta dedicada a esta área?
 
-¿Puede identificar algún desafío recurrente en la gestión de su inventario que le gustaría 	que se abordara con una solución tecnológica específica?
+- ¿Puede identificar algún desafío recurrente en la gestión de su inventario que le gustaría 	que se abordara con una solución tecnológica específica?
 
-Impacto en la eficiencia operativa:
+### Impacto en la eficiencia operativa:
 
-Desde su perspectiva, ¿cómo podría una solución integral para la gestión de inventarios 		podría transformar la eficiencia operativa de su restaurante?
+- Desde su perspectiva, ¿cómo podría una solución integral para la gestión de inventarios 		podría transformar la eficiencia operativa de su restaurante?
 
-¿Qué efectos espera que tenga nuestra solución en términos de reducir errores humanos y optimizar los costos relacionados con la gestión de inventarios?
+- ¿Qué efectos espera que tenga nuestra solución en términos de reducir errores humanos y optimizar los costos relacionados con la gestión de inventarios?
 
-Interés y Adopción Potencial:
+### Interés y Adopción Potencial:
 
-Basándose en las características y beneficios que hemos discutido, ¿cuán interesado estaría en implementar nuestra solución en su restaurante?
+- Basándose en las características y beneficios que hemos discutido, ¿cuán interesado estaría en implementar nuestra solución en su restaurante?
 
-¿Qué consideraciones serían decisivas para usted al momento de adoptar una nueva solución de gestión de inventarios?
+- ¿Qué consideraciones serían decisivas para usted al momento de adoptar una nueva solución de gestión de inventarios?
 
-Feedback Constructivo:
+### Feedback Constructivo:
 
-Teniendo en cuenta su experiencia y las necesidades de su negocio, ¿hay alguna sugerencia o comentario que le gustaría hacernos para mejorar nuestra solución antes de su lanzamiento?"
+- Teniendo en cuenta su experiencia y las necesidades de su negocio, ¿hay alguna sugerencia o comentario que le gustaría hacernos para mejorar nuestra solución antes de su lanzamiento?"
 
-¿Hay alguna característica o servicio que, si se incluyera en nuestra plataforma, consideraría un verdadero diferenciador frente a otras opciones del mercado?
+- ¿Hay alguna característica o servicio que, si se incluyera en nuestra plataforma, consideraría un verdadero diferenciador frente a otras opciones del mercado?
 
-Cierre:
+### Cierre:
 
-Oportunidad para preguntas finales o comentarios adicionales por parte del entrevistado.
+- Oportunidad para preguntas finales o comentarios adicionales por parte del entrevistado.
 
-Agradecimiento sincero por el tiempo y las percepciones compartidas, reiterando el valor de su contribución al desarrollo del proyecto.
+- Agradecimiento sincero por el tiempo y las percepciones compartidas, reiterando el valor de su contribución al desarrollo del proyecto.
 
 
 * ** **
 ### Entrevista para el personal de restaurante:
 
-Objetivo: Comprender los desafíos diarios, las necesidades funcionales y las expectativas del personal de restaurante en relación con la gestión de inventarios, y cómo una aplicación diseñada para optimizar esta área podría mejorar su eficiencia y satisfacción laboral.
+### Objetivo: 
+- Comprender los desafíos diarios, las necesidades funcionales y las expectativas del personal de restaurante en relación con la gestión de inventarios, y cómo una aplicación diseñada para optimizar esta área podría mejorar su eficiencia y satisfacción laboral.
 
-#### Introducción:
+### Introducción:
 
-Saludo y agradecimiento por su participación.
+- Saludo y agradecimiento por su participación.
 
-Breve explicación del propósito de la entrevista.
+- Breve explicación del propósito de la entrevista.
 
-Desafíos y Necesidades:
+### Desafíos y Necesidades:
 
-Desde su perspectiva, ¿cuáles son los mayores desafíos al usar el actual sistema de gestión de inventarios?
+- Desde su perspectiva, ¿cuáles son los mayores desafíos al usar el actual sistema de gestión de inventarios?
 
-¿Qué tareas de gestión de inventarios consume más tiempo o resultan ser más problemáticas?
+- ¿Qué tareas de gestión de inventarios consume más tiempo o resultan ser más problemáticas?
 
-Características deseadas en la aplicación:
+### Características deseadas en la aplicación:
 
-Considerando su rol y tareas diarias, ¿qué características le gustaría que una aplicación de gestión de inventarios incluyera para hacer su trabajo más fácil o eficiente?
+- Considerando su rol y tareas diarias, ¿qué características le gustaría que una aplicación de gestión de inventarios incluyera para hacer su trabajo más fácil o eficiente?
 
-¿Hay alguna función que usted cree que podría prevenir los errores comunes que ocurren durante el proceso de gestión de inventarios? ¿Cómo podría mejorarse esto?
+- ¿Hay alguna función que usted cree que podría prevenir los errores comunes que ocurren durante el proceso de gestión de inventarios? ¿Cómo podría mejorarse esto?
 
-Mejora en la Eficiencia y la comunicación:
+### Mejora en la Eficiencia y la comunicación:
 
-¿Cómo cree que una aplicación que proporciona seguimiento detallado y 	en tiempo real del inventario afectaría su trabajo diario?
+- ¿Cómo cree que una aplicación que proporciona seguimiento detallado y 	en tiempo real del inventario afectaría su trabajo diario?
 
-En términos de comunicación dentro del equipo, ¿cómo podría una solución tecnológica mejorar la forma en que usted y sus colegas gestionan y comparten información sobre el inventario?
+- En términos de comunicación dentro del equipo, ¿cómo podría una solución tecnológica mejorar la forma en que usted y sus colegas gestionan y comparten información sobre el inventario?
 
-Capacitación y Facilidad de Uso:
+### Capacitación y Facilidad de Uso:
 
-¿Qué tan importante es para usted la facilidad de uso y una curva de aprendizaje suave al introducir una nueva herramienta tecnológica en su trabajo?
+- ¿Qué tan importante es para usted la facilidad de uso y una curva de aprendizaje suave al introducir una nueva herramienta tecnológica en su trabajo?
 
-Si se implementa una nueva aplicación de gestión de inventarios, ¿qué tipo de capacitación o recursos encontraría más útiles para familiarizarse con ella?
+- Si se implementa una nueva aplicación de gestión de inventarios, ¿qué tipo de capacitación o recursos encontraría más útiles para familiarizarse con ella?
 
-Feedback y Sugerencias:
+### Feedback y Sugerencias:
 
-Basado en su experiencia, ¿hay algo específico que le gustaría que se abordara o incluyera en una aplicación de gestión de inventarios para que realmente se ajuste a sus necesidades?
+- Basado en su experiencia, ¿hay algo específico que le gustaría que se abordara o incluyera en una aplicación de gestión de inventarios para que realmente se ajuste a sus necesidades?
 
-¿Hay alguna preocupación o sugerencia que tenga respecto a la implementación de una solución tecnológica para la gestión de inventarios en su lugar de trabajo?
+- ¿Hay alguna preocupación o sugerencia que tenga respecto a la implementación de una solución tecnológica para la gestión de inventarios en su lugar de trabajo?
 
-Cierre:
+### Cierre:
 
-Preguntas finales y agradecimiento por su tiempo
-
+- Preguntas finales y agradecimiento por su tiempo
+***
 
 ### 2.2.2. Registro de entrevistas.
 
 
-* **Primera Entrevista:**
+* **Primera Entrevista: Personal de restaurante**
 
--------
-* **Segunda Entrevista:**
+![Entrevista1_Seg01.png](assets/Entrevista1_Seg01.png)
+
+[Url de la entrevista](https://drive.google.com/file/d/1LG0X_BuGkmrAfMr10enovunPHjfzdZXj/view?usp=sharing )
+- Edad: 41
+
+- Distrito: San Miguel
+
+- Segmento: Personal del restaurante
+
+
+- Resumen: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión en lo que respecta a la gestión de inventarios. Nos cuenta acerca de la dificultad para mantener actualizada la información de inventario, especialmente en momentos de alta demanda o fluctuaciones en los suministros, así como el largo tiempo que le toma hacer la realización de conteos físicos periódicos para verificar el inventario. Cree que una aplicación de seguimiento permitiría una visión más clara y precisa del inventario disponible, lo que facilitaría la planificación de pedidos, la gestión de stock y la colaboración al permitir compartir información actualizada sobre inventario entre diferentes departamentos o turnos de trabajo. Finalmente, le gustaría ver incluido algunos recordatorios o alarmas para fechas de caducidad de productos, así como herramientas para analizar tendencias de ventas y pronosticar la demanda futura.
+
+***
+* **Segunda Entrevista: Propietario de restaurante**
+
 ![image](https://hackmd.io/_uploads/B11nFHde0.png)
 <div class="text-center"><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213076_upc_edu_pe/EVHUnAzBVnZHulCGeccqCWEBa7cu8QsQq32zoSsg9MGJ8Q?e=TS7CRE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver Entrevista</a></div>
 <br>
@@ -314,23 +326,26 @@ Preguntas finales y agradecimiento por su tiempo
 * **Edad:** 21
 * **Distrito:** La Perla
 * **Segmento:** Propietario de Restaurante 
+* 
 * **Resumen:** Pedro Nanfuñay, propietario de un restaurante, proporcionó una visión profunda sobre la gestión de inventarios en su establecimiento. Destacó la importancia crítica de una gestión efectiva para controlar costos, evitar desperdicios y garantizar un flujo operativo eficiente. Identificó la necesidad de mejorar la eficiencia a través de herramientas tecnológicas que faciliten el seguimiento del inventario y la predicción de necesidades futuras. En particular, resaltó el desafío de rastrear fechas de vencimiento y expresó interés en soluciones que automatizaran estas tareas. Pedro mostró disposición para explorar soluciones tecnológicas que se adapten a las necesidades específicas de su restaurante, priorizando la facilidad de uso, la integración con sistemas existentes y el costo. Proporcionó feedback constructivo, enfatizando la importancia de la intuitividad y la capacidad de prever necesidades de inventario como características diferenciales clave. En general, su participación ofreció valiosas percepciones para el desarrollo exitoso de nuestra solución de gestión de inventarios en la industria restaurantera.
 -----
 
 
 * **Tercera Entrevista: Personal del restaurante**
 
-  * Nombre y Apellidos: Rosa Cuadros
-  * Edad: 22 años
-  * Distrito: Chorrilos
+  
   
 ![Entrevista_Seg02.png](assets/Entrevista_Seg02.png)
 Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EfdEm34j-KlNituEuq-m-cAB7HAxFHfuwWYUIZ0l4yFN5w?e=IdLelc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-* **La entrevista realizada se aborda las dificultades y necesidades de gestión de inventarios en un restaurante. La persona entrevistada, Rosa Cuadros, señala problemas con la complejidad de la interfaz del sistema actual y su dificultad de integración, lo que genera inexactitudes en los informes y actualizaciones de inventario. Asimismo, destaca la tarea problemática de ingresar datos manualmente, lo que a menudo lleva a errores debido a la confusión y sobrecarga de trabajo.**
+- Nombre y Apellidos: Rosa Cuadros
+- Edad: 22 años
+- Distrito: Chorrilos
+
+* La entrevista realizada se aborda las dificultades y necesidades de gestión de inventarios en un restaurante. La persona entrevistada, Rosa Cuadros, señala problemas con la complejidad de la interfaz del sistema actual y su dificultad de integración, lo que genera inexactitudes en los informes y actualizaciones de inventario. Asimismo, destaca la tarea problemática de ingresar datos manualmente, lo que a menudo lleva a errores debido a la confusión y sobrecarga de trabajo.
 
 
-* **Por otro lado, expresa la necesidad de características que simplifiquen la entrada de datos, como el escaneo de productos, y una mejor integración con otros sistemas. Además, sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.**
+* Por otro lado, expresa la necesidad de características que simplifiquen la entrada de datos, como el escaneo de productos, y una mejor integración con otros sistemas. Además, sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -341,6 +356,9 @@ Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g
 |Pedro destaca la importancia crítica de una gestión efectiva de inventarios para controlar costos y garantizar un flujo operativo sin problemas en su restaurante. |                                               Rosa destaca la tarea problemática de ingresar datos manualmente, lo que a menudo lleva a errores debido a la confusión y sobrecarga de trabajo.                                                |
 |Pedro identifica la necesidad de una solución tecnológica que simplifique el seguimiento de inventario y la predicción de necesidades futuras, mientras destaca la importancia de la facilidad de uso y la personalización.| Rosa sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. |
 |Pedro muestra un fuerte interés en adoptar soluciones tecnológicas que se adapten a las necesidades específicas de su restaurante, enfatizando la importancia de la intuitividad y la capacidad de prever necesidades de inventario como características clave.|                                      Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.                                      |
+||Carla nota la dificultad para mantener actualizada la información de inventario, así como lo mucho que le toma hacer la realización de conteos físicos periódicos de verificación. |
+||Carla cree que una aplicación de gestión permitiría una visión más clara y precisa del inventario disponible, lo que facilitaría la planificación de pedidos, la gestión de stock y la colaboración entre trabajadores.|
+||Carla piensa que algunas funciones útiles pueden ser el implementar recordatorios o alarmas para fechas de caducidad de productos y herramientas para analizar tendencias de ventas y pronosticar la demanda futura. |
 
 
 ## 2.3. Needfinding
