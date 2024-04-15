@@ -76,11 +76,19 @@ Esta guía de navegación les proporciona la seguridad de que siempre podrán re
 
 
 ### 4.3. Landing Page UI Design.
-
-
 #### 4.3.1. Landing Page Wireframe.
-
-
+**Header:** Acá se muestra el header, en donde decidimos mantenerlo simple y conciso. A la izquierda se encuentra nuestro logo, después los botones principales de la página como Plans y About Us, y al final a la derecha los botones de Login y Sign Up.\
+![image](https://hackmd.io/_uploads/SyvRU-ce0.png)\
+**Presentation:** Acá se puede ver la presentación de nuestra página. Toda la información que se necesita mostrar al inicio estará en esta parte, además de imágenes y datos relevantes.\
+![image](https://hackmd.io/_uploads/H1ilP-clR.png)\
+**ChefStock:** Acá se puede ver el encabezado ”ChefStock” de la página. Tiene la misma idea que la pagina Presentation, en donde tiene que mostrar imágenes y datos relevantes para el usuario, además de texto hablando sobre la aplicación.\ 
+![image](https://hackmd.io/_uploads/B1hzPZ9lR.png)\
+**Plans:** Acá se pueden ver los 3 planes que ofrecemos a los usuarios, junto a los beneficios de cada uno y sus costos.\ 
+![image](https://hackmd.io/_uploads/rJSEDb9g0.png)\
+**About Us:** Acá se puede apreciar la presentación de los integrantes del equipo, cada uno con su foto personal y su nombre completo.\ 
+![image](https://hackmd.io/_uploads/r1JiPb9lA.png)\
+**Footer:** Acá se puede ver el footer con sus respectivos botones, similares a los del header, como Presentation, Plans, y otros datos relevantes para la página.\ 
+![image](https://hackmd.io/_uploads/rkv3D-9l0.png)\
 #### 4.3.2. Landing Page Mock-up.
 
 ### 4.4. Web Applications UX/UI Design.
@@ -101,24 +109,34 @@ Esta guía de navegación les proporciona la seguridad de que siempre podrán re
 ### 4.5. Web Applications Prototyping.
 
 ### 4.6. Domain-Driven Software Architecture.
-#### 4.6.1. Software Architecture Context Diagram.
+### 4.6.1. Software Architecture Context Diagram
+![image](https://hackmd.io/_uploads/ryZQHW9xC.png)
+### 4.6.2. Software Architecture Container Diagrams
+![image](https://hackmd.io/_uploads/ryAmH-ceC.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+![image](https://hackmd.io/_uploads/HJuLB-9eC.png)
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+![image](https://hackmd.io/_uploads/BkQuBZ5lR.png)
 
 
-#### 4.6.2. Software Architecture Container Diagrams.
 
+### 4.7.2. Class Dictionary
+**Trabajador:** Persona que trabaja en el restaurante y se encarga de diferentes actividades en el lugar. 
 
-#### 4.6.3. Software Architecture Components Diagrams.
+**Restaurante:** Entidad a donde los clientes van a realizar pedidos y se ubica el inventario. 
 
+**Cliente:** Persona que va al restaurante a pedir comida y puede hacer comentarios al respecto. 
 
-### 4.7. Software Object-Oriented Design.
-#### 4.7.1. Class Diagrams.
+**Inventario:** Lugar en donde se almacena todos los productos que se utilizara en el restaurante. 
 
-
-#### 4.7.2. Class Dictionary.
-
-
-### 4.8. Database Design.
-#### 4.8.1. Database Diagram.
+**Producto:** Entidad que se vende en los restaurantes y se guarda en el inventario por cierto periodo de tiempo.
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+![image](https://hackmd.io/_uploads/S12iSZ9gR.png)
 
 
 
