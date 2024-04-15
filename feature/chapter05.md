@@ -47,8 +47,10 @@
   
     * Herramienta colaborativa útil para el desarrollo de wireframes y mockups.  <br>
       [Link De Registro,Inicio De Sesión y Descarga](https://www.figma.com/downloads/)
-    * ### LucidChart:
+
   ![logo_figma.png](assets/logo_figma.png)
+
+  * ### LucidChart:
     * Permite la creación colaborativa de flujos de wireframes y mockups.  <br>
     [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
   
