@@ -423,35 +423,35 @@ Durante el primer sprint, nos enfocaremos en la creación de la Landing Page, di
     <tbody>
         <tr>
             <td>FoodStockOS/ChefStock</td>
+            <td>feature/chapter-01</td>
+            <td>4db17e2cbcf8959fa11ab61390aac57ac1961bbf</td>
+            <td>Create chapter01.md</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>13/04/24</td>
         </tr>
         <tr>
             <td>FoodStockOS/ChefStock</td>
+            <td>feature/chapter-01</td>
+            <td>d31321ad518e1743ab49c5e39fdb7d24d12a2fa4</td>
+            <td>feat: added Team member profiles</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>13/04/24</td>
         </tr>
         <tr>
             <td>FoodStockOS/ChefStock</td>
+            <td>feature/chapter-01</td>
+            <td>9ab50dcc4f1a50ea60f5947705c20f271139f1ac</td>
+            <td>Update chapter01.md</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>14/04/24</td>
         </tr>
         <tr>
             <td>FoodStockOS/ChefStock</td>
+            <td>feature/chapter-05</td>
+            <td>41db7cb2bef5d3aa66bd5de46e430f37a177de84</td>
+            <td>feat: added Landing Page Repository</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>14/04/24</td>
         </tr>
     </tbody>
 </table>
