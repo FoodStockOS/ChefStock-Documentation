@@ -195,35 +195,35 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 
 - Diferenciación de Producto: 
 
-Resalta las características únicas de tu solución que satisfacen necesidades no cubiertas por Vendty, Bsale y Logimov, como una mayor personalización para restaurantes específicos o una mejor experiencia de usuario para la gestión de inventarios perecederos. 
+	* Resalta las características únicas de tu solución que satisfacen necesidades no cubiertas por Vendty, Bsale y Logimov, como una mayor personalización para restaurantes específicos o una mejor experiencia de usuario para la gestión de inventarios perecederos. 
 
-Desarrolla funcionalidades exclusivas que se anticipen a las tendencias de la industria, como integraciones con sistemas de gestión de pedidos en línea o análisis predictivo para la gestión de suministros. 
+	* Desarrolla funcionalidades exclusivas que se anticipen a las tendencias de la industria, como integraciones con sistemas de gestión de pedidos en línea o análisis predictivo para la gestión de suministros. 
 
 - Posicionamiento y Marca: 
 
-Establece tu marca como líder en innovación dentro del sector restaurantera peruano, enfatizando la adaptabilidad local y el conocimiento específico del mercado. 
+	* Establece tu marca como líder en innovación dentro del sector restaurantera peruano, enfatizando la adaptabilidad local y el conocimiento específico del mercado. 
 
-Utiliza testimonios de clientes satisfechos y estudios de caso para construir credibilidad y confianza en tu producto. 
+	* Utiliza testimonios de clientes satisfechos y estudios de caso para construir credibilidad y confianza en tu producto. 
 
 - Estrategias de Penetración de Mercado: 
 
-Ofrece promociones iniciales o períodos de prueba para que nuevos clientes experimenten tu producto sin riesgos. 
+	* Ofrece promociones iniciales o períodos de prueba para que nuevos clientes experimenten tu producto sin riesgos. 
 
-Implementa un programa de referidos para aprovechar el boca a boca en la industria restaurantera, muy comunitario. 
+	* Implementa un programa de referidos para aprovechar el boca a boca en la industria restaurantera, muy comunitario. 
 
 - Alianzas Estratégicas: 
 
-Forma alianzas con proveedores de alimentos y bebidas, así como con asociaciones de restaurantes para ofrecer paquetes conjuntos o descuentos para miembros. 
+	* Forma alianzas con proveedores de alimentos y bebidas, así como con asociaciones de restaurantes para ofrecer paquetes conjuntos o descuentos para miembros. 
 
-Trabaja con plataformas de delivery para integrar la gestión de inventarios con la demanda en tiempo real de pedidos. 
+	* Trabaja con plataformas de delivery para integrar la gestión de inventarios con la demanda en tiempo real de pedidos. 
 
  
 
 - Comunicación y Marketing: 
 
-Implementa campañas de marketing dirigidas que se enfoquen en las historias de éxito y los puntos de dolor específicos que tu producto soluciona. 
+	* Implementa campañas de marketing dirigidas que se enfoquen en las historias de éxito y los puntos de dolor específicos que tu producto soluciona. 
 
-Utiliza las redes sociales y los influencers del sector gastronómico para aumentar la visibilidad de tu marca y producto. 
+	* Utiliza las redes sociales y los influencers del sector gastronómico para aumentar la visibilidad de tu marca y producto. 
 
 
 
