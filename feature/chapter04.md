@@ -11,6 +11,8 @@ El color elegido es el #E55E35, que es un color variado del naranja. Con este co
 - #494847
 - #F4F0DF
 
+[Color](assets/color.png)
+
 El tipo de letra primaria es “Montserrat”. Esta la hemos escogido para el título, texto y los temas párrafos de la Landing Page.
 
 Para el resto de los textos que se encuentren en la aplicación se utilizará el tipo de fuente “Didot”.
