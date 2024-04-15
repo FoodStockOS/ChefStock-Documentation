@@ -25,8 +25,6 @@ Estamos dedicados a impulsar la innovación y la excelencia en la gestión de in
 
 
 ### 1.1.2. Perfiles de integrantes del equipo.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ![Joan](assets/Joan_profile.png)   | Mi nombre es Joan Jefferson Talizo Balbin con código de estudiante u202223781, soy estudiante de Ingeniería de Software. Actualmente, estoy enfocado en el Desarrollo Web. Mi curiosidad innata me impulsa a leer, jugar videojuegos, y constantemente aprender cosas nuevas. Valoro la resiliencia, empatía, el aprendizaje rápido y la perseverancia como mis principales fortalezas. Cuento con conocimientos en C++, Python, Java, SQL, JavaScript y estoy aprendiendo más a detalle sobre React. Como miembro del equipo, me comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo. |
 | --- | --- |
 | ![Jose](assets/Jose_profile.png)   | Soy estudiante de quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable, que valora el trabajo en equipo y se esfuerza por ser organizado y comprometido. Además, tengo conocimientos en varios lenguajes de programación, incluyendo C++, Python, HTML, CSS y JavaScript, los cuales he utilizado en diversos proyectos. |
