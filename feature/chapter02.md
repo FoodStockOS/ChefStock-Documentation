@@ -193,6 +193,40 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+- Diferenciación de Producto: 
+
+Resalta las características únicas de tu solución que satisfacen necesidades no cubiertas por Vendty, Bsale y Logimov, como una mayor personalización para restaurantes específicos o una mejor experiencia de usuario para la gestión de inventarios perecederos. 
+
+Desarrolla funcionalidades exclusivas que se anticipen a las tendencias de la industria, como integraciones con sistemas de gestión de pedidos en línea o análisis predictivo para la gestión de suministros. 
+
+- Posicionamiento y Marca: 
+
+Establece tu marca como líder en innovación dentro del sector restaurantera peruano, enfatizando la adaptabilidad local y el conocimiento específico del mercado. 
+
+Utiliza testimonios de clientes satisfechos y estudios de caso para construir credibilidad y confianza en tu producto. 
+
+- Estrategias de Penetración de Mercado: 
+
+Ofrece promociones iniciales o períodos de prueba para que nuevos clientes experimenten tu producto sin riesgos. 
+
+Implementa un programa de referidos para aprovechar el boca a boca en la industria restaurantera, muy comunitario. 
+
+- Alianzas Estratégicas: 
+
+Forma alianzas con proveedores de alimentos y bebidas, así como con asociaciones de restaurantes para ofrecer paquetes conjuntos o descuentos para miembros. 
+
+Trabaja con plataformas de delivery para integrar la gestión de inventarios con la demanda en tiempo real de pedidos. 
+
+ 
+
+- Comunicación y Marketing: 
+
+Implementa campañas de marketing dirigidas que se enfoquen en las historias de éxito y los puntos de dolor específicos que tu producto soluciona. 
+
+Utiliza las redes sociales y los influencers del sector gastronómico para aumentar la visibilidad de tu marca y producto. 
+
+
+
 ## 2.2. Entrevistas.
 
 **El diseño de las entrevistas se centró en comprender las necesidades específicas de los gerentes y personal de cocina de restaurantes en relación con la gestión de inventarios. Las preguntas fueron diseñadas para explorar los desafíos actuales, las soluciones existentes y las características deseadas en una plataforma ideal.**
