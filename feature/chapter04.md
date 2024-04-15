@@ -36,6 +36,7 @@ El color elegido es el #E55E35, que es un color variado del naranja. Con este co
 ![color.png](assets/Style.png)
 El tipo de letra primaria es “Montserrat”. Esta la hemos escogido para el título, texto y los temas párrafos de la Landing Page.
 
+![Style_Montserrat.png](assets/Style_Montserrat.png)
 
 
 ## 4.2. Information Architecture
