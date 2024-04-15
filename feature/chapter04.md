@@ -34,6 +34,8 @@ El color elegido es el #E55E35, que es un color variado del naranja. Con este co
 - #F4F0DF
 
 ![color.png](assets/Style.png)
+
+
 El tipo de letra primaria es “Montserrat”. Esta la hemos escogido para el título, texto y los temas párrafos de la Landing Page.
 
 ![Style_Montserrat.png](assets/Style_Montserrat.png)
@@ -145,16 +147,26 @@ Esta guía de navegación les proporciona la seguridad de que siempre podrán re
 
 ### 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram
+
+
 ![image](https://hackmd.io/_uploads/ryZQHW9xC.png)
+
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+
 ![image](https://hackmd.io/_uploads/ryAmH-ceC.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+
 ![image](https://hackmd.io/_uploads/HJuLB-9eC.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+
+
 ![image](https://hackmd.io/_uploads/BkQuBZ5lR.png)
 
 
