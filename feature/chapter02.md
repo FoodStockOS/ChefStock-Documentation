@@ -399,7 +399,7 @@ En esta sección se explica y presenta los artefactos resultantes del proceso de
 ### 2.3.1. User Personas.
 **User Persona 1 (Propietarios de Restaurantes)**
 
-![image](https://i.ibb.co/J3Y6GS0/User-Persona-1.png)	
+![image](https://hackmd.io/_uploads/BJ2I0r_l0.png)
 
 User Persona 2 (Personal de Restaurantes)
 
@@ -435,7 +435,7 @@ Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un rest
 
 - En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
 
-![image](https://i.ibb.co/s5DvMBG/image2.jpg)	
+![image](https://hackmd.io/_uploads/rJ6WgL_lC.png)
 
 **Empathy Mapping – SO2**
 
