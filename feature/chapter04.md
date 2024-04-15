@@ -91,18 +91,39 @@ Esta guía de navegación les proporciona la seguridad de que siempre podrán re
 
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
-**Header:** Acá se muestra el header, en donde decidimos mantenerlo simple y conciso. A la izquierda se encuentra nuestro logo, después los botones principales de la página como Plans y About Us, y al final a la derecha los botones de Login y Sign Up.\
-![image](https://hackmd.io/_uploads/SyvRU-ce0.png)\
-**Presentation:** Acá se puede ver la presentación de nuestra página. Toda la información que se necesita mostrar al inicio estará en esta parte, además de imágenes y datos relevantes.\
-![image](https://hackmd.io/_uploads/H1ilP-clR.png)\
-**ChefStock:** Acá se puede ver el encabezado ”ChefStock” de la página. Tiene la misma idea que la pagina Presentation, en donde tiene que mostrar imágenes y datos relevantes para el usuario, además de texto hablando sobre la aplicación.\ 
-![image](https://hackmd.io/_uploads/B1hzPZ9lR.png)\
-**Plans:** Acá se pueden ver los 3 planes que ofrecemos a los usuarios, junto a los beneficios de cada uno y sus costos.\ 
-![image](https://hackmd.io/_uploads/rJSEDb9g0.png)\
-**About Us:** Acá se puede apreciar la presentación de los integrantes del equipo, cada uno con su foto personal y su nombre completo.\ 
-![image](https://hackmd.io/_uploads/r1JiPb9lA.png)\
+**Header:** Acá se muestra el header, en donde decidimos mantenerlo simple y conciso. A la izquierda se encuentra nuestro logo, después los botones principales de la página como Plans y About Us, y al final a la derecha los botones de Login y Sign Up.
+
+
+![image](https://hackmd.io/_uploads/SyvRU-ce0.png)
+
+
+**Presentation:** Acá se puede ver la presentación de nuestra página. Toda la información que se necesita mostrar al inicio estará en esta parte, además de imágenes y datos relevantes.
+
+
+![image](https://hackmd.io/_uploads/H1ilP-clR.png)
+
+
+**ChefStock:** Acá se puede ver el encabezado ”ChefStock” de la página. Tiene la misma idea que la pagina Presentation, en donde tiene que mostrar imágenes y datos relevantes para el usuario, además de texto hablando sobre la aplicación.
+
+
+![image](https://hackmd.io/_uploads/B1hzPZ9lR.png)
+
+
+**Plans:** Acá se pueden ver los 3 planes que ofrecemos a los usuarios, junto a los beneficios de cada uno y sus costos.
+
+
+![image](https://hackmd.io/_uploads/rJSEDb9g0.png)
+
+
+**About Us:** Acá se puede apreciar la presentación de los integrantes del equipo, cada uno con su foto personal y su nombre completo.
+
+![image](https://hackmd.io/_uploads/r1JiPb9lA.png)
+
+
 **Footer:** Acá se puede ver el footer con sus respectivos botones, similares a los del header, como Presentation, Plans, y otros datos relevantes para la página.\ 
-![image](https://hackmd.io/_uploads/rkv3D-9l0.png)\
+![image](https://hackmd.io/_uploads/rkv3D-9l0.png)
+
+
 #### 4.3.2. Landing Page Mock-up.
 
 ### 4.4. Web Applications UX/UI Design.
