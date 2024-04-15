@@ -224,38 +224,36 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
 </table>
 
 ## 1.3. Segmentos objetivo.
+**Propietarios de Restaurantes:**
+Este segmento objetivo de nuestra plataforma está dirigido a propietarios y gerentes de restaurantes que buscan optimizar la gestión de inventarios para mejorar la eficiencia operativa y la calidad del servicio ofrecido a los clientes. Comprenden a aquellos responsables de la toma de decisiones estratégicas y financieras dentro del establecimiento gastronómico. Están interesados en soluciones tecnológicas que simplifiquen los procesos internos, faciliten la comunicación entre el equipo y proporcionen información clave para la toma de decisiones informadas.
+
+**Datos Cuantitativos del Problema para Propietarios de Restaurantes:**
+Se estima que al menos el 30% de los restaurantes enfrentan problemas como la falta de seguimiento preciso de inventarios, lo que resulta en pérdidas económicas y disminución de la eficiencia operativa.
+
+**Variables Geográficas, Demográficas y Psicológicas para Propietarios de Restaurantes:**
+
+* País: Perú
+* Ciudad: Zonas urbanas
+* Género: Sin restricciones.
+* Ocupación: Propietarios y gerentes de restaurantes.
+* Estado civil: Todos los estados.
+* Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años involucrados en la gestión de restaurantes.
+* Nivel Socioeconómico (NSE): Sin restricciones.
+* Características de personalidad: Profesionales comprometidos, orientados a la eficiencia y la calidad del servicio.
     
-<div class="segmento">
-    <p><strong>Trabajadores de Restaurantes: </strong></p>
-    <p>Este segmento objetivo de nuestra plataforma está dirigido a todos los profesionales que trabajan en la industria restaurantera, incluyendo meseros, chefs, personal de cocina, personal de limpieza y gerentes de operaciones. Comprende a aquellos que desempeñan roles clave dentro del funcionamiento diario de los restaurantes y están comprometidos con la eficiencia operativa y la mejora continua de sus establecimientos gastronómicos. Su principal objetivo es optimizar la gestión de inventarios para garantizar la disponibilidad oportuna de suministros y mejorar la calidad del servicio ofrecido a los clientes. Además, están interesados en herramientas tecnológicas que simplifiquen la gestión interna, promuevan la comunicación entre el equipo y proporcionen información clave para la toma de decisiones informadas.</p>
-</div>
+**Personal de restaurantes:**
+Este segmento objetivo está dirigido a todos los profesionales que trabajan en la industria restaurantera, incluyendo meseros, chefs, personal de cocina, personal de limpieza y gerentes de operaciones. Comprende a aquellos que desempeñan roles clave dentro del funcionamiento diario de los restaurantes y están comprometidos con la eficiencia operativa y la mejora continua de sus establecimientos gastronómicos. Su principal objetivo es optimizar la gestión de inventarios para garantizar la disponibilidad oportuna de suministros y mejorar la calidad del servicio ofrecido a los clientes. Además, están interesados en herramientas tecnológicas que simplifiquen la gestión interna, promuevan la comunicación entre el equipo y proporcionen información clave para la toma de decisiones informadas.
 
-<div class="segmento">
-    <h3>Datos Cuantitativos del Problema:</h3>
-    <p>Para los trabajadores de restaurantes, se han identificado desafíos significativos relacionados con la gestión de inventarios. Se estima que al menos el 30% de los restaurantes enfrentan problemas como la falta de seguimiento preciso de inventarios, lo que resulta en pérdidas económicas y disminución de la eficiencia operativa. Además, la comunicación deficiente entre el personal y la falta de herramientas adecuadas para la gestión de inventarios pueden llevar a conflictos internos y una experiencia insatisfactoria para los clientes. </p>
-</div>
+**Datos Cuantitativos del Problema para Personal de Restaurantes:**
+Se estima que al menos el 30% de los restaurantes enfrentan problemas como la falta de seguimiento preciso de inventarios, lo que resulta en pérdidas económicas y disminución de la eficiencia operativa.
 
-<div class="segmento">
-    <h3>Variables geográficas, demográficas y psicológicas:</h3>
-    <p><strong>Variable geográfica:</strong></p>
-    <ul>
-        <li>País: Perú</li>
-        <li>Ciudad: Zonas urbanas</li>
-    </ul>
-    <p><strong>Variable demográfica:</strong></p>
-    <ul>
-        <li>Género: Sin restricciones. </li>
-        <li>Ocupación: Todos los roles dentro del sector restaurantero.</li>
-        <li>Estado civil: Todos los estados</li>
-        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años.</li>
-    </ul>
-    <p><strong>Variable psicográfica:</strong></p>
-    <ul>
-        <li>Nivel Socioeconómico (NSE): Sin restricciones.</li>
-        <li>Características de personalidad:
-            <ul>
-                <li>Profesionales comprometidos, orientados a la eficiencia y la calidad del servicio.</li>
-            </ul>
-        </li>
-    </ul>
-</div>
+**Variables Geográficas, Demográficas y Psicológicas para Personal de Restaurantes:**
+
+* País: Perú
+* Ciudad: Zonas urbanas
+* Género: Sin restricciones.
+* Ocupación: Todos los roles dentro del sector restaurantero.
+* Estado civil: Todos los estados.
+* Edad y etapa de ciclo de vida: Ciudadanos mayores a 18 años involucrados en la industria de restaurantes.
+* Nivel Socioeconómico (NSE): Sin restricciones.
+* Características de personalidad: Personas comprometidos.
