@@ -1,5 +1,6 @@
 # Capítulo III: Requirements Specification
 ## <a name="_h9hrfqva6r5m"></a>**3.1. To-Be Scenario Mapping.**
+![image](https://hackmd.io/_uploads/B1gPg8_gA.png)
 
 
 # <a name="_bpcx799qz42z"></a>**3.2 User Stories**
