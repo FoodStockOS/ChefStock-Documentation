@@ -172,9 +172,10 @@ Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/jMEFf
 
 #### 4.4.4. Web Applications User Flow Diagrams.
 
+![WebApplicationsUserFlowDiagrams.png](assets/WebApplicationsUserFlowDiagrams.png)
 
-
-
+Link a nuestra herramieta de trabajo (Lucidchart):
+https://lucid.app/lucidchart/6a92778d-80c8-4f88-b377-a04c43c7cf3a/edit?viewport_loc=-267%2C-5%2C2599%2C1316%2C0_0&invitationId=inv_570aae27-52dc-4188-bff7-b180f62956e2
 
 ---
 ### 4.5. Web Applications Prototyping.
