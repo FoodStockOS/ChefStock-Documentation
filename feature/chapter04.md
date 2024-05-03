@@ -102,31 +102,91 @@ Esta guía de navegación les proporciona la seguridad de que siempre podrán re
 **About Us:** Acá se puede apreciar la presentación de los integrantes del equipo, cada uno con su foto personal y su nombre completo.\ 
 ![image](https://hackmd.io/_uploads/r1JiPb9lA.png)\
 **Footer:** Acá se puede ver el footer con sus respectivos botones, similares a los del header, como Presentation, Plans, y otros datos relevantes para la página.\ 
-![image](https://hackmd.io/_uploads/rkv3D-9l0.png)\
+![image](https://hackmd.io/_uploads/rkv3D-9l0.png)
 #### 4.3.2. Landing Page Mock-up.
+![LadingPage_Home.png](assets/LadingPage_Home.png)
 
+![LadingPage_ChefStock.png](assets/LadingPage_ChefStock.png)
+
+![LadingPage_Plans.png](assets/LadingPage_Plans.png)
+
+
+![LadingPage_AboutUs.png](assets/LadingPage_AboutUs.png)
+
+___
 ### 4.4. Web Applications UX/UI Design.
-
-
+El desarrollo de la experiencia de usuario (UX) y la interfaz de usuario (UI) para aplicaciones web se enfoca en crear un entorno digital que sea natural y agradable de usar. La UX se ocupa de la comprensión profunda de las necesidades y comportamientos del usuario, estructurando los procesos y la organización del contenido de manera que resulte fácil interactuar con la aplicación. En contraste, la UI se encarga de los componentes visuales de la aplicación, tales como la selección y disposición de iconos, botones y textos. Un diseño UX/UI exitoso logra una fusión armónica de belleza visual y practicidad, proporcionando una experiencia de usuario atractiva y recordable.
 
 
 #### 4.4.1. Web Applications Wireframes.
 
+![WebApplicationsWireframes_Login.png](assets/WebApplicationsWireframes_Login.png)
+
+![WebApplicationsWireframes_Register.png](assets/WebApplicationsWireframes_Register.png)
+
+![WebApplicationsWireframes_Home.png](assets/WebApplicationsWireframes_Home.png)
+
+![WebApplicationsWireframes_Profile.png](assets/WebApplicationsWireframes_Profile.png)
+
+![WebApplicationsWireframes_ProductInformation.png](assets/WebApplicationsWireframes_ProductInformation.png)
+
+![WebApplicationsWireframes_CreateProducts.png](assets/WebApplicationsWireframes_CreateProducts.png)
+
+![WebApplicationsWireframes_ModifyProduct.png](assets/WebApplicationsWireframes_ModifyProduct.png)
+
+![WebApplicationsWireframes_SuppliersInformation.png](assets/WebApplicationsWireframes_SuppliersInformation.png)
+
+![WebApplicationsWireframes_CreateSuppliers.png](assets/WebApplicationsWireframes_CreateSuppliers.png)
+
+![WebApplicationsWireframes_ModifySuppliers.png](assets/WebApplicationsWireframes_ModifySuppliers.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
+Al abrir la aplicación, se presenta inicialmente la pantalla de 'iniciar sesión'. En esta pantalla, los usuarios pueden ingresar utilizando su nombre de usuario y contraseña. Si el usuario no posee una cuenta, puede seleccionar la opción 'registrar' para crear una nueva. Durante el proceso de registro, no se requiere la compra previa de un dispositivo para crear la cuenta, ya que la cuenta no está ligada directamente a un dispositivo. Cuando el usuario inicie sesión o se registra con éxito, accederá al menú principal de la aplicación, donde podrá navegar mediante funciones como gestión de proveedores y productos.
+
+![WebApplicationsWireflowDiagrams.png](assets/WebApplicationsWireflowDiagrams.png)
 
 
 #### 4.4.3. Web Applications Mock-ups.
 
+![Web_ApplicationsMockUps_Login.png](assets/Web_ApplicationsMockUps_Login.png)
+
+![Web_ApplicationsMockUps_Register.png](assets/Web_ApplicationsMockUps_Register.png)
+
+![Web_ApplicationsMockUps_Start.png](assets/Web_ApplicationsMockUps_Start.png)
+
+![Web_ApplicationsMockUps_Profile.png](assets/Web_ApplicationsMockUps_Profile.png)
+
+![Web_ApplicationsMockUps_ProductInformation.png](assets/Web_ApplicationsMockUps_ProductInformation.png)
+
+![Web_ApplicationsMockUps_CreateProducts.png](assets/Web_ApplicationsMockUps_CreateProducts.png)
+
+![Web_ApplicationsMockUps_ModifyProduct.png](assets/Web_ApplicationsMockUps_ModifyProduct.png)
+
+![Web_ApplicationsMockUps_SupplierInformation.png](assets/Web_ApplicationsMockUps_SupplierInformation.png)
+
+![Web_ApplicationsMockUps_CreateSuppliers.png](assets/Web_ApplicationsMockUps_CreateSuppliers.png)
+
+![Web_ApplicationsMockUps_ModifySuppliers.png](assets/Web_ApplicationsMockUps_ModifySuppliers.png)
+
+Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/jMEFfuUGgA39OBzRyQS87O/Web-Applications-Mock-ups?type=design&node-id=1-2&t=bhfHoLW7QX0Ohvg7-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 
 #### 4.4.4. Web Applications User Flow Diagrams.
 
 
-#### 4.4.3. Web Applications Mock-ups.
 
 
+
+---
 ### 4.5. Web Applications Prototyping.
 
+![WebApplicationsPrototyping.png](assets/WebApplicationsPrototyping.png)
+
+Link a nuestra herramienta de trabajo (Figma): https://www.figma.com/proto/jMEFfuUGgA39OBzRyQS87O/Web-Applications-Mock-ups?type=design&node-id=1-2&t=bhfHoLW7QX0Ohvg7-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
+
 ### 4.6. Domain-Driven Software Architecture.
+
+La implementación de la arquitectura orientada al dominio (DDD) es crucial para nuestro proyecto. Esta estrategia de desarrollo nos facilitará la creación de sistemas de software que representen con precisión y eficacia el área del problema que estamos tratando. Empleando los conceptos de DDD, estaremos en condiciones de reconocer y esquematizar adecuadamente las entidades, agregaciones y contextos específicos del dominio. Esto nos posibilitará desarrollar una estructura de software que se caracterice por su flexibilidad, capacidad de ampliación y sencillez en su mantenimiento.
+
 ### 4.6.1. Software Architecture Context Diagram
 ![image](https://hackmd.io/_uploads/ryZQHW9xC.png)
 ### 4.6.2. Software Architecture Container Diagrams
