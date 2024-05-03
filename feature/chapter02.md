@@ -412,14 +412,7 @@ Los segmentos considerados para esta matriz son:
 | Pronosticar la demanda futura   |Alta    |Alta    |  Media | Media   |
 ### 2.3.3. User Journey Mapping
 **User Journey Mapping – SO1** 
-
-Este Journey Map muestra la trayectoria de Pedro Nanfuñay, propietario de un restaurante, en el proceso de gestión de inventarios. El cual, busca mejorar la eficiencia operativa y reducir costos en su negocio. 
-
-
-
-**User Journey Mapping – SO2** 
-
-Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un restaurante que se ha comprometido a optimizar los procesos de gestión de inventarios. 
+![image](https://hackmd.io/_uploads/rkILFTbGC.png)
 ### 2.3.4. Empathy Mapping.
 **Empathy Mapping – SO1**
 
@@ -432,7 +425,19 @@ Este Journey Map muestra la experiencia de Carla Gutiérrez, empleada de un rest
 - En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
 
 ![image](https://i.ibb.co/cC1XPpG/image.jpg)
-### 2.3.5. As-is Scenario Mapping.
+### 2.3.5 As-Is Scenario Mapping
+**As-is Scenario Mapping – SO1** 
+![image](https://hackmd.io/_uploads/H1MtFp-fC.png)
+**As-is Scenario Mapping – SO2** 
+![image](https://hackmd.io/_uploads/BJbqKaZzC.png)
 
-## 2.4. Ubiquitous Language
+### 2.4. Ubiquitous Language.
+| Término             | Significado                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------|
+| **Inventory Management** | Proceso de supervisión y control de los artículos y suministros necesarios para las operaciones del restaurante, incluido el seguimiento, pedido y organización del inventario. |
+| **Subscription Plan**   | Modelo de precios donde los clientes pagan una tarifa recurrente en intervalos regulares para acceder a un producto o servicio.                              |
+| **Onboarding**          | Proceso de familiarización de nuevos usuarios con una plataforma o servicio, que normalmente implica configuración, capacitación y uso inicial.             |
+| **Dashboard**           | Interfaz visual que proporciona a los usuarios un resumen de información importante y métricas clave.                                                    |
+| **Inventory Tracking**  | Monitoreo y registro del movimiento de artículos dentro y fuera del inventario, generalmente en tiempo real.                                              |
+| **Referral Program**    | Estrategia de marketing donde los clientes existentes reciben incentivos para referir nuevos clientes a un negocio.   
 
