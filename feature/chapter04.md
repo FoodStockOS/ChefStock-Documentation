@@ -189,7 +189,7 @@ La implementación de la arquitectura orientada al dominio (DDD) es crucial para
 
 ### 4.6.1. Software Architecture Context Diagram
 ![image](https://hackmd.io/_uploads/ryZQHW9xC.png)
-¿
+
 ### 4.6.2. Software Architecture Container Diagrams
 ![image](https://hackmd.io/_uploads/ryAmH-ceC.png)
 
