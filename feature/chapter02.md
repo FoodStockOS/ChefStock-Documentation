@@ -356,9 +356,6 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 
 
 * **Tercera Entrevista: Personal del restaurante**
-
-  
-  
 ![Entrevista_Seg02.png](assets/Entrevista_Seg02.png)
 Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EfdEm34j-KlNituEuq-m-cAB7HAxFHfuwWYUIZ0l4yFN5w?e=IdLelc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
