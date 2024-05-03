@@ -7,7 +7,6 @@
 ## NOMBRE DEL PRODUCTO: ChefStock
 - - -
 ### INTEGRANTES
-- Adrian Alonso Quiroz Cáceres          (U202214864)
 - Joan Jefferson Talizo Balbin          (U202223781)
 - Jose Daniel Mario Calderon Huaman     (U202213076) 
 - Tomás Ortiz Fajardo                   (U201910146) 
