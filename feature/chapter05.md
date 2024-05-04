@@ -789,7 +789,7 @@ Durante el segundo sprint, el equipo de desarrollo de FoodStockOS inició la cre
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 ![Insights](assets/Insights1.jpg)
-![Insights](assets/Insights1.jpg)
+![Insights](assets/Insights2.jpg)
 
 ## Conclusiones 
 En conclusión, la plataforma ChefStock ha demostrado ser una solución innovadora y eficaz para la gestión de inventarios en la industria restaurantera. Su capacidad para optimizar los recursos y reducir desperdicios ha mejorado significativamente la rentabilidad de los establecimientos que la adoptan. Además, su diseño adaptable y escalable facilita su implementación en diversos entornos gastronómicos, lo que se complementa con un excelente soporte técnico y capacitación continua. Los resultados positivos observados refuerzan la validez de la plataforma como herramienta clave para mejorar la eficiencia operativa y económica en la industria de la restauración.
