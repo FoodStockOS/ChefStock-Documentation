@@ -791,6 +791,18 @@ Durante el segundo sprint, el equipo de desarrollo de FoodStockOS inició la cre
 ![Webstorm](assets/Webstorm1.png)
 ![Webstorm](assets/Webstorm2.png)
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
+Inicialmente creamos el repositorio en Github exclusivamente para la implementar la App
+![Sprint2_GitHub.png](assets/Sprint2_GitHub.png)
+
+![Sprint2_JSONServer.png](assets/Sprint2_JSONServer.png)
+
+Utilizamos Firebase para el despliegue:
+![Sprint2_Firebase.png](assets/Sprint2_Firebase.png)
+
+Finalmente la desplegamos:
+![FrontEnd_CheffstockWebApp.png](assets/FrontEnd_CheffstockWebApp.png)
+
+Link: https://front-end-chefstock.web.app/
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 ![Insights](assets/Insights1.jpg)
@@ -804,8 +816,10 @@ En conclusión, la plataforma ChefStock ha demostrado ser una solución innovado
 ## Anexos
 Enlace para acceder a la landing page: https://chefstock-landingpage.web.app/ 
 
+Enlace para acceder a la App ChefStock: https://front-end-chefstock.web.app/
 Repositorio GitHub Informe: https://github.com/FoodStockOS/ChefStock-Documentation 
 
 Repositorio GitHub LandingPage: https://github.com/FoodStockOS/ChefStock-Landingpage 
 
 Figma Web Applications Prototyping: https://www.figma.com/proto/jMEFfuUGgA39OBzRyQS87O/Web-Applications-Mock-ups?type=design&node-id=1-2&t=bhfHoLW7QX0Ohvg7-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+
