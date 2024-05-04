@@ -2,13 +2,10 @@
 ## Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |----------------------|----------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Ortiz Fajardo, Tomás TB1 Esta entrega pude aportar con el Producto Design, tanto con los Style Guidelines, e Information Architecture, como con la Landing Page UI. Además, pude aportar con el Impact Mapping y el desarrollo de la Landing Page. 
-Talizo Balbin, Joan Jefferson (TP):En el desarrollo del proyecto, aprendí más en la realización de Wireframes y MockUps del capítulo 4. Asimismo, aprendí más sobre el uso de Vue, GitHub en el proyecto. Por otro lado, WebStrom me ayudó mucho en la realización de los trabajos para subir al GitHub. 
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software | Ortiz Fajardo, Tomás TB1 Esta entrega pude aportar con el Producto Design, tanto con los Style Guidelines, e Information Architecture, como con la Landing Page UI. Además, pude aportar con el Impact Mapping y el desarrollo de la Landing Page. Talizo Balbin, Joan Jefferson (TP):En el desarrollo del proyecto, aprendí más en la realización de Wireframes y MockUps del capítulo 4. Asimismo, aprendí más sobre el uso de Vue, GitHub en el proyecto. Por otro lado, WebStrom me ayudó mucho en la realización de los trabajos para subir al GitHub. 
 
-| TB1: En conclusión, para esta primera entrega del proyecto podemos decir que el desarrollo de las 
-Talizo Balbin, Joan Jefferson (TP):
-Este proyecto ha sido esencial para mi desarrollo en diseño y programación. He ganado habilidades críticas en la elaboración de Wireframes y MockUps, así como en el uso de tecnologías como Vue y herramientas como GitHub y WebStorm. Estas competencias han reforzado mi capacidad para contribuir eficazmente en entornos de desarrollo de software, preparándome para enfrentar futuros desafíos profesionales con una base sólida en tecnología y colaboración.
-|
+| TB1: En conclusión, para esta primera entrega del proyecto podemos decir que el desarrollo de las.    Talizo Balbin, Joan Jefferson (TP):
+Este proyecto ha sido esencial para mi desarrollo en diseño y programación. He ganado habilidades críticas en la elaboración de Wireframes y MockUps, así como en el uso de tecnologías como Vue y herramientas como GitHub y WebStorm. Estas competencias han reforzado mi capacidad para contribuir eficazmente en entornos de desarrollo de software, preparándome para enfrentar futuros desafíos profesionales con una base sólida en tecnología y colaboración.|
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción del Startup
