@@ -818,6 +818,7 @@ En conclusión, la plataforma ChefStock ha demostrado ser una solución innovado
 Enlace para acceder a la landing page: https://chefstock-landingpage.web.app/ 
 
 Enlace para acceder a la App ChefStock: https://front-end-chefstock.web.app/
+
 Repositorio GitHub Informe: https://github.com/FoodStockOS/ChefStock-Documentation 
 
 Repositorio GitHub LandingPage: https://github.com/FoodStockOS/ChefStock-Landingpage 
