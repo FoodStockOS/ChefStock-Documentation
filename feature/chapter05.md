@@ -776,10 +776,15 @@ Durante este segundo sprint, hemos implementado parcialmente todas las funcional
 #### 5.2.1.5 Execution Evidence for Sprint Review
 Durante el segundo sprint, el equipo de desarrollo de FoodStockOS inició la creación de la Aplicación front end para nuestro proyecto ChefStock. En nuestro sitio web, los usuarios pueden acceder a información sobre sus productos para que puedan llevar un seguimiento detallado de todos los elementos necesarios para su operación diaria. 
 ![FrontEnd](assets/FrontEnd1.png)
+
 ![FrontEnd](assets/FrontEnd2.png)
+
 ![FrontEnd](assets/FrontEnd3.png)
+
 ![FrontEnd](assets/FrontEnd4.png)
+
 ![FrontEnd](assets/FrontEnd5.png)
+
 ![FrontEnd](assets/FrontEnd6.png)
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
