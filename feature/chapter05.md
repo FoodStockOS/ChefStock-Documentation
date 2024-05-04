@@ -661,7 +661,7 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
             <td>Diseñar e implementar la sección del perfil de usuario </td>
             <td></td>
             <td>Joan Jefferson Talizo Balbin </td>
-            <td></td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>HU-08</td>
@@ -671,7 +671,7 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
             <td>Desarrollar la funcionalidad para que cada usuario pueda editar su perfil de la plataforma </td>
             <td></td>
             <td>Joan Jefferson Talizo Balbin </td>
-            <td></td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>HU-09</td>
