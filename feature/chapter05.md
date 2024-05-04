@@ -806,6 +806,7 @@ Link: https://front-end-chefstock.web.app/
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 ![Insights](assets/Insights1.jpg)
+
 ![Insights](assets/Insights2.jpg)
 
 ## Conclusiones 
