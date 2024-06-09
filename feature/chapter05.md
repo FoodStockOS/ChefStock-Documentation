@@ -1150,7 +1150,11 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 ### 5.3.2. Registro de Entrevistas.
 
 
-
+### 5.4. Video About-the-Product.
+---
+![VideoAboutProduct](assets/AboutProduct_OpenSource.png)
+- URL Microsoft Stream:
+- URL Youtube: 
 
 
 
@@ -1168,6 +1172,17 @@ Su diseño adaptable y escalable facilita su implementación en diversos entorno
 El front-end se centra en ofrecer una interfaz de usuario intuitiva y accesible, lo cual es esencial para facilitar la adopción y el uso diario por parte del personal de los restaurantes. Posee una interfaz bien diseñada que permite una navegación sencilla y una gestión de inventarios eficiente, lo que reduce la curva de aprendizaje y mejora la experiencia del usuario. 
 
 El back-end está diseñado para gestionar eficientemente grandes volúmenes de datos de inventario en tiempo real, proporcionando escalabilidad y flexibilidad según las necesidades de cada restaurante. La arquitectura del back-end soporta desde pequeñas operaciones hasta grandes establecimientos con un alto número de elementos en el inventario. 
+
+
+## Video About The Team
+
+En este segmento, mostramos la elaboración de la parte de seguridad del backend, esto en una llamada grupal en la cual resolvimos la problematica de la implementación.
+Asimismo cada uno explica como lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
+
+
+
+
+
 
 ## Bibliografía
 
