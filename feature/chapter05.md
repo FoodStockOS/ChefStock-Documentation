@@ -999,15 +999,15 @@ Durante este tercer sprint, hemos implementado parcialmente todas las funcionali
 
 #### 5.2.3.5 Execution Evidence for Sprint Review
 Durante el tercer sprint, el equipo de desarrollo de FoodStockOS mejoró la parte del frontend e inició la creación del back-end para nuestro proyecto ChefStock. En nuestro frontend, la página principal se le agregaron botones que redirigen a nuestras otras secciones, así como mejoramos algunos aspectos a la sección de agregar productos. 
-![FrontEnd](assets/Avance1.jpg)
+![FrontEnd](assets/Avance1.png)
 
-![FrontEnd](assets/Avance2.jpg)
+![FrontEnd](assets/Avance2.png)
 
-![FrontEnd](assets/Avance3.jpg)
+![FrontEnd](assets/Avance3.png)
 
-![FrontEnd](assets/Avance4.jpg)
+![FrontEnd](assets/Avance4.png)
 
-![FrontEnd](assets/Avance5.jpg)
+![FrontEnd](assets/Avance5.png)
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
 ![Webstorm](assets/Webstorm1.png)
@@ -1017,7 +1017,7 @@ Durante el tercer sprint, el equipo de desarrollo de FoodStockOS mejoró la part
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
 Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Unete a Nosotros y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page]()
-![FrontEnd](assets/Avance2.jpg)
+![FrontEnd](assets/Avance2.png)
 
 ##### Front End
 Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web]()
@@ -1033,7 +1033,6 @@ Presentamos la primera versión den nuestro BackEnd. Esta primera versión conti
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 Frontend:
 
-![Insights](assets/Insights3.jpg)
 
 
 
