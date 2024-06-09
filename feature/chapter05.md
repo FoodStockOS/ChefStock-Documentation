@@ -1152,7 +1152,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 ### 5.4. Video About-the-Product.
 ---
-![VideoAboutProduct](assets/AboutProduct_OpenSource.png)
+![VideoAboutProduct](assets/AboutProduct_CheftSotck.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EeqJ5EI9yT9ArkA4uUodIWwBlimWARj7y8i5fMVOgVJ0LA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JlA3Bd
   
 - URL Youtube:  https://youtu.be/nwcbH2KVz1c
