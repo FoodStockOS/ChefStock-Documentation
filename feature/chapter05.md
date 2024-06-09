@@ -1183,8 +1183,12 @@ Asimismo cada uno explica como lograron los Student Outcomes correspondientes gr
 
 
 
-
-
+## Video About The Team Back
+---
+![VideoAboutProductBack](assets/Video-AboutTeam-Back.png)
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYISxDqyVQ9Mko00q1smHOMB54x8ZWxAOsxFCp1JhkmhPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6vZvRp
+- URL Youtube:https://youtu.be/VWZ2gn-veRw
+  
 
 ## Bibliografía
 
