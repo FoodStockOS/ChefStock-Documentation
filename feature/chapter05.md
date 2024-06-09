@@ -1010,28 +1010,40 @@ Durante el tercer sprint, el equipo de desarrollo de FoodStockOS mejoró la part
 ![FrontEnd](assets/Avance5.png)
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
-![Webstorm](assets/Webstorm1.png)
-![Webstorm](assets/Webstorm2.png)
+En esta sección, presentamos la relación de EndPoints documentados con OpenAPI utilizando Swagger como herramienta visual. Ajuntamos evidencias de la implementación de los EndPoints.
+
+
+![Evidencia-EndPoint-1.png](assets/Evidencia-EndPoint-1.png)
+
+![Evidencia-EndPoint-2.png](assets/Evidencia-EndPoint-2.png)
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
 Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Unete a Nosotros y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page]()
-![FrontEnd](assets/Avance2.png)
+
 
 ##### Front End
 Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web]()
 
+![FrontEnd](assets/Avance2.png)
 
 ##### Back End
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
 
-
+![Deployment-BackEnd.png](assets/Deployment-BackEnd.png)
 
 
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
-Frontend:
+
+Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de ChefStock junto a la mejora del FrontEnd y nuestro Landing Page donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos commits, pull request, y reuniones que realizados en nuestro repositorio de código y herramientas externas, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada.
+
+Nuestro equipo se reunió tanto en virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del BackEnd para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+
+
+Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
 
 
