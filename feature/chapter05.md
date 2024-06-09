@@ -1187,7 +1187,7 @@ Asimismo cada uno explica como lograron los Student Outcomes correspondientes gr
 ---
 ![VideoAboutProductBack](assets/Video-AboutTeam-Back.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYISxDqyVQ9Mko00q1smHOMB54x8ZWxAOsxFCp1JhkmhPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6vZvRp
-- URL Youtube:https://youtu.be/VWZ2gn-veRw
+- URL Youtube: https://youtu.be/VWZ2gn-veRw
   
 
 ## Bibliografía
@@ -1207,3 +1207,6 @@ Repositorio GitHub Backend: https://github.com/FoodStockOS/ChefStock-Backend
 
 Figma Web Applications Prototyping: https://www.figma.com/proto/jMEFfuUGgA39OBzRyQS87O/Web-Applications-Mock-ups?type=design&node-id=1-2&t=bhfHoLW7QX0Ohvg7-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
 
+Video About-the-Product: https://youtu.be/nwcbH2KVz1c
+
+Video About The Team BackEnd: https://youtu.be/VWZ2gn-veRw
