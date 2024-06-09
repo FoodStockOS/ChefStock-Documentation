@@ -1045,7 +1045,7 @@ Nuestro equipo se reunió tanto en virtualmente para asignar tareas y discutir l
 
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
-
+![GitHub-Report-Pulse.png](assets/GitHub-Report-Pulse.png)
 
 
 ## 5.3. Validation Interviews.
