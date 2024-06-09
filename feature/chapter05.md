@@ -816,6 +816,9 @@ Se han agregado puntos específicos para enfocarse en la creación de la nueva v
 
 Además, se ha realizado la primera versión del back-end, el cual contiene las características básicas de una base de datos que servirá como un punto de inicio y mejorará continuamente. 
 #### 5.2.3.1 Sprint Planning 3
+En esta sección se documenta y detalla el progreso alcanzado en términos de producto y colaboración durante el Sprint número 3. Se presenta todo el avance descriptivo junto con su desarrollo, historial y contribuciones de cada integrante del equipo. Todas las especificaciones se derivan del Product Backlog del Capítulo 3 de requisitos.
+
+*Tabla del planeamiento a profundidad del Sprint 3.*
 <table>
     <thead>
         <tr>
@@ -849,18 +852,18 @@ Además, se ha realizado la primera versión del back-end, el cual contiene las 
         </tr>
         <tr>
             <th>Sprint 3 Review Summary</th>
-            <td>Es la tercera reunión donde se evaluarán los puntos que se harán por funciones. </td>
+            <td>Para este Sprint 3, hemos decidido implementar principalmente las historias de usuario que aporten un valor significativo a nuestro proyecto, dejando de lado otras funcionalidades adicionales o dependientes, ya que priorizamos las historias de usuario más importantes y valiosas. Además, en este Sprint 3, hemos decidido realizar las correcciones indicadas por el profesor, tanto en el FrontEnd (aplicación web) como en el BackEnd, incorporando posibles mejoras sugeridas en ambos. </td>
         </tr>
         <tr>
             <th>Sprint Planning Background</th>
-            <td>Se acordó que durante este sprint se centrarán en el desarrollo del Front-End y la creación del Back-end y se dividirán las tareas identificadas entre los miembros del equipo. </td>
+            <td>En la retrospectiva del Sprint 3, hemos analizado en conjunto cómo utilizamos nuestro tiempo como equipo para mejorar nuestra organización. Utilizamos herramientas como Trello para asignar y coordinar tareas, lo que nos permitió tener un mejor control sobre nuestro proyecto. Para optimizar la asignación de tareas, decidimos dividir cada tarea en procesos más pequeños, permitiendo así que todos trabajemos de manera más eficiente. Esta organización implica desglosar nuestro proyecto grande en partes más manejables, distribuidas según diferentes dominios. </td>
         </tr>
         <tr>
             <th colspan="2">Sprint Goal & User Stories</th>
         </tr>
         <tr>
             <th>Sprint 3 Goal</th>
-            <td>Durante este sprint, el objetivo principal es crear el Back-end. Esto incluye diseñar y desarrollar una base de datos funcional que cumpla con los requisitos del proyecto. Se asignarán las User Stories relacionadas con la creación del Back-end a los miembros del equipo, y el sprint se considerará exitoso si todas estas historias de usuario asignadas están implementadas y funcionando correctamente al finalizar el sprint. </td>
+            <td>Durante este sprint, el objetivo principal es desarrollar las primeras versiones de nuestro BackEnd, creando versiones iniciales y preliminares. También nos propusimos mejorar continuamente nuestros repositorios (FrontEnd, Reporte y LandingPage). A nivel interno, como grupo, nos enfocamos en mejorar nuestra organización utilizando aplicaciones como Trello o ClickUp. De esta manera, definimos nuestras metas de forma adecuada. </td>
         </tr>
         <tr>
             <th>Sprint 3 Velocity</th>
@@ -873,7 +876,11 @@ Además, se ha realizado la primera versión del back-end, el cual contiene las 
     </tbody>
 </table>
 
-#### 5.2.3.2 Sprint  Backlogs 
+#### 5.2.3.2 Sprint  Backlogs 3
+
+Para esta sección se revisará todo el proceso llevado a cabo para el Sprint Backlog 3, donde nuestro equipo se enfocó principalmente en el diseño, estructuración y organización de la lógica de negocio en nuestra aplicación web, utilizando servicios diferenciados y modelos de base de datos. Además, se planteó un modelo futuro para el intercambio de información entre el FrontEnd y el BackEnd. Dividimos toda la construcción del BackEnd en 4 historias de usuario, asegurando que cada miembro del grupo completara al menos dos. Gracias a este proceso, al finalizar el Sprint Backlog 3, logramos tener una página web estable, con interfaces bien diseñadas, conexiones con APIs externas, entre otros.
+
+*Tabla principal del planeamiento del Sprint Backlog 3.*
 <table>
     <thead>
         <tr>
@@ -939,6 +946,14 @@ Además, se ha realizado la primera versión del back-end, el cual contiene las 
     </tbody>
 </table>
 
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades.
+
+*Presentación de la tabla de actividades designada para el Sprint 3 en Trello.*
+![Trello-Spring3.png](assets/Trello-Spring3.png)
+
+
+
+
 #### 5.2.3.3 Development Evidence for Sprint Review
 <table>
     <thead>
@@ -999,12 +1014,69 @@ Durante el tercer sprint, el equipo de desarrollo de FoodStockOS mejoró la part
 ![Webstorm](assets/Webstorm2.png)
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
+Dentro del Sprint 3, realizamos el despliegue de:
+##### Landing Page
+Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Unete a Nosotros y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page]()
+![FrontEnd](assets/Avance2.jpg)
+
+##### Front End
+Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web]()
+
+
+##### Back End
+Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio, implementando capas de seguridad como características primarias de registro e inicio de sesión.
+
+
+
+
+
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 Frontend:
 
 ![Insights](assets/Insights3.jpg)
 
+
+
+## 5.3. Validation Interviews.
+
+--------------------------------------------
+
+### 5.3.1. Diseño de Entrevistas.
+#### Saludo y presentación
+Comenzamos con una introducción breve de los entrevistados para recordar quiénes son ya que han sido entrevistados anteriormente.
+
+1. ¿Cómo se llama?
+2. ¿Cuántos años tiene?
+3. ¿En qué distrito vive?
+
+#### Preguntas
+Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
+
+1. ¿Qué piensas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar?
+2. ¿Encuentras que las funciones de la aplicación web son intuitivas y fáciles de usar?
+4. ¿Hay alguna función que crees que debería estar en la aplicación web que actualmente no está?
+5. ¿Cómo calificarías la experiencia general de uso de la aplicación web?
+6. ¿Qué te gusta más y qué te gusta menos de la aplicación web?
+7. ¿Te sentirías cómodo usando regularmente nuestra aplicación web?
+8. ¿Cómo crees que nuestra aplicación web se comparan con otras similares que hayas utilizado?
+9. ¿Hay algo que te confunda o te resulte difícil de entender en la aplicación web?
+10. ¿Considerarías recomendarnos a tus amigos o familiares?
+11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
+### 5.3.2. Registro de Entrevistas.
+
+
+
+
+
+
+
+
+
 ## Conclusiones 
+
+---
+
 La plataforma ChefStock ha demostrado ser una solución innovadora y eficaz para la gestión de inventarios en la industria restaurantera. Su capacidad para optimizar los recursos y reducir desperdicios ha mejorado significativamente la rentabilidad de los establecimientos que la adoptan.  
 
 Su diseño adaptable y escalable facilita su implementación en diversos entornos gastronómicos, lo que se complementa con un excelente soporte técnico y capacitación continua. Los resultados positivos observados refuerzan la validez de la plataforma como herramienta clave para mejorar la eficiencia operativa y económica en la industria de la restauración. 
