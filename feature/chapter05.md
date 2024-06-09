@@ -546,13 +546,13 @@ Presentamos pruebas del progreso individual:
  ![Commits Tomas](assets/commitstomas.png)
  ![image](https://hackmd.io/_uploads/ryN_315xC.png)
 
-### 5.2.1. Sprint 2 
+### 5.2.2. Sprint 2 
 En este informe se describen las correcciones efectuadas en el documento completo, junto con las áreas que requieren atención para desarrollar la primera versión de la aplicación web front-end "ChefStock". 
 
 Durante la revisión del informe completo, se identificaron secciones que necesitaban ajustes y mejoras para asegurar la calidad y coherencia del documento. Estas mejoras se centraron en la claridad de la presentación, la precisión de los datos y la cohesión del contenido. 
 
 Además de las correcciones realizadas, se han señalado puntos específicos para enfocarse en la creación de la primera versión de la aplicación web front-end "ChefStock". Estos puntos incluyen aspectos como el diseño de la interfaz de usuario, la implementación de funciones clave y la optimización del rendimiento del sitio web.
-#### 5.2.1.1 Sprint Planning 2
+#### 5.2.2.1 Sprint Planning 2
 <table>
     <thead>
         <tr>
@@ -610,7 +610,7 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
     </tbody>
 </table>
 
-#### 5.2.1.2 Sprint  Backlogs 
+#### 5.2.2.2 Sprint  Backlogs 
 <table>
     <thead>
         <tr>
@@ -671,7 +671,7 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
             <td>Desarrollar la funcionalidad para que cada usuario pueda editar su perfil de la plataforma </td>
             <td></td>
             <td>Joan Jefferson Talizo Balbin </td>
-            <td>Done</td>
+            <td>In-process</td>
         </tr>
         <tr>
             <td>HU-09</td>
@@ -706,7 +706,7 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
     </tbody>
 </table>
 
-#### 5.2.1.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review
 <table>
     <thead>
         <tr>
@@ -770,10 +770,10 @@ Además de las correcciones realizadas, se han señalado puntos específicos par
     </tbody>
 </table>
 
-#### 5.2.1.4 Testing Suite Evidence for Sprint Review
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
 Durante este segundo sprint, hemos implementado parcialmente todas las funcionalidades definidas en nuestro Sprint Backlog 2, asegurándonos de cumplir con sus criterios de aceptación correspondientes. 
 
-#### 5.2.1.5 Execution Evidence for Sprint Review
+#### 5.2.2.5 Execution Evidence for Sprint Review
 Durante el segundo sprint, el equipo de desarrollo de FoodStockOS inició la creación de la Aplicación front end para nuestro proyecto ChefStock. En nuestro sitio web, los usuarios pueden acceder a información sobre sus productos para que puedan llevar un seguimiento detallado de todos los elementos necesarios para su operación diaria. 
 ![FrontEnd](assets/FrontEnd1.png)
 
@@ -787,10 +787,10 @@ Durante el segundo sprint, el equipo de desarrollo de FoodStockOS inició la cre
 
 ![FrontEnd](assets/FrontEnd6.png)
 
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 ![Webstorm](assets/Webstorm1.png)
 ![Webstorm](assets/Webstorm2.png)
-#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 Inicialmente creamos el repositorio en Github exclusivamente para la implementar la App
 ![Sprint2_GitHub.png](assets/Sprint2_GitHub.png)
 
@@ -804,13 +804,214 @@ Finalmente la desplegamos:
 
 Link: https://front-end-chefstock.web.app/
 
-#### 5.2.1.8 Team Collaboration Insights during Sprint
+#### 5.2.2.8 Team Collaboration Insights during Sprint
 ![Insights](assets/Insights1.jpg)
 
 ![Insights](assets/Insights2.jpg)
 
+### 5.2.3. Sprint 3 
+En este informe se describen las acciones realizadas para desarrollar la primera versión del back-end "ChefStock", así como algunas mejoras en lo que respecta al front-end. 
+
+Se han agregado puntos específicos para enfocarse en la creación de la nueva versión de la aplicación web front-end "ChefStock". Estos puntos incluyen aspectos como mejora de la página principal, edición de perfil funcional y correcciones en la sección de productos. 
+
+Además, se ha realizado la primera versión del back-end, el cual contiene las características básicas de una base de datos que servirá como un punto de inicio y mejorará continuamente. 
+#### 5.2.3.1 Sprint Planning 3
+<table>
+    <thead>
+        <tr>
+            <th colspan="">Sprint #</th>
+            <th>3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2024/06/4</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>22:00 pm</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>WhatsApp</td>
+        </tr>
+        <tr>
+            <th>Prepared By</th>
+            <td>Tomás Ortiz Fajardo</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Joan Talizo Balbin, Jose Calderon, Adrian Quiroz Caceres, Vittorio Eduardo Espinoza, Tomás Ortiz Fajardo</td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Review Summary</th>
+            <td>Es la tercera reunión donde se evaluarán los puntos que se harán por funciones. </td>
+        </tr>
+        <tr>
+            <th>Sprint Planning Background</th>
+            <td>Se acordó que durante este sprint se centrarán en el desarrollo del Front-End y la creación del Back-end y se dividirán las tareas identificadas entre los miembros del equipo. </td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 3 Goal</th>
+            <td>Durante este sprint, el objetivo principal es crear el Back-end. Esto incluye diseñar y desarrollar una base de datos funcional que cumpla con los requisitos del proyecto. Se asignarán las User Stories relacionadas con la creación del Back-end a los miembros del equipo, y el sprint se considerará exitoso si todas estas historias de usuario asignadas están implementadas y funcionando correctamente al finalizar el sprint. </td>
+        </tr>
+        <tr>
+            <th>Sprint 3 Velocity</th>
+            <td>Se establece un Velocity de 25 Story Points para este Sprint. </td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>32 Story Points</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.2 Sprint  Backlogs 
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 3</th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th colspan="7">Work-Item/Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimación (Horas)</th>
+            <th>Assigned To</th>
+            <th>Status<br>(to-do/In-process/To-Review/Done)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>HU-08</td>
+            <td>Editar página de perfil </td>
+            <td>8</td>
+            <td>Desarrollar la funcionalidad para editar la pagina de perfil </td>
+            <td>Desarrollar la funcionalidad para que cada usuario pueda editar su perfil de la plataforma </td>
+            <td></td>
+            <td>Joan Jefferson Talizo Balbin </td>
+            <td>In-process</td>
+        </tr>
+        <tr>
+            <td>HU-09</td>
+            <td>Visualizar información de productos </td>
+            <td>9</td>
+            <td>Desarrollar la página para visualizar los productos </td>
+            <td>Desarrollar la página para los productos de la plataforma para que el usuario pueda visualizar su inventario en tiempo real </td>
+            <td>3</td>
+            <td>Jose Daniel Mario Calderon Huaman </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>HU-10</td>
+            <td>Añadir producto </td>
+            <td>10</td>
+            <td>Desarrollar la funcionalidad para añadir un nuevo producto </td>
+            <td>Desarrollar la funcionalidad para añadir un nuevo producto al inventario de cada usuario de la plataforma </td>
+            <td>2</td>
+            <td>Jose Daniel Mario Calderon Huaman </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>HU-11</td>
+            <td>Modificar producto </td>
+            <td>11</td>
+            <td>Desarrollar la funcionalidad para editar un producto </td>
+            <td>Desarrollar la funcionalidad para editar un producto para que el usuario tenga actualizado su inventario </td>
+            <td></td>
+            <td>Jose Daniel Mario Calderon Huaman </td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+<table>
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commited on (Date)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>FoodStockOS/ChefStock-Frontend</td>
+            <td>main</td>
+            <td>e154ad7c25db129a486ec7b111fdf062e70200ab</td>
+            <td>feat: add product update form and enhance project visuals</td>
+            <td></td>
+            <td>26/05/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Frontend</td>
+            <td>main</td>
+            <td>c3e3835ff41fd3bc0a93369ab3de3bfcb36b8eb6</td>
+            <td>feat(homepage): botones e imagen añadidos </td>
+            <td></td>
+            <td>30/05/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>4e2facaf65cfdaa355264c7ca94e30719d7f9012</td>
+            <td>Initial commit </td>
+            <td></td>
+            <td>31/05/24</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+Durante este tercer sprint, hemos implementado parcialmente todas las funcionalidades definidas en nuestro Sprint Backlog 3, asegurándonos de cumplir con sus criterios de aceptación correspondientes. 
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+Durante el tercer sprint, el equipo de desarrollo de FoodStockOS mejoró la parte del frontend e inició la creación del back-end para nuestro proyecto ChefStock. En nuestro frontend, la página principal se le agregaron botones que redirigen a nuestras otras secciones, así como mejoramos algunos aspectos a la sección de agregar productos. 
+![FrontEnd](assets/Avance1.jpg)
+
+![FrontEnd](assets/Avance2.jpg)
+
+![FrontEnd](assets/Avance3.jpg)
+
+![FrontEnd](assets/Avance4.jpg)
+
+![FrontEnd](assets/Avance5.jpg)
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+![Webstorm](assets/Webstorm1.png)
+![Webstorm](assets/Webstorm2.png)
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+Frontend:
+
+![Insights](assets/Insights3.jpg)
+
 ## Conclusiones 
-En conclusión, la plataforma ChefStock ha demostrado ser una solución innovadora y eficaz para la gestión de inventarios en la industria restaurantera. Su capacidad para optimizar los recursos y reducir desperdicios ha mejorado significativamente la rentabilidad de los establecimientos que la adoptan. Además, su diseño adaptable y escalable facilita su implementación en diversos entornos gastronómicos, lo que se complementa con un excelente soporte técnico y capacitación continua. Los resultados positivos observados refuerzan la validez de la plataforma como herramienta clave para mejorar la eficiencia operativa y económica en la industria de la restauración.
+La plataforma ChefStock ha demostrado ser una solución innovadora y eficaz para la gestión de inventarios en la industria restaurantera. Su capacidad para optimizar los recursos y reducir desperdicios ha mejorado significativamente la rentabilidad de los establecimientos que la adoptan.  
+
+Su diseño adaptable y escalable facilita su implementación en diversos entornos gastronómicos, lo que se complementa con un excelente soporte técnico y capacitación continua. Los resultados positivos observados refuerzan la validez de la plataforma como herramienta clave para mejorar la eficiencia operativa y económica en la industria de la restauración. 
+
+El front-end se centra en ofrecer una interfaz de usuario intuitiva y accesible, lo cual es esencial para facilitar la adopción y el uso diario por parte del personal de los restaurantes. Posee una interfaz bien diseñada que permite una navegación sencilla y una gestión de inventarios eficiente, lo que reduce la curva de aprendizaje y mejora la experiencia del usuario. 
+
+El back-end está diseñado para gestionar eficientemente grandes volúmenes de datos de inventario en tiempo real, proporcionando escalabilidad y flexibilidad según las necesidades de cada restaurante. La arquitectura del back-end soporta desde pequeñas operaciones hasta grandes establecimientos con un alto número de elementos en el inventario. 
 
 ## Bibliografía
 
@@ -822,6 +1023,10 @@ Enlace para acceder a la App ChefStock: https://front-end-chefstock.web.app/
 Repositorio GitHub Informe: https://github.com/FoodStockOS/ChefStock-Documentation 
 
 Repositorio GitHub LandingPage: https://github.com/FoodStockOS/ChefStock-Landingpage 
+
+Repositorio GitHub Frontend Web Application: https://github.com/FoodStockOS/ChefStock-Frontend 
+
+Repositorio GitHub Backend: https://github.com/FoodStockOS/ChefStock-Backend  
 
 Figma Web Applications Prototyping: https://www.figma.com/proto/jMEFfuUGgA39OBzRyQS87O/Web-Applications-Mock-ups?type=design&node-id=1-2&t=bhfHoLW7QX0Ohvg7-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
 
