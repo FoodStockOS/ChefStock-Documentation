@@ -1182,6 +1182,10 @@ En este segmento, mostramos la elaboración de la parte de seguridad del backend
 Asimismo cada uno explica como lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
 
 
+![VideoAboutTheTeam](assets/VideoAboutTheTeam.png)
+
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/Ea1cSLGtQZpGlSfRe6jlcWABmDIErcC_oBhQFd2x_MldGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=laGkKS
+
 
 ## Video About The Team Back
 ---
