@@ -1017,15 +1017,20 @@ En esta sección, presentamos la relación de EndPoints documentados con OpenAPI
 
 ![Evidencia-EndPoint-2.png](assets/Evidencia-EndPoint-2.png)
 
+![Evidencia-EndPoint-3.png](assets/Evidencia-EndPoint-3.png)
+
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
 Dentro del Sprint 3, realizamos el despliegue de:
 ##### Landing Page
-Mejoramos el landing page a base de las recomendaciones de nuestro profesor y las heurísticas realizadas. Principalmente, añadimos Unete a Nosotros y otros cambios en general. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page]()
+Mejoramos el landing page a base de las recomendaciones de nuestro profesor. El link a nuestra Landing Page: [Clic aquí para ir a Landing Page](https://chefstock-landingpage.web.app/)
+
+![Deplyment-LandingPage-2.png](assets/Deplyment-LandingPage-2.png)
 
 
 ##### Front End
-Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web]()
+Entre varios cambios y mejoras, hemos incluído Fake-APIs a nuestro Front-End por el momento para después conectar y crear la comunicación de ambas partes. Además, se agreago la parte de Únete a nosotros. Dejamos el link de nuestro Front End: [Clic aquí para ir a Aplicación Web](https://front-end-chefstock.web.app/)
 
 ![FrontEnd](assets/Avance2.png)
 
@@ -1045,7 +1050,19 @@ Nuestro equipo se reunió tanto en virtualmente para asignar tareas y discutir l
 
 Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
 
+Report:
+
 ![GitHub-Report-Pulse.png](assets/GitHub-Report-Pulse.png)
+
+Front:
+
+![GitHub-Front-Pulse.jpeg](assets/GitHub-Front-Pulse.jpeg)
+
+Back:
+
+![GitHub-Back-Pulse.jpeg](assets/GitHub-Back-Pulse.jpeg)
+
+
 
 
 ## 5.3. Validation Interviews.
