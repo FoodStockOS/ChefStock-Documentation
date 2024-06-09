@@ -991,6 +991,62 @@ Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más p
             <td></td>
             <td>31/05/24</td>
         </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>0cad156cb2848d9087ce6e210f088b6c5cfbac9c</td>
+            <td>feat: add Products bounded context</td>
+            <td></td>
+            <td>07/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>cb81b0f7a0ac2ad1d4bbe0d1a0edeab22bc872ad</td>
+            <td>feat: redefine DDD elements in InventoryManagement bounded context</td>
+            <td></td>
+            <td>08/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>98f07ab81c786ee4428963eed261a23e128530f7</td>
+            <td>feat: add Category and Supplier entities</td>
+            <td></td>
+            <td>09/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>4ae88708720bd4f0a161f111cfc113cc2102e4dd</td>
+            <td>Update chefstock-platform.dll</td>
+            <td></td>
+            <td>09/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>a1e27b42b4165e50e5ab3eac174a67667cd91128</td>
+            <td>feat: add RestaurantManagement bc</td>
+            <td></td>
+            <td>09/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>29f43b52884ea92be8b4fdac93a2e4d287b2781f</td>
+            <td>feat: add Supplier commands, queries, repository and controller</td>
+            <td></td>
+            <td>09/06/24</td>
+        </tr>
+        <tr>
+            <td>FoodStockOS/ChefStock-Backend</td>
+            <td>main</td>
+            <td>d19a4843dec81d5f6005c0da615da815cc8a76d6</td>
+            <td>feat: add UserManagement bounded context and update InventoryManagement</td>
+            <td></td>
+            <td>09/06/24</td>
+        </tr>
     </tbody>
 </table>
 
