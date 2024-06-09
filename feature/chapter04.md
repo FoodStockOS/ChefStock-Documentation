@@ -216,7 +216,7 @@ La implementación de la arquitectura orientada al dominio (DDD) es crucial para
 **Producto:** Entidad que se vende en los restaurantes y se guarda en el inventario por cierto periodo de tiempo.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![image](https://hackmd.io/_uploads/S12iSZ9gR.png)
+![image](assets/ChefStock-database.png)
 
 
 
