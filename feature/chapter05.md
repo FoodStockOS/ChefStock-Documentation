@@ -1120,6 +1120,31 @@ Back:
 
 
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
+<br>Tabla del planeamiento a profundidad del Sprint 4. <br>
+
+
+#### 5.2.4.2. Sprint Backlog 4.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior ...
+
+
+*Tabla principal del planeamiento del Sprint Backlog 4.* <br>
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
+Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En este sprint 4, hemos logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. <br><br>
+
 
 ## 5.3. Validation Interviews.
 
@@ -1149,8 +1174,47 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 ### 5.3.2. Registro de Entrevistas.
 
+- **Propietarios de restaurantes**
+<br>
 
-### 5.4. Video About-the-Product.
+**Entrevista #1**<br>
+    Nombre y apellidos:  <br>
+    Edad:  años <br>
+    Distrito: ----- <br>
+    Inicio de Entrevista:   <br>
+    Resumen de entrevista: <br>
+
+
+
+  **Entrevista #2**<br>
+    Nombre y apellidos:  <br>
+    Edad:  años <br>
+    Distrito: ----- <br>
+    Inicio de Entrevista:   <br>
+    Resumen de entrevista: <br>
+
+- **Personal de restaurantes**
+<br>
+
+**Entrevista #1**<br>
+    Nombre y apellidos:  <br>
+    Edad:  años <br>
+    Distrito: ----- <br>
+    Inicio de Entrevista:   <br>
+    Resumen de entrevista: <br>
+
+
+
+  **Entrevista #2**<br>
+    Nombre y apellidos:  <br>
+    Edad:  años <br>
+    Distrito: ----- <br>
+    Inicio de Entrevista:  <br>
+    Resumen de entrevista:  <br>
+    
+
+
+5.4. Video About-the-Product.
 ---
 ![VideoAboutProduct](assets/AboutProduct_CheftSotck.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EeqJ5EI9yT9ArkA4uUodIWwBlimWARj7y8i5fMVOgVJ0LA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JlA3Bd
