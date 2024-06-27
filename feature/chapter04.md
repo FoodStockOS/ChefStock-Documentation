@@ -45,7 +45,13 @@ Esta sección se centra en cómo está organizado y presentado el contenido tant
 
 ### 4.2.1. Organization Systems
 
-Para los sistemas de organización preferimos considerar estos 2 tipos: visual y secuencial.
+A continuación, estarán los tipos de estructura visual que tendría cada segmento: 
+
+- Landing Page
+[![image.png](https://i.postimg.cc/Nf86LLnc/image.png)](https://postimg.cc/crHgb1Z9)
+
+- Web Application
+[![image.png](https://i.postimg.cc/wj6hNgKs/image.png)](https://postimg.cc/dLxkPMVq)
 
 #### Organización visual
 
