@@ -332,10 +332,10 @@ Video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019101
 
 Datos Demográficos: 
 
-- **Nombre:** Carla Gutiérrez
-- **Edad:** 41
-- **Distrito:** San Miguel
-- **Ocupación:** Personal del restaurante
+- **Nombre:** Carla Gutiérrez.
+- **Edad:** 41.
+- **Distrito:** San Miguel.
+- **Ocupación:** Personal del restaurante.
 
 Duración de la entrevista: 11:09 minutos.
 
@@ -348,10 +348,10 @@ Duración de la entrevista: 11:09 minutos.
 
 Datos Demográficos: 
 
-* **Nombre:** Pedro Nanfuñay 
-* **Edad:** 21
-* **Distrito:** La Perla
-* **Ocupación:** Propietario de Restaurante 
+* **Nombre:** Pedro Nanfuñay.
+* **Edad:** 21.
+* **Distrito:** La Perla.
+* **Ocupación:** Propietario de Restaurante.
 
 Duración de la entrevista: 4:39 minutos.
   
@@ -367,7 +367,7 @@ Datos Demográficos:
 - **Nombres:** Rosa Cuadros.
 - **Edad:** 22 años.
 - **Distrito:** Chorrillos.
-- **Ocupación:**
+- **Ocupación: Personal de restaurante.**
 
 Duración de la entrevista: 11:42 minutos. 
 
@@ -393,10 +393,23 @@ En esta sección se explica y presenta los artefactos resultantes del proceso de
 
 ![image](https://hackmd.io/_uploads/BJ2I0r_l0.png)
 
-User Persona 2 (Personal de Restaurantes)
+**User Persona 2 (Personal de Restaurantes)**
 
 ![image](https://i.ibb.co/NKgndmV/User-Persona-2.png)
 ### 2.3.2. User Task Matrix.
+
+Los User Task Matrix nos ayudará a identificar las actividades realizadas por nuestro segmento objetivo y evaluar su importancia.
+
+Indicadores de importancia:
+
+| ALTA | BAJA | MEDIA |
+|------|------|-------|      
+
+Indicadores de frecuencia:
+
+| SIEMPRE | RARA VEZ | NUNCA |
+|------|------|-------|   
+
 Los segmentos considerados para esta matriz son: 
 
 **Segmento Objetivo 1**: Propietarios de Restaurantes. 
@@ -413,6 +426,9 @@ Los segmentos considerados para esta matriz son:
 |Gestionar pedidos    |  Alta  |Alta   |  Media | Alta   |
 | Pronosticar la demanda futura   |Alta    |Alta    |  Media | Media   |
 ### 2.3.3. User Journey Mapping
+
+En este punto se llevó a cabo User Journey Mapping para cada User Persona. El flujo comienza cuando el usuario accede al sitio web para consultar el panel de control, realizar búsquedas, actualizar y agregar productos, así como imprimir informes diarios. Esta secuencia nos proporciona insights sobre las acciones del usuario, los procesos implicados, los desafíos que enfrenta, su experiencia y las oportunidades de mejora identificadas.
+
 **User Journey Mapping – SO1** 
 ![image](https://hackmd.io/_uploads/rkILFTbGC.png)
 ### 2.3.4. Empathy Mapping.
