@@ -402,7 +402,7 @@ Los User Task Matrix nos ayudará a identificar las actividades realizadas por n
 
 Indicadores de importancia:
 
-| ALTA | BAJA | MEDIA |
+| ALTA | MEDIA | BAJA |
 |------|------|-------|      
 
 Indicadores de frecuencia:
@@ -419,12 +419,12 @@ Los segmentos considerados para esta matriz son:
 |  Tarea  | SO1   |   | SO2  |   |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |   |  Frecuencia  |  Importancia  |  Frecuencia | Importancia  |
-|Realizar inventario    |  Alta  |  Alta  |   Alta | Alta   |
-|  Verificar fechas de vencimiento  |  Alta  |  Alta  | Media   |  Alta  |
-|  Mantener actualizada la información del inventario  |  Alta  |  Alta  |  Alta  | Alta   |
-| Comunicar actualizaciones de inventario   |  Baja |  Baja |Alta    | Alta   |
-|Gestionar pedidos    |  Alta  |Alta   |  Media | Alta   |
-| Pronosticar la demanda futura   |Alta    |Alta    |  Media | Media   |
+|Realizar inventario    |  Siempre  |  Alta  |   Siempre | Alta   |
+|  Verificar fechas de vencimiento  |  Siempre  |  Alta  | Rara vez   |  Alta  |
+|  Mantener actualizada la información del inventario  |  Siempre  |  Alta  |  Siempre  | Alta   |
+| Comunicar actualizaciones de inventario   |  Rara vez |  Baja |   Siempre    | Alta   |
+|Gestionar pedidos    |  Siempre  |Alta   |  Rara vez  | Alta   |
+| Pronosticar la demanda futura   |   Siempre    |Alta    |  Rara vez  |  Media   |
 ### 2.3.3. User Journey Mapping
 
 En este punto se llevó a cabo User Journey Mapping para cada User Persona. El flujo comienza cuando el usuario accede al sitio web para consultar el panel de control, realizar búsquedas, actualizar y agregar productos, así como imprimir informes diarios. Esta secuencia nos proporciona insights sobre las acciones del usuario, los procesos implicados, los desafíos que enfrenta, su experiencia y las oportunidades de mejora identificadas.
