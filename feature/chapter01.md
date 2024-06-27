@@ -214,13 +214,13 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
     </tr>
     <tr>
         <td colspan="2">La gestión de inventarios representa un desafío constante para los propietarios y gerentes de restaurantes. Este proceso se ha estado haciendo manualmente o con sistemas obsoletos, lo que lleva a problemas y dificultades.</td>
-        <td colspan="2">Herramientas avanzadas de seguimiento y control.<br>
-        Opciones de suscripción flexibles y planes personalizables.<br>
-        Información detallada y actualizada sobre el inventario en tiempo real.<br>
-        Realización de pedidos de reposición y monitorización de existencias.<br>
-        Incorporar herramientas de análisis predictivo para anticipar la demanda de productos y optimizar tanto las compras como el almacenamiento.<br>
-        Establecer alertas automáticas para notificar a los usuarios sobre fechas de vencimiento cercanas y niveles bajos de inventario.<br>
-        Amplia variedad de productos disponibles.</td>
+        <td colspan="2">- Herramientas avanzadas de seguimiento y control.<br>
+        - Opciones de suscripción flexibles y planes personalizables.<br>
+        - Información detallada y actualizada sobre el inventario en tiempo real.<br>
+        - Realización de pedidos de reposición y monitorización de existencias.<br>
+        - Incorporar herramientas de análisis predictivo para anticipar la demanda de productos y optimizar tanto las compras como el almacenamiento.<br>
+        - Establecer alertas automáticas para notificar a los usuarios sobre fechas de vencimiento cercanas y niveles bajos de inventario.<br>
+        - Amplia variedad de productos disponibles.</td>
     </tr>
     <tr>
         <th colspan="2">Business Outcomes</th>
@@ -228,7 +228,7 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
     </tr>
     <tr>
         <td colspan="2">La plataforma tiene como objetivo lograr resultados empresariales significativos al proporcionar una solución completa para la gestión de inventarios en el sector gastronómico. Se anticipa que esto resultará en un aumento considerable en la eficiencia operativa de los restaurantes mediante una mejora en la administración de sus inventarios. Esto incluye una disminución notable del desperdicio de alimentos y las pérdidas económicas relacionadas, además de una mejora en la satisfacción del cliente al asegurar una oferta de productos más consistente y fresca. También se espera que ChefStock incremente la rentabilidad de los restaurantes al optimizar las compras y reducir los costos operativos. A largo plazo, la meta es posicionar a ChefStock como el líder en el mercado de gestión de inventarios para restaurantes, consolidando una reputación de confiabilidad y eficacia en la industria gastronómica.</td>
-        <td colspan="2">Los clientes y usuarios de FoodOS abarcan desde propietarios y gerentes de restaurantes de todos los tamaños, incluidos pequeños locales hasta grandes cadenas de restaurantes. También se incluyen chefs y personal de cocina que se encargan de la gestión de inventarios. Estos usuarios buscan una solución eficiente y fácil de usar para optimizar la administración de sus inventarios y mejorar la eficiencia operativa de sus negocios gastronómicos.</td>
+        <td colspan="2">Los clientes y usuarios de ChefStock abarcan desde propietarios y gerentes de restaurantes de todos los tamaños, incluidos pequeños locales hasta grandes cadenas de restaurantes. También se incluyen chefs y personal de cocina que se encargan de la gestión de inventarios. Estos usuarios buscan una solución eficiente y fácil de usar para optimizar la administración de sus inventarios y mejorar la eficiencia operativa de sus negocios gastronómicos.</td>
     </tr>
     <tr>
         <th colspan="2">Users Benefits</th>
@@ -236,8 +236,11 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
     </tr>
     <tr>
         <td colspan="2">La plataforma proporciona acceso a herramientas de análisis predictivo para optimizar las compras y el almacenamiento, además de mejorar la precisión y el control de las existencias de alimentos y suministros. Asimismo, reduce el tiempo dedicado a tareas administrativas relacionadas con el inventario, simplificando y agilizando el proceso de gestión de inventarios. Esto también contribuye a una notable disminución del desperdicio de alimentos y las pérdidas económicas asociadas.</td>
-        <td colspan="2">Creemos que, si simplificamos el proceso de gestión de inventarios ofreciendo una interfaz intuitiva y herramientas de seguimiento avanzadas, los restaurantes encontrarán más fácilmente los elementos necesarios para su operación diaria.<br>
+        <td colspan="2">Hipótesis 1:<br>
+            Creemos que, si simplificamos el proceso de gestión de inventarios ofreciendo una interfaz intuitiva y herramientas de seguimiento avanzadas, los restaurantes encontrarán más fácilmente los elementos necesarios para su operación diaria.<br>
+            Hipótesis 2:<br>
         Creemos que, al personalizar la experiencia del usuario y ofrecer recomendaciones relevantes basadas en el historial de inventario, aumentaremos la retención de usuarios y la eficiencia operativa general de los restaurantes.<br>
+            Hipótesis 3:<br>
         Creemos que, al proporcionar información detallada y actualizada sobre la disponibilidad de productos y suministros, aumentaremos la confianza de los restaurantes en nuestra plataforma de gestión de inventarios.</td>
     </tr>
     <tr>
