@@ -157,7 +157,7 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
 >    - Tendremos éxito cuando los restaurantes recomienden nuestra plataforma a otros colegas del sector como una herramienta indispensable para mejorar la eficiencia operativa y la rentabilidad del negocio. 
 >    - Es importante resaltar la satisfacción y la confianza de los restaurantes en nuestra plataforma, así como su disposición a compartir su experiencia positiva con otros dentro de la industria restaurantera.
 
-**Features:**
+### Features:
 
 **Tanto para empresas como para usuario:**
 
