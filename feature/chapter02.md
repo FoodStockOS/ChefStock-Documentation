@@ -324,20 +324,27 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 
 ### 2.2.2. Registro de entrevistas.
 
+Video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/Ef95TOQU_RxKurrgB55QiDEBqG69gpQObw_nyiUjvsmwyg?e=ql0dea&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * **Primera Entrevista: Personal de restaurante**
 
 ![Entrevista1_Seg01.png](assets/Entrevista1_Seg01.png)
 
 [Url de la entrevista](https://drive.google.com/file/d/1LG0X_BuGkmrAfMr10enovunPHjfzdZXj/view?usp=sharing )
-- Edad: 41
 
-- Distrito: San Miguel
+Datos Demográficos: 
 
-- Segmento: Personal del restaurante
+- **Nombre:** Carla Gutiérrez
 
+- **Edad:** 41
 
-- Resumen: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión en lo que respecta a la gestión de inventarios. Nos cuenta acerca de la dificultad para mantener actualizada la información de inventario, especialmente en momentos de alta demanda o fluctuaciones en los suministros, así como el largo tiempo que le toma hacer la realización de conteos físicos periódicos para verificar el inventario. Cree que una aplicación de seguimiento permitiría una visión más clara y precisa del inventario disponible, lo que facilitaría la planificación de pedidos, la gestión de stock y la colaboración al permitir compartir información actualizada sobre inventario entre diferentes departamentos o turnos de trabajo. Finalmente, le gustaría ver incluido algunos recordatorios o alarmas para fechas de caducidad de productos, así como herramientas para analizar tendencias de ventas y pronosticar la demanda futura.
+- **Distrito:** San Miguel
+
+- **Ocupación:** Personal del restaurante
+
+Duración de la entrevista: 11:09 minutos.
+
+* **Resumen:** Carla Gutiérrez, personal de un restaurante, nos comenta su opinión en lo que respecta a la gestión de inventarios. Nos cuenta acerca de la dificultad para mantener actualizada la información de inventario, especialmente en momentos de alta demanda o fluctuaciones en los suministros, así como el largo tiempo que le toma hacer la realización de conteos físicos periódicos para verificar el inventario. Cree que una aplicación de seguimiento permitiría una visión más clara y precisa del inventario disponible, lo que facilitaría la planificación de pedidos, la gestión de stock y la colaboración al permitir compartir información actualizada sobre inventario entre diferentes departamentos o turnos de trabajo. Finalmente, le gustaría ver incluido algunos recordatorios o alarmas para fechas de caducidad de productos, así como herramientas para analizar tendencias de ventas y pronosticar la demanda futura.
 
 ***
 * **Segunda Entrevista: Propietario de restaurante**
@@ -346,11 +353,13 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 <div class="text-center"><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213076_upc_edu_pe/EVHUnAzBVnZHulCGeccqCWEBa7cu8QsQq32zoSsg9MGJ8Q?e=TS7CRE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver Entrevista</a></div>
 <br>
 
-* **Entrevistada:** Pedro Nanfuñay 
+* **Nombre:** Pedro Nanfuñay 
 * **Edad:** 21
 * **Distrito:** La Perla
-* **Segmento:** Propietario de Restaurante 
-* 
+* **Ocupación:** Propietario de Restaurante 
+
+Duración de la entrevista: 4:39 minutos.
+  
 * **Resumen:** Pedro Nanfuñay, propietario de un restaurante, proporcionó una visión profunda sobre la gestión de inventarios en su establecimiento. Destacó la importancia crítica de una gestión efectiva para controlar costos, evitar desperdicios y garantizar un flujo operativo eficiente. Identificó la necesidad de mejorar la eficiencia a través de herramientas tecnológicas que faciliten el seguimiento del inventario y la predicción de necesidades futuras. En particular, resaltó el desafío de rastrear fechas de vencimiento y expresó interés en soluciones que automatizaran estas tareas. Pedro mostró disposición para explorar soluciones tecnológicas que se adapten a las necesidades específicas de su restaurante, priorizando la facilidad de uso, la integración con sistemas existentes y el costo. Proporcionó feedback constructivo, enfatizando la importancia de la intuitividad y la capacidad de prever necesidades de inventario como características diferenciales clave. En general, su participación ofreció valiosas percepciones para el desarrollo exitoso de nuestra solución de gestión de inventarios en la industria restaurantera.
 -----
 
@@ -359,14 +368,14 @@ Cambios en las regulaciones fiscales y en la industria restaurantera que requier
 ![Entrevista_Seg02.png](assets/Entrevista_Seg02.png)
 Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EfdEm34j-KlNituEuq-m-cAB7HAxFHfuwWYUIZ0l4yFN5w?e=IdLelc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-- Nombre y Apellidos: Rosa Cuadros
-- Edad: 22 años
-- Distrito: Chorrilos
+- **Nombres:** Rosa Cuadros.
+- **Edad:** 22 años.
+- **Distrito:** Chorrillos.
+- **Ocupación:**
 
-* La entrevista realizada se aborda las dificultades y necesidades de gestión de inventarios en un restaurante. La persona entrevistada, Rosa Cuadros, señala problemas con la complejidad de la interfaz del sistema actual y su dificultad de integración, lo que genera inexactitudes en los informes y actualizaciones de inventario. Asimismo, destaca la tarea problemática de ingresar datos manualmente, lo que a menudo lleva a errores debido a la confusión y sobrecarga de trabajo.
+Duración de la entrevista: 11:42 minutos. 
 
-
-* Por otro lado, expresa la necesidad de características que simplifiquen la entrada de datos, como el escaneo de productos, y una mejor integración con otros sistemas. Además, sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.
+* **Resumen:** La entrevista realizada se aborda las dificultades y necesidades de gestión de inventarios en un restaurante. La persona entrevistada, Rosa Cuadros, señala problemas con la complejidad de la interfaz del sistema actual y su dificultad de integración, lo que genera inexactitudes en los informes y actualizaciones de inventario. Asimismo, destaca la tarea problemática de ingresar datos manualmente, lo que a menudo lleva a errores debido a la confusión y sobrecarga de trabajo. Por otro lado, expresa la necesidad de características que simplifiquen la entrada de datos, como el escaneo de productos, y una mejor integración con otros sistemas. Además, sugiere la implementación de verificaciones de datos en tiempo real para prevenir errores comunes y enfatiza la importancia de un software fácil de usar con alertas automáticas para mejorar la comunicación y la eficiencia operativa. Rosa también recomienda capacitaciones y soporte técnico para facilitar la adopción del software, asimismo, mejorar la gestión diaria y estratégica del inventario.
 
 ### 2.2.3. Análisis de entrevistas.
 
