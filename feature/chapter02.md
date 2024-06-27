@@ -330,16 +330,11 @@ Video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019101
 
 ![Entrevista1_Seg01.png](assets/Entrevista1_Seg01.png)
 
-[Url de la entrevista](https://drive.google.com/file/d/1LG0X_BuGkmrAfMr10enovunPHjfzdZXj/view?usp=sharing )
-
 Datos Demográficos: 
 
 - **Nombre:** Carla Gutiérrez
-
 - **Edad:** 41
-
 - **Distrito:** San Miguel
-
 - **Ocupación:** Personal del restaurante
 
 Duración de la entrevista: 11:09 minutos.
@@ -350,8 +345,8 @@ Duración de la entrevista: 11:09 minutos.
 * **Segunda Entrevista: Propietario de restaurante**
 
 ![image](https://hackmd.io/_uploads/B11nFHde0.png)
-<div class="text-center"><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213076_upc_edu_pe/EVHUnAzBVnZHulCGeccqCWEBa7cu8QsQq32zoSsg9MGJ8Q?e=TS7CRE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">Ver Entrevista</a></div>
-<br>
+
+Datos Demográficos: 
 
 * **Nombre:** Pedro Nanfuñay 
 * **Edad:** 21
@@ -366,7 +361,8 @@ Duración de la entrevista: 4:39 minutos.
 
 * **Tercera Entrevista: Personal del restaurante**
 ![Entrevista_Seg02.png](assets/Entrevista_Seg02.png)
-Link de entrevista: [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EfdEm34j-KlNituEuq-m-cAB7HAxFHfuwWYUIZ0l4yFN5w?e=IdLelc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Datos Demográficos: 
 
 - **Nombres:** Rosa Cuadros.
 - **Edad:** 22 años.
