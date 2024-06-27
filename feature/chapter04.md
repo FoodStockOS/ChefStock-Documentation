@@ -53,9 +53,6 @@ A continuación, estarán los tipos de estructura visual que tendría cada segme
 - Web Application
 [![image.png](https://i.postimg.cc/wj6hNgKs/image.png)](https://postimg.cc/dLxkPMVq)
 
-#### Organización visual
-
-Esta nos permite poder implementarla en la pantalla de inicio del usuario que desea administrar su inventario. Debido a la jerarquía,
 
 ### 4.2.2. Labeling Systems
 
