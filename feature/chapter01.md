@@ -37,11 +37,24 @@ Estamos dedicados a impulsar la innovación y la excelencia en la gestión de in
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### Antecedentes
+
+**Product Name:** ChefStock
+
+**Product Description:** Nuestra aplicación se llama ChefStock. Para atender las necesidades particulares de los restaurantes, esta plataforma integral brinda una amplia gama de funcionalidades, como la administración de inventarios, pedidos automáticos para reabastecimiento y el seguimiento de costos, así como un análisis exhaustivo del rendimiento del inventario. Los dueños y gerentes de restaurantes pueden emplear FoodOS para mejorar sus operaciones, incrementar la rentabilidad y tomar decisiones más informadas basadas en datos precisos.
+
 En el contexto actual de la industria restaurantera, la gestión de inventarios representa un desafío constante para los propietarios y gerentes de restaurantes. Este proceso se ha hecho manualmente o con sistemas obsoletos, lo que lleva a problemas y dificultades. 
 
 La gestión manual de inventarios es propensa a errores humanos, lo que puede resultar en discrepancias entre lo registrado y lo que realmente hay en existencia. Esto puede llevar a problemas como la falta de suministros en momentos críticos o la sobrecompra de productos, lo que afecta negativamente la eficiencia operativa y los costos del negocio. 
 
 Además, la falta de una herramienta integral para la gestión de inventarios dificulta la colaboración y comunicación entre el personal del restaurante. Los equipos pueden tener dificultades para mantenerse al tanto de los niveles de inventario y las necesidades de reposición, lo que puede llevar a interrupciones en el servicio y una experiencia insatisfactoria para los clientes. 
+
+**Monetización:** ChefStock ofrece un modelo de suscripción flexible, disponible en opciones mensuales, trimestrales o anuales, con una prueba gratuita de 30 días para nuevos usuarios. Existen tres planes de suscripción diseñados para adaptarse a las diferentes necesidades y presupuestos de diversos tipos de restaurantes:
+
+- **Plan Básico:** Incluye las funciones esenciales como la gestión de inventarios, pedidos automáticos, seguimiento de existencias y análisis básico de costos.
+- **Plan Premium:* Proporciona características adicionales, tales como soporte técnico prioritario, integraciones con proveedores, informes avanzados y recomendaciones personalizadas.
+- **Plan Personalizado:** Dirigido a grandes cadenas o restaurantes reconocidos, este plan permite a los usuarios seleccionar las funcionalidades que les interesan a través de un formulario interactivo proporcionado por la empresa.
+
+ChefStock funciona mediante estos planes de suscripción para garantizar que todos los restaurantes puedan encontrar la opción que mejor se ajuste a sus necesidades.
 
 En respuesta a estas problemáticas, ChefStock surge como una solución innovadora que busca transformar la forma en que los restaurantes gestionan sus inventarios. Basándose en la tecnología moderna y la accesibilidad en línea, nuestra plataforma ofrece una solución integral para la gestión eficiente de inventarios, abordando los siguientes aspectos: 
 
