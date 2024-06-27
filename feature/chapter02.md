@@ -446,6 +446,9 @@ En este punto se llevó a cabo el User Journey Mapping. El flujo comienza cuando
 
 
 ### 2.3.5 As-Is Scenario Mapping
+
+En la escenario actual (As-Is), el mapeo de la experiencia del usuario sin el uso de nuestra herramienta en desarrollo, comienza cuando el usuario inicia la búsqueda de documentos relacionados con los productos y los compara para mantener la calidad del restaurante. Además, documenta los últimos cargamentos de productos nuevos y elabora el informe diario utilizando documentos físicos de las operaciones realizadas durante el día.
+
 **As-is Scenario Mapping – SO1** 
 ![image](https://hackmd.io/_uploads/H1MtFp-fC.png)
 **As-is Scenario Mapping – SO2** 
@@ -456,6 +459,11 @@ En este punto se llevó a cabo el User Journey Mapping. El flujo comienza cuando
 |---------------------|-------------------------------------------------------------------------------------------------|
 | **Inventory Management** | Proceso de supervisión y control de los artículos y suministros necesarios para las operaciones del restaurante, incluido el seguimiento, pedido y organización del inventario. |
 | **Subscription Plan**   | Modelo de precios donde los clientes pagan una tarifa recurrente en intervalos regulares para acceder a un producto o servicio.                              |
+| **Profitability**          |  El enfoque en maximizar los ingresos y minimizar los costos para incrementar las ganancias del restaurante.           |
+| **Restaurant Owners and Managers**          | Los principales usuarios de la plataforma, responsables de la gestión y operación de los restaurantes.             |
+| **Automatic Ordering**          | El proceso automatizado dentro de la plataforma que efectúa órdenes de reposición de inventario según niveles establecidos previamente.             |
+| **Cost Tracking**          | La capacidad de la plataforma para observar y analizar los gastos asociados con los productos y materiales utilizados en el restaurante.             |
+| **Subscription Model**          | La estructura de pago de la plataforma, donde los usuarios pagan una tarifa regular para acceder a los servicios.             |
 | **Onboarding**          | Proceso de familiarización de nuevos usuarios con una plataforma o servicio, que normalmente implica configuración, capacitación y uso inicial.             |
 | **Dashboard**           | Interfaz visual que proporciona a los usuarios un resumen de información importante y métricas clave.                                                    |
 | **Inventory Tracking**  | Monitoreo y registro del movimiento de artículos dentro y fuera del inventario, generalmente en tiempo real.                                              |
