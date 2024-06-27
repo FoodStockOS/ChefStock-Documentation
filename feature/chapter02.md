@@ -427,7 +427,7 @@ Los segmentos considerados para esta matriz son:
 | Pronosticar la demanda futura   |   Siempre    |Alta    |  Rara vez  |  Media   |
 ### 2.3.3. User Journey Mapping
 
-En este punto se llevó a cabo User Journey Mapping para cada User Persona. El flujo comienza cuando el usuario accede al sitio web para consultar el panel de control, realizar búsquedas, actualizar y agregar productos, así como imprimir informes diarios. Esta secuencia nos proporciona insights sobre las acciones del usuario, los procesos implicados, los desafíos que enfrenta, su experiencia y las oportunidades de mejora identificadas.
+En este punto se llevó a cabo el User Journey Mapping. El flujo comienza cuando el usuario accede al sitio web para consultar el panel de control, realizar búsquedas, actualizar y agregar productos, así como imprimir informes diarios. Esta secuencia nos proporciona insights sobre las acciones del usuario, los procesos implicados, los desafíos que enfrenta, su experiencia y las oportunidades de mejora identificadas.
 
 **User Journey Mapping – SO1** 
 ![image](https://hackmd.io/_uploads/rkILFTbGC.png)
@@ -436,13 +436,15 @@ En este punto se llevó a cabo User Journey Mapping para cada User Persona. El f
 
 - En este Empathy Map, nos centramos en comprender las necesidades, preocupaciones, y emociones de Pedro Nanfuñay		
 
-![image](https://hackmd.io/_uploads/rJ6WgL_lC.png)
+[![SI730-2401-SW55-Web-1.png](https://i.postimg.cc/nhYTBX9Z/SI730-2401-SW55-Web-1.png)](https://postimg.cc/sMxpRDJ0)
 
 **Empathy Mapping – SO2**
 
 - En este Empathy Map, nos centraremos en comprender las necesidades, preocupaciones, y emociones de Carla Gutiérrez.	
 
-![image](https://i.ibb.co/cC1XPpG/image.jpg)
+[![SI730-2401-SW55-Web-2.png](https://i.postimg.cc/L8D97VgW/SI730-2401-SW55-Web-2.png)](https://postimg.cc/pm9M5zZQ)
+
+
 ### 2.3.5 As-Is Scenario Mapping
 **As-is Scenario Mapping – SO1** 
 ![image](https://hackmd.io/_uploads/H1MtFp-fC.png)
