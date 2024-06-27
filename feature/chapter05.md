@@ -1254,11 +1254,14 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 <br>
 
 **Entrevista #1**<br>
-    Nombre y apellidos:  <br>
-    Edad:  años <br>
-    Distrito: ----- <br>
+    Nombre y apellidos: Carla Gutiérrez <br>
+    Edad: 41 años <br>
+    Distrito: San Miguel <br>
     Inicio de Entrevista:   <br>
-    Resumen de entrevista: <br>
+    ![Entrevista1.jpg](assets/Entrevista1.jpg)
+    URL Microsoft Stream (plataforma): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EWBD2tUMpLVFnH9mJ4DZQuMBCph_QJezfgbLmryJywMKWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AWYAgR <br>
+    URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EcWuUuQp57dLsYzxQDkAM6sBY7kJZFncPKyVXKOerHjcnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OtuEW9 <br>
+    Resumen de entrevista: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión acerca de nuestra plataforma y su experiencia al respecto. Ella opina que la plataforma es intuitiva y fácil de navegar, ya que le permite utlizar las funciones deseadas sin muchas complicaciones. Cree que la aplicación tiene suficientes funciones para realizar el inventario y que le gustaría más opciones de personalización en el futuro. Tambien dice que le daría un uso más cotidiano a la plataforma por la utilidad que ofrece y sin mucha información que llegue a complicar al usuario. Finalmente, piensa que tiene el potencial de volverse más popular si se le diera más publicidad entre los resturantes que necesiten este tipo de servicio. <br>
 
 
 
