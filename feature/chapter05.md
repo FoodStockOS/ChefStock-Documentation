@@ -1145,6 +1145,63 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 En este sprint 4, hemos logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. <br><br>
 
+![Avance1.png](assets/Avance1.png)
+
+![Avance2.png](assets/Avance2.png)
+
+![Avance3.png](assets/Avance3.png)
+
+![Avance4.png](assets/Avance4.png)
+
+![Avance5.png](assets/Avance5.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Asimismo, se adjuntan evidencias de la implementación de dichos EndPoints.
+
+![Back_Evidence_Sprint4_part1.png](assets/Back_Evidence_Sprint4_part1.png)
+
+![Back_Evidence_Sprint4_part2.png](assets/Back_Evidence_Sprint4_part2.png)
+
+![Back_Evidence_Sprint4_part3.png](assets/Back_Evidence_Sprint4_part3.png)
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para este sprint 4, se realizo un deploy del backend. Se logró una correcta comunicación entre el FrontEnd y el BackEnd de manera estable.
+
+**Front End**
+
+Entre varios cambios y mejoras, hemos incluído APIs a nuestro Front-End.  Dejamos el link de nuestro Front End:
+
+![Avance1.png](assets/Avance1.png)
+
+[Clic aquí para ir a la Aplicación Web](https://front-end-chefstock.web.app/)
+
+**Backend Deployment**
+![Backend_part1.jpeg](assets/Backend_part1.jpeg)
+
+![Backend_part2.jpeg](assets/Backend_part2.jpeg)
+
+![Backend_part3.jpeg](assets/Backend_part3.jpeg)
+
+![Backend_part4.jpeg](assets/Backend_part4.jpeg)
+
+![Backend_part5.jpeg](assets/Backend_part5.jpeg)
+
+![Backend_part6.jpeg](assets/Backend_part6.jpeg)
+
+
+Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio
+[CLic aquí para ver el Swagger](https://chefstock-backend.up.railway.app/swagger/index.html)
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint..
+Para este sprint 4, hemos continuado con la metodología de trabajo en equipo que hemos venido utilizando en los sprints anteriores. Hemos mantenido una comunicación constante a través de reuniones semanales y el uso de herramientas de colaboración como Trello y Discord. Además, hemos seguido asignando tareas y responsabilidades a cada miembro del equipo, lo que ha permitido un progreso constante y una distribución equitativa de la carga de trabajo.
+
+Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
+
+
+
 
 ## 5.3. Validation Interviews.
 
@@ -1281,3 +1338,5 @@ Video About-the-Product: https://youtu.be/nwcbH2KVz1c
 Video About The Team BackEnd: https://youtu.be/VWZ2gn-veRw
 
 Video About The Team Participants: https://upcedupe-my.sharepoint.com/personal/u201910146_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201910146%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2Dsw55%2Dfoodstock%2Dabout%2Dthe%2Dteam%2Dsprint3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E05a5d08e%2D829b%2D4ea6%2Db0ff%2Df890eb76432a
+
+Backend Deployment: https://chefstock-backend.up.railway.app/swagger/index.html
