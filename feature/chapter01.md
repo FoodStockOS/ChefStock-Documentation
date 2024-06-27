@@ -51,7 +51,7 @@ Además, la falta de una herramienta integral para la gestión de inventarios di
 **Monetización:** ChefStock ofrece un modelo de suscripción flexible, disponible en opciones mensuales, trimestrales o anuales, con una prueba gratuita de 30 días para nuevos usuarios. Existen tres planes de suscripción diseñados para adaptarse a las diferentes necesidades y presupuestos de diversos tipos de restaurantes:
 
 - **Plan Básico:** Incluye las funciones esenciales como la gestión de inventarios, pedidos automáticos, seguimiento de existencias y análisis básico de costos.
-- **Plan Premium:* Proporciona características adicionales, tales como soporte técnico prioritario, integraciones con proveedores, informes avanzados y recomendaciones personalizadas.
+- **Plan Premium:** Proporciona características adicionales, tales como soporte técnico prioritario, integraciones con proveedores, informes avanzados y recomendaciones personalizadas.
 - **Plan Personalizado:** Dirigido a grandes cadenas o restaurantes reconocidos, este plan permite a los usuarios seleccionar las funcionalidades que les interesan a través de un formulario interactivo proporcionado por la empresa.
 
 ChefStock funciona mediante estos planes de suscripción para garantizar que todos los restaurantes puedan encontrar la opción que mejor se ajuste a sus necesidades.
@@ -83,6 +83,12 @@ La plataforma ChefStock ofrece varios planes de suscripción para adaptarse a la
 
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
+
+El propósito principal de ChefStock es ofrecer a los restaurantes una solución integral para la gestión de inventarios, brindando a los propietarios y gerentes el control total necesario para optimizar sus operaciones.
+
+La ineficiencia en la gestión de inventarios impacta directamente en la calidad del servicio y la competitividad de los restaurantes. La falta de supervisión adecuada puede provocar la escasez de ingredientes, desperdicio de alimentos y una experiencia insatisfactoria para los clientes. Además, la carencia de datos precisos y actualizados complica la planificación estratégica y la toma de decisiones comerciales, afectando negativamente la rentabilidad y el éxito a largo plazo del restaurante.
+
+El desafío radica en la ausencia de herramientas de gestión adecuadas en muchos restaurantes, lo que da lugar a problemas operativos como desorganización, falta de control de existencias y pérdidas económicas. Este problema se agrava por la dependencia de métodos manuales e ineficientes, como el registro en papel y el uso de hojas de cálculo digitales, que aumentan la probabilidad de errores y dificultan la toma de decisiones informadas.
 
 **Problema 1:**
 Los restaurantes enfrentan dificultades para gestionar eficientemente sus inventarios debido a la falta de herramientas integrales y fáciles de usar. La ausencia de una plataforma centralizada que permita un seguimiento detallado y en tiempo real de los elementos necesarios para la operación diaria conduce a una gestión ineficiente y a la pérdida de recursos. 
@@ -150,6 +156,16 @@ Esta falta de flexibilidad en la gestión de inventarios puede resultar en una p
 5. **Assumption 5:**
 >    - Tendremos éxito cuando los restaurantes recomienden nuestra plataforma a otros colegas del sector como una herramienta indispensable para mejorar la eficiencia operativa y la rentabilidad del negocio. 
 >    - Es importante resaltar la satisfacción y la confianza de los restaurantes en nuestra plataforma, así como su disposición a compartir su experiencia positiva con otros dentro de la industria restaurantera.
+
+**Features:**
+
+**Tanto para empresas como para usuario:**
+
+>    - La plataforma permitirá monitorear las existencias de alimentos y suministros de manera instantánea, facilitando una administración eficiente en tiempo real.
+>    - Mejorará la gestión de pedidos directamente desde la plataforma, optimizando la cadena de suministro.
+>    - Los usuarios podrán asignar fechas de vencimiento a los productos del inventario y recibirán alertas automáticas cuando se acerquen las fechas límite.
+>    - Proporcionará una interfaz intuitiva y fácil de usar, permitiendo a los usuarios acceder y administrar el inventario de forma sencilla.
+
 - #### 1.2.2.3. Lean UX Hypothesis Statements
 1. **Hipótesis 1:**
    - **Creemos que:** Si simplificamos el proceso de gestión de inventarios ofreciendo una interfaz intuitiva y herramientas de seguimiento avanzadas, los restaurantes encontrarán más fácilmente los elementos necesarios para su operación diaria. 
