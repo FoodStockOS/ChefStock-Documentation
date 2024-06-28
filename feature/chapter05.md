@@ -1257,7 +1257,9 @@ Para este sprint 4, hemos continuado con la metodología de trabajo en equipo qu
 
 Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos ha permitido abordar los desafíos y obstáculos de manera efectiva y trabajar juntos para encontrar soluciones. Además, hemos seguido compartiendo ideas y conocimientos entre nosotros, lo que ha enriquecido nuestro proceso de desarrollo y nos ha permitido aprender unos de otros.
 
+[![image.png](https://i.postimg.cc/vTjWsw4P/image.png)](https://postimg.cc/JHNyNgcJ)
 
+[![image.png](https://i.postimg.cc/VsH9MnKj/image.png)](https://postimg.cc/fkm0QtnL)
 
 
 ## 5.3. Validation Interviews.
