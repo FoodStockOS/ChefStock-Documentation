@@ -1124,20 +1124,20 @@ Back:
 #### 5.2.4.1. Sprint Planning 4.
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
 
-| Sprint #| Sprint 4                                                                                                                                                                                                                                                                                                       |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Sprint Planing Background|                                                                                                                                                                                                                                                                                                                |
-|Date| 2024-06-08                                                                                                                                                                                                                                                                                                     |
-|Time | 41.00                                                                                                                                                                                                                                                                                                          |
-|Location| Reunion Virtual(Plataforma Discord)                                                                                                                                                                                                                                                                            |
-|Prepared By| Tomás Ortiz Fajardo                                                                                                                                                                                                                                                                                            |
-|Attendees (to planning meeting)| Todos los asistentes del equipo                                                                                                                                                                                                                                                                                |
-|Sprint 4 Review Summary| La entrega pasada  tuvimos ciertas correcciones que necesitabamos revisar como el informe, mejorar algunos aspectos de los videos y terminar con el frontend y backend.                                                                                                                                        |
-|Sprint 4 Retrospective Summary| El desarrollo del sprint 4 tuvo varios errores y algunos comentarios de retroalimentación, pero como equipo de trabajo se levanto las observaciones respecto al tercer sprint.                                                                                                                                 |
-|Sprint Goals & User Stories| US01 al US20                                                                                                                                                                                                                                                                                                   |
+| Sprint #| Sprint 4                                                                                                                                                                                                                                                                                                        |
+|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Sprint Planing Background|                                                                                                                                                                                                                                                                                                                 |
+|Date| 2024-06-08                                                                                                                                                                                                                                                                                                      |
+|Time | 41.00                                                                                                                                                                                                                                                                                                           |
+|Location| Reunion Virtual(Plataforma Discord)                                                                                                                                                                                                                                                                             |
+|Prepared By| Tomás Ortiz Fajardo                                                                                                                                                                                                                                                                                             |
+|Attendees (to planning meeting)| Todos los asistentes del equipo                                                                                                                                                                                                                                                                                 |
+|Sprint 4 Review Summary| La entrega pasada  tuvimos ciertas correcciones que necesitabamos revisar como el informe, mejorar algunos aspectos de los videos y terminar con el frontend y backend.                                                                                                                                         |
+|Sprint 4 Retrospective Summary| El desarrollo del sprint 4 tuvo varios errores y algunos comentarios de retroalimentación, pero como equipo de trabajo se levanto las observaciones respecto al tercer sprint.                                                                                                                                  |
+|Sprint Goals & User Stories| US01 al US20                                                                                                                                                                                                                                                                                                    |
 |Sprint 4 Goal| Como meta para este sprint queremos dejar terminado la web application completa, incluyendo el frontend, backend y la landing page. Además queremos terminar el informe para su revision en esta entrega. Asimismo, realizar la conexión del frontend con el backend y desplegar la versión final del proyecto. |
-|Sprint 4 Velocity| La velocidad de este sprint es de 23                                                                                                                                                                                                                                                                           |
-|Sprints of Story Points|                                                                                                                                                                                                                                                                                                                |
+|Sprint 4 Velocity| La velocidad de este sprint es de 23                                                                                                                                                                                                                                                                            |
+|Sprints of Story Points| 13                                                                                                                                                                                                                                                                                                              |
 
 
 #### 5.2.4.2. Sprint Backlog 4.
@@ -1146,10 +1146,10 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 | Id   | Title                             | Id  | Title                                             | Description                                                                                  | Estimations (Hours) | Assigned To               | Status |
 |------|-----------------------------------|-----|---------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------|---------------------------|--------|
 | CC01 | Implementar producto              | C04 | Implementar los productos                         | Desarrollo e implementación del producto  que corresponden  conectando el frontend y backend | 2                   | Tomás Ortiz Fajardo       | Done   |
-| CC02 | Arreglar el Backend               | C01 | Desarrollar las correciones del backend           | Desarrollo de las correciones del backend                                                    | 5                   | Jose Calderon Huaman      | Done   |
-| CC03 | Despliegue del backend            | C02 | Desarrollar el despliegue el backend en azure     | Desarrollo del depliegue del backend en azure                                                | 3                   | Joan Talizo Balbin        | Done   |
+| CC02 | Arreglar el Backend               | C01 | Desarrollar las correciones del backend           | Desarrollo de las correciones del backend                                                    | 4                   | Jose Calderon Huaman      | Done   |
+| CC03 | Despliegue del backend            | C02 | Desarrollar el despliegue el backend en azure     | Desarrollo del depliegue del backend en azure                                                | 2                   | Joan Talizo Balbin        | Done   |
 | CC04 | Unión del frontend con el backend | C03 | Desarollorar la union del frontend con el backend | Desarrollar la unión del frontend con el backend                                             | 3                   | Jose Calderon Huaman      | Done   |
-| CC05 | Realización de entrevistas        | C05 | Desarollorar las entrevistas correspondientes     | Desarrollar las entrevistas correspondientes de cada segmento                                | 3                   | Vittorio Eduardo Espinoza | Done   |
+| CC05 | Realización de entrevistas        | C05 | Desarollorar las entrevistas correspondientes     | Desarrollar las entrevistas correspondientes de cada segmento                                | 2                   | Vittorio Eduardo Espinoza | Done   |
 
 
 
@@ -1162,17 +1162,19 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
 Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
 
-| Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
-|------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
-| ChefStock-UPC | feat/dev     | 74e1e7852557ad8b2cd3df4675bfc00cb39188e2   | Fix: fix corrected ID errors for PUT, DELETE and POST                                                       | 09/06/2024  |
-|            | feat/dev         | 71bdc5cf3b3189cddb306e84806bf7d0ac5cc0bf   | Feat: Add the docker file                                                           | 26/06/2024  |
-|            | feat/dev    | 9aeac36d7a3b7bef4ffc6bfd235e9186847f4db9   | Feat Change categories in ECategory                                    | 26/06/2024  |
-|            | feat/dev    | 8f5c5eb113171ca34e5e1157396ef7cdb946acfb   | Refactor: Update products bounded context integration with backend                                               | 21/06/2024  |
-|            | feat/dev     | 29f43b52884ea92be8b4fdac93a2e4d287b2781f  | Feat: Add supplie commands, queries, repository and controller                                                  | 21/06/2024  |
-|            | feat/dev      | d7d8e1de634c25a51cab04c542f7c387e6daf5ef   | Feat: Update the Program.cs file                                    | 23/06/2024  |
+| Repository     | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
+|----------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
+| ChefStock-UPC  | feat/dev     | 74e1e7852557ad8b2cd3df4675bfc00cb39188e2   | Fix: fix corrected ID errors for PUT, DELETE and POST                                                       | 09/06/2024  |
+| ChefStock-UPC  | feat/dev         | 71bdc5cf3b3189cddb306e84806bf7d0ac5cc0bf   | Feat: Add the docker file                                                           | 26/06/2024  |
+| CheftStock-UPC | feat/dev    | 9aeac36d7a3b7bef4ffc6bfd235e9186847f4db9   | Feat Change categories in ECategory                                    | 26/06/2024  |
+| CheftStock-UPC | feat/dev    | 8f5c5eb113171ca34e5e1157396ef7cdb946acfb   | Refactor: Update products bounded context integration with backend                                               | 21/06/2024  |
+| CheftStock-UPC | feat/dev     | 29f43b52884ea92be8b4fdac93a2e4d287b2781f  | Feat: Add supplie commands, queries, repository and controller                                                  | 21/06/2024  |
+| CheftStock-UPC | feat/dev      | d7d8e1de634c25a51cab04c542f7c387e6daf5ef   | Feat: Update the Program.cs file                                    | 23/06/2024  |
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. El siguiente link se trata de las pruebas de aceptación.
 
 ![image](https://hackmd.io/_uploads/SJMwcUdlR.png)
 
@@ -1260,7 +1262,6 @@ Dicha comunicación ha sido clave para el éxito de nuestro proyecto, ya que nos
 
 ## 5.3. Validation Interviews.
 
---------------------------------------------
 
 ### 5.3.1. Diseño de Entrevistas.
 #### Saludo y presentación
