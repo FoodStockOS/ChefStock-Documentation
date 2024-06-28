@@ -1350,16 +1350,18 @@ El back-end está diseñado para gestionar eficientemente grandes volúmenes de 
 
 En este segmento, mostramos la elaboración del despegue y la conexión del backend con el frontend, además de la implementación de la landing page. Cada miembro del equipo explica su aporte en el proyecto y cómo lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
 
+![About The Team Participants.png](assets/About_The_Team_Participants.png)
 
-![VideoAboutTheTeam](assets/VideoAboutTheTeam.png)
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/EbTMEwRLnaxNt6AzSQbZFMUBEzSvfw0mJGH_ghip_aUvkA?e=WhyEqi
 
-- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/Ea1cSLGtQZpGlSfRe6jlcWABmDIErcC_oBhQFd2x_MldGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=laGkKS
 
-- URL Youtube: https://youtu.be/xCCu7r-03gc
+- URL Youtube: https://youtu.be/sC_WA4icjWg
+
 
  Video About The Team Back
 ---
 ![VideoAboutProductBack](assets/Video-AboutTeam-Back.png)
+
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYISxDqyVQ9Mko00q1smHOMB54x8ZWxAOsxFCp1JhkmhPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6vZvRp
 - URL Youtube: https://youtu.be/VWZ2gn-veRw
   
