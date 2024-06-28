@@ -1302,12 +1302,12 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
   **Entrevista #2**<br>
 [![image.png](https://i.postimg.cc/s2tcbYR7/image.png)](https://postimg.cc/QBJ1TWCd)
     
-    Nombre y apellidos: Sebastian Samora <br>
-    Edad:  25 años <br>
-    Distrito: San Borja, Lima <br>
-    Inicio de Entrevista: 16:43 <br>
-    Resumen de entrevista: <br>
-    Sebastian Samora nos da varias recomendaciones para nuestra aplicacion. Desde la posicion de algunos botones como el diseño de la pagina, sentimos que su feedback nos ayuda mucho a poder mejorar la aplicación y cumplir con los estandares del area de logistica de los restaurantes. Por otro lado, le gusto mucho la funcionalidad de la aplicación, y en algunos momentos sonó impresionado con algunos botones y secciones de la web application. Termino contandonos que le gusto mucho la aplicacion y que para ser la fase beta, es una muy buena aplicación. 
+   Nombre y apellidos: Sebastian Samora <br>
+   Edad:  25 años <br>
+   Distrito: San Borja, Lima <br>
+   Inicio de Entrevista: 16:43 <br>
+   Resumen de entrevista: <br>
+   Sebastian Samora nos da varias recomendaciones para nuestra aplicacion. Desde la posicion de algunos botones como el diseño de la pagina, sentimos que su feedback nos ayuda mucho a poder mejorar la aplicación y cumplir con los estandares del area de logistica de los restaurantes. Por otro lado, le gusto mucho la funcionalidad de la aplicación, y en algunos momentos sonó impresionado con algunos botones y secciones de la web application. Termino contandonos que le gusto mucho la aplicacion y que para ser la fase beta, es una muy buena aplicación. 
 
 - **Personal de restaurantes**
 <br>
