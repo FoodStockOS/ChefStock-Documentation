@@ -1372,7 +1372,15 @@ En este segmento, mostramos la elaboración del despegue y la conexión del back
 
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYISxDqyVQ9Mko00q1smHOMB54x8ZWxAOsxFCp1JhkmhPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6vZvRp
 - URL Youtube: https://youtu.be/VWZ2gn-veRw
-  
+
+ Video Validation Sprint 4  Interviews
+--
+![ChefStock_Validation_Sprint4.png](assets/ChefStock_Validation_Sprint4.png)
+
+
+- URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=fFLc2n\
+- URL Youtube: 
+
 
 ## Bibliografía
 
@@ -1380,6 +1388,9 @@ En este segmento, mostramos la elaboración del despegue y la conexión del back
 Enlace para acceder a la landing page: https://chefstock-landingpage.web.app/ 
 
 Enlace para acceder a la App ChefStock: https://front-end-chefstock.web.app/
+
+Backend Deployment: https://chefstock-platform.azurewebsites.net/swagger/index.html
+
 
 Repositorio GitHub Informe: https://github.com/FoodStockOS/ChefStock-Documentation 
 
@@ -1399,4 +1410,5 @@ Video About Deployment Evidence for Sprint Review: https://upcedupe-my.sharepoin
 
 Video About The Team Participants: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/EbTMEwRLnaxNt6AzSQbZFMUBEzSvfw0mJGH_ghip_aUvkA?e=WhyEqi
 
-Backend Deployment: https://chefstock-platform.azurewebsites.net/swagger/index.html
+Video Validation Sprint 4 Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=fFLc2n
+
