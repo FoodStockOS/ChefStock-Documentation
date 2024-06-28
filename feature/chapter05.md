@@ -1361,11 +1361,14 @@ URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 
 ### 5.3.3. Evaluaciones según heurísticas. 
-# SITE o APP A EVALUAR:
+### SITE o APP A EVALUAR:
 ### Chefstock
 
 Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web ChefStock.
-Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística, inicialmente investigada.
+
+<br>
+
 TAREAS A EVALUAR:
 1.	Desktop landing page
 1.	Información y descripción de la aplicación y sus funcionalidades
@@ -1388,7 +1391,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 2.	Política de privacidad y condiciones de uso
 2.	Web Application
 1.	Registro de nuevo usuario
-2.	Modificación y eliminación de procesos o cultivos registrados
+2.	Modificación y eliminación de proveedorees.
 3.	Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
 4.	Documentación y exportación de registros
 5.	Flexibilidad de uso a través de atajos por teclado
@@ -1397,6 +1400,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 # ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
 | Nivel | Descripción                                                                                                                            |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
@@ -1407,14 +1411,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 # TABLA RESUMEN:
 Desktop landing page
 
-| #   | Problema                                                                                                                 | Escala de severidad | Heurística/Principio violado   |
-|-----|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
-| 1   | Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar | 4                   | Usability: Control y libertad del usuario |
-| 2   | Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión | 4                   | Usability: Control y libertad del usuario |
-| 3   | Al seleccionar el botón “about us” no se redirige a ningún espacio en la landing page                                   | 3                   | Usability: Coincidencia entre el sistema y el mundo real |
-| 4   | La iconografía empleada en la sección “What we offer?” resalta más que el contenido informativo                        | 2                   | Usability: Diseño estético y minimalista |
-| 5   | No se encuentra mucha información acerca del Startup y qué es lo que ofrece                       | 3                   | Inclusive Design: Diseño Centrado en el Usuario |
-| 6   | Al seleccionar el botón de “Contact Us” el usuario no es redirigido al apartado de contacto aunque este si esta implementado en la landing page   | 4                   | Usability: Coincidencia entre el sistema y el mundo real |
+| #   | Problema                                                                                                                                        | Escala de severidad | Heurística/Principio violado   |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
+| 1   | Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar                             | 4                   | Usability: Control y libertad del usuario |
+| 2   | Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión         | 4                   | Usability: Control y libertad del usuario |
+| 3   | Al seleccionar el botón “about us” no se redirige a ningún espacio en la landing page                                                           | 3                   | Usability: Coincidencia entre el sistema y el mundo real |
+| 4   | La iconografía empleada en la sección “Empecemos” resalta más que el contenido informativo                                                      | 2                   | Usability: Diseño estético y minimalista |
+| 5   | No se encuentra mucha información acerca del Startup y qué es lo que ofrece                                                                     | 3                   | Inclusive Design: Diseño Centrado en el Usuario |
+| 6   | Al seleccionar el botón de “Contact Us” el usuario no es redirigido al apartado de contacto aunque este si esta implementado en la landing page | 4                   | Usability: Coincidencia entre el sistema y el mundo real |
 
 
 __Problema #01:__  Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar
@@ -1460,7 +1464,7 @@ __Descripción del problema:__ Cuando un usuario hace clic en un botón con etiq
 __Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “About us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
 
 
-__PROBLEMA #04:__ La iconografía empleada en la sección “what we offer?” resalta más que el contenido informativo.
+__PROBLEMA #04:__ La iconografía empleada en la sección “Empecemos!” resalta más que el contenido informativo.
 
 __Escala de severidad:__ 02
 
@@ -1473,7 +1477,7 @@ __Information Arquitecture:__ Jerarquía de la información
 La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
 
 __Descripción del problema:__
-El problema identificado es que en la sección "what we offer" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+El problema identificado es que en la sección "Homespace" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
 Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas
 
 ![](/Assets/Img/Chapter%20V/heuristica%204.png)
@@ -1511,7 +1515,7 @@ El Inclusive Desing esta centrado en el usuario e implica satisfacer sus necesid
 
 __Descripción del problema:__
 
-Cuando un usuario hace clic en un botón con etiqueta “Contact Us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado donde el usuario podría ponerse en contacto con nosotros, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en " Contact Us” no se direcciona al usuario al apartado de “Contact Us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
+Cuando un usuario hace clic en un botón con etiqueta “Empecemos!” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado donde el usuario podría ponerse en contacto con nosotros, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en " Contact Us” no se direcciona al usuario al apartado de “Contact Us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
 
 ![](/Assets/Img/Chapter%20V/heu6.png)
 
@@ -1585,6 +1589,7 @@ Su diseño adaptable y escalable facilita su implementación en diversos entorno
 El front-end se centra en ofrecer una interfaz de usuario intuitiva y accesible, lo cual es esencial para facilitar la adopción y el uso diario por parte del personal de los restaurantes. Posee una interfaz bien diseñada que permite una navegación sencilla y una gestión de inventarios eficiente, lo que reduce la curva de aprendizaje y mejora la experiencia del usuario. 
 
 El back-end está diseñado para gestionar eficientemente grandes volúmenes de datos de inventario en tiempo real, proporcionando escalabilidad y flexibilidad según las necesidades de cada restaurante. La arquitectura del back-end soporta desde pequeñas operaciones hasta grandes establecimientos con un alto número de elementos en el inventario. 
+
 
 
 ## Video About The Team
