@@ -51,7 +51,7 @@ A continuación, estarán los tipos de estructura visual que tendría cada segme
 [![Picture1.png](https://i.postimg.cc/SN1xYtZG/Picture1.png)](https://postimg.cc/9rThv1H4)
 
 - Web Application
-[![image.png](https://i.postimg.cc/wj6hNgKs/image.png)](https://postimg.cc/dLxkPMVq)
+[![Picture2.png](https://i.postimg.cc/vBHBY9zS/Picture2.png)](https://postimg.cc/8F9Dw7xh)
 
 
 ### 4.2.2. Labeling Systems
