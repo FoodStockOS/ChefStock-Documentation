@@ -226,7 +226,7 @@ La implementación de la arquitectura orientada al dominio (DDD) es crucial para
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![image](assets/ChefStock-database.png)
+[![Database-Diagram-2024-06-28-12-42.png](https://i.postimg.cc/4y0nFdp2/Database-Diagram-2024-06-28-12-42.png)](https://postimg.cc/T5rRKT7n)
 
 
 
