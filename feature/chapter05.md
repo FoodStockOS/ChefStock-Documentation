@@ -1353,9 +1353,9 @@ URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 # SITE o APP A EVALUAR:
-### FOODOS
+### Chefstock
 
-Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web VERSOFT.
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web ChefStock.
 Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
 TAREAS A EVALUAR:
 1.	Desktop landing page
