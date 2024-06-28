@@ -1382,7 +1382,7 @@ En este segmento, mostramos la elaboración del despegue y la conexión del back
 
 
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=fFLc2n\
-- URL Youtube: 
+- URL Youtube:  https://youtu.be/ncf4iDsBS1E
 
 
 ## Bibliografía
