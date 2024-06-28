@@ -210,15 +210,20 @@ La implementación de la arquitectura orientada al dominio (DDD) es crucial para
 
 
 ### 4.7.2. Class Dictionary
-**Trabajador:** Persona que trabaja en el restaurante y se encarga de diferentes actividades en el lugar. 
+- **User:** Clase que incluye los atributos del usuario.
+- **Email:** Clase que contiene la información del correo electrónico.
+- **File:** Clase que describe las características de un archivo.
+- **Product:** Clase que incluye los atributos de los productos como nombre, fecha de caducidad y estado.
+- **Profile:** Clase que incluye atributos como la dirección, el correo electrónico y la foto de perfil.
+- **Task:** Clase que incluye atributos como el nombre, el estado y la fecha de finalización.
+- **Group:** Clase que incluye atributos como los miembros y las tareas del grupo.
+- **Membership:** Clase que define los diferentes tipos de membresías.
+- **DateProduct:** Clase que contiene las fechas relacionadas con el producto.
+- **Role:** Clase que define los tipos de roles que puede tener un usuario.
+- **PersonName:** Clase que incluye los atributos del nombre y los apellidos.
+- **Inventory:** Clase que incluye los atributos de un inventario como los productos, grupos y archivos.
 
-**Restaurante:** Entidad a donde los clientes van a realizar pedidos y se ubica el inventario. 
 
-**Cliente:** Persona que va al restaurante a pedir comida y puede hacer comentarios al respecto. 
-
-**Inventario:** Lugar en donde se almacena todos los productos que se utilizara en el restaurante. 
-
-**Producto:** Entidad que se vende en los restaurantes y se guarda en el inventario por cierto periodo de tiempo.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 ![image](assets/ChefStock-database.png)
