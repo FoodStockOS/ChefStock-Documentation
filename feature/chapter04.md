@@ -202,8 +202,10 @@ La implementación de la arquitectura orientada al dominio (DDD) es crucial para
 
 ## 4.7. Software Object-Oriented Design
 
-### 4.7.1. Class Diagrams
-![image](https://hackmd.io/_uploads/BkQuBZ5lR.png)
+### 4.7.1. Class Diagram
+[![Chef-Stock-2.png](https://i.postimg.cc/bNDKLCyg/Chef-Stock-2.png)](https://postimg.cc/N5tJjxr2)
+
+[Link del LucidChart Class Diagram ](https://lucid.app/lucidchart/28865a10-4f8a-4e27-97d7-b4841668969d/edit?viewport_loc=-1032%2C-683%2C4070%2C2181%2C0_0&invitationId=inv_6a77c003-98c2-4c11-a885-bfb3906a68f9)
 
 
 
