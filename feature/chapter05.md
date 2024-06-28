@@ -1164,7 +1164,15 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
+
+| Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
+|------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
+| ChefStock-UPC | feat/dev     | 74e1e7852557ad8b2cd3df4675bfc00cb39188e2   | Fix: fix corrected ID errors for PUT, DELETE and POST                                                       | 09/06/2024  |
+|            | feat/dev         | 71bdc5cf3b3189cddb306e84806bf7d0ac5cc0bf   | Feat: Add the docker file                                                           | 26/06/2024  |
+|            | feat/dev    | 9aeac36d7a3b7bef4ffc6bfd235e9186847f4db9   | Feat Change categories in ECategory                                    | 26/06/2024  |
+|            | feat/dev    | 8f5c5eb113171ca34e5e1157396ef7cdb946acfb   | Refactor: Update products bounded context integration with backend                                               | 21/06/2024  |
+|            | feat/dev     | 29f43b52884ea92be8b4fdac93a2e4d287b2781f  | Feat: Add supplie commands, queries, repository and controller                                                  | 21/06/2024  |
+|            | feat/dev      | d7d8e1de634c25a51cab04c542f7c387e6daf5ef   | Feat: Update the Program.cs file                                    | 23/06/2024  |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
