@@ -1377,6 +1377,8 @@ Video About-the-Product: https://youtu.be/nwcbH2KVz1c
 
 Video About The Team BackEnd: https://youtu.be/VWZ2gn-veRw
 
+Video About Deployment Evidence for Sprint Review: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EaHNabPjoVFKlPi-JtLEvZcBsNqauo1SQ0jRnyCBB0fhkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=F3Yewv
+
 Video About The Team Participants: https://upcedupe-my.sharepoint.com/personal/u201910146_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201910146%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2Dsw55%2Dfoodstock%2Dabout%2Dthe%2Dteam%2Dsprint3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E05a5d08e%2D829b%2D4ea6%2Db0ff%2Df890eb76432a
 
-Backend Deployment: https://chefstock-backend.up.railway.app/swagger/index.html
+Backend Deployment: https://chefstock-platform.azurewebsites.net/swagger/index.html
