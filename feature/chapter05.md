@@ -1174,7 +1174,13 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
+![image](https://hackmd.io/_uploads/SJMwcUdlR.png)
 
+![image](https://hackmd.io/_uploads/SkADqUOgR.png)
+
+![image](https://hackmd.io/_uploads/BkVO9IOeC.png)
+
+![image](https://hackmd.io/_uploads/rJKd5LOl0.png)
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
