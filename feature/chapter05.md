@@ -1359,6 +1359,10 @@ URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/pers
 <br>
     Resumen de entrevista: Jose Lopez nos ha brindado un feedback muy bueno para nuestra Web Application. Nos comentaba que le gusta mucho la aplicacion, es muy intuitiva y facil de entender y manejar. Ademas que le gusta la paleta de colores que hemos escogido. Nos comenta que esto es de mucha ayuda para personal de restaurante como él, ya que él todavia trabaja con papel y lapiz, y esto la facilitaria mucho la vida, incluyendo a sus compañeros de trabajo. Nos comenta que siempre se puede mejorar, y que nuestra aplicación esta por un muy buen inicio. <br>
 
+## Analisis final de las entrevistas:
+
+Tras realizar las entrevistas de validación con el segmento de propietarios y personal de restaurantes, hemos recopilado información crucial para el desarrollo de nuestra aplicación web. Los participantes destacaron que las funcionalidades implementadas serán de gran ayuda para la administración de su inventario interno, tanto al añadir productos con la información requerida como al gestionar su equipo de trabajo y las tareas asignadas a cada miembro. Además, señalaron que las secciones de cada funcionalidad están bien organizadas y son de fácil acceso, incluso para personas que no están familiarizadas con las tecnologías digitales. Como sugerencia personal, mencionaron que, aunque la distribución de los botones es ideal y facil de entender, podemos cambiarlos un poco visualmente para que no se confundan con el color de fondo. Fuera de esa observación, nuestro segmento de restaurantes está satisfecho con las funcionalidades desarrolladas.
+
 
 ### 5.3.3. Evaluaciones según heurísticas. 
 ### SITE o APP A EVALUAR:
