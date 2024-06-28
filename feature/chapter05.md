@@ -1235,12 +1235,18 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 <br>
 
 **Entrevista #1**<br>
-    Nombre y apellidos:  <br>
-    Edad:  años <br>
-    Distrito: ----- <br>
-    Inicio de Entrevista:   <br>
-    Resumen de entrevista: <br>
+    Nombre y apellidos: Maykol Valencia  <br>
+    Edad:  22 años <br>
+    Distrito: Selva Alegre <br>
+    Inicio de Entrevista: 00:05  <br>
 
+![Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png](assets/Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png)
+
+
+[URL_De_Entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBA-UEM-kl-euejHsHk2r9yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jNUolt)
+
+Resumen de entrevista: <br>
+Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock, diseñada para la gestión de inventarios en restaurantes. Considera que la interfaz de usuario es fácil de navegar y que las funciones son intuitivas y fáciles de usar. Le gustaría que la aplicación tuviera más opciones de personalización y considera que tiene el potencial de volverse más popular si se le diera más publicidad entre los restaurantes que necesiten este tipo de servicio. En general, considera que la aplicación es útil y fácil de usar, y que le daría un uso más cotidiano por la utilidad que ofrece.
 
 
   **Entrevista #2**<br>
