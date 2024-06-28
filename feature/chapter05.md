@@ -1278,6 +1278,8 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 ### 5.3.2. Registro de Entrevistas.
 
+[URL_De_Entrevistas ]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBA-UEM-kl-euejHsHk2r9yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VJeXSp](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=M4EDKn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+
 - **Propietarios de restaurantes**
 <br>
 
@@ -1290,9 +1292,8 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 ![Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png](assets/Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png)
 
 
-[URL_De_Entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBA-UEM-kl-euejHsHk2r9yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VJeXSp)
+
 <br>
-[URL_De_Entrevista_YouTube](https://youtu.be/5vSirT8C68U)
 
 
 Resumen de entrevista: <br>
