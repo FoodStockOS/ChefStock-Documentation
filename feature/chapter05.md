@@ -1146,25 +1146,27 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 
 ## Sprint 2
 
-| Sprint # | Sprint | User Story | Work-item/Task | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
-|----------|--------|------------|----------------|---------------------|-------------|-----------------------------------------|
-|          |        | ID   | Title | Description |      |             |                                         |
-|          | Sprint 2 | US01 - Registro de cuenta | TA01 | Realizar componente del registro | Se desarrolla todas las funcionalidades del componente registro con sus estilos | 3 | Brayan Smith | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio encargado de enviar los datos de registro al backend. | 0.30 | Brayan | Done |
-|          |        | US02 - Inicio de sesión | TA01 | Crear componente con estilos | Se creará los componentes con sus estilos | 2 | Brayan | Done |
-|          |        |            | TA02 | Agregar al servicio de auth la posibilidad de logearse | Se desarrolla la función de logeo en el servicio y conservación de la sesión | 2 | Brayan | Done |
-|          |        |            | TA03 | Definir rutas para la parte del logeo | Se definirá la ruta en el módulo routing module | 1 | Brayan | Done |
-|          |        | US03 - Cierre de sesión | TA01 | Implementar función en el servicio que permita el cierre de sesión | Se implementará una función Log Out que borre los datos del usuario del local storage. | 1 | Brayan | Done |
-|          |        | US05 - Visualizar información de la cuenta | TA01 | Crear componente que permita ver el perfil del usuario | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar los datos del perfil y modificarlos. | 2 | Brayan | Done |
-|          |        | US04 - Actualizar información de cuenta | TA01 | Crear un componente dialog que permita editar la cuenta | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
-|          |        | US06 - Eliminar permanentemente la cuenta | TA01 | Crear un componente dialog que confirme la eliminación | Se desarrollará los estilos y lógicas | 2 | Brayan Smith | Done |
-|          |        | US07 - Agregar un producto al inventario | TA01 | Crear el componente que será la página principal para ver el inventario | Se desarrollará los estilos y lógicas | 4 | Piero Alonso | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar la información de los productos. | 2 | Piero Alonso | Done |
-|          |        |            | TA03 | Crear un dialog con un formulario | Se creará un componente dialog para agregar productos | 2 | Piero Alonso | Done |
-|          |        | US08 - Eliminar un producto del inventario | TA01 | Crear un componente que se encargue de confirmar la eliminación de un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
-|          |        | US09 - Actualizar un producto en el inventario | TA01 | Crear un componente que se encargue de actualizar un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
-|          |        | US10 - Ver todos los productos del inventario | TA01 | Crear un componente que funcione de página que muestre los productos | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+| Sprint # | Sprint 2 |
+|----------|----------|
+| User Story | Work-item/Task | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|-----------|----------------|---------------------|-------------|-----------------------------------------|
+| ID  | Title  | ID | Title | Description |      |             |                                         |
+| US01 | Registro de cuenta | TA01 | Realizar componente del registro | Se desarrolla todas las funcionalidades del componente registro con sus estilos | 3 | Brayan Smith | Done |
+|      |                    | TA02 | Crear servicio | Se crea el servicio encargado de enviar los datos de registro al backend. | 0.30 | Brayan | Done |
+| US02 | Inicio de sesión   | TA01 | Crear componente con estilos | Se creará los componentes con sus estilos | 2 | Brayan | Done |
+|      |                    | TA02 | Agregar al servicio de auth la posibilidad de logearse | Se desarrolla la función de logeo en el servicio y conservación de la sesión | 2 | Brayan | Done |
+|      |                    | TA03 | Definir rutas para la parte del logeo | Se definirá la ruta en el módulo routing module | 1 | Brayan | Done |
+| US03 | Cierre de sesión   | TA01 | Implementar función en el servicio que permita el cierre de sesión | Se implementará una función Log Out que borre los datos del usuario del local storage. | 1 | Brayan | Done |
+| US05 | Visualizar información de la cuenta | TA01 | Crear componente que permita ver el perfil del usuario | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
+|      |                    | TA02 | Crear servicio | Se crea el servicio para solicitar los datos del perfil y modificarlos. | 2 | Brayan | Done |
+| US04 | Actualizar información de cuenta | TA01 | Crear un componente dialog que permita editar la cuenta | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
+| US06 | Eliminar permanentemente la cuenta | TA01 | Crear un componente dialog que confirme la eliminación | Se desarrollará los estilos y lógicas | 2 | Brayan Smith | Done |
+| US07 | Agregar un producto al inventario | TA01 | Crear el componente que será la página principal para ver el inventario | Se desarrollará los estilos y lógicas | 4 | Piero Alonso | Done |
+|      |                    | TA02 | Crear servicio | Se crea el servicio para solicitar la información de los productos. | 2 | Piero Alonso | Done |
+|      |                    | TA03 | Crear un dialog con un formulario | Se creará un componente dialog para agregar productos | 2 | Piero Alonso | Done |
+| US08 | Eliminar un producto del inventario | TA01 | Crear un componente que se encargue de confirmar la eliminación de un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+| US09 | Actualizar un producto en el inventario | TA01 | Crear un componente que se encargue de actualizar un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+| US10 | Ver todos los productos del inventario | TA01 | Crear un componente que funcione de página que muestre los productos | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
 
 
 
