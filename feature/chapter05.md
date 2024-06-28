@@ -1145,27 +1145,188 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 
 ## Sprint 2
 
-| Sprint # | Sprint | User Story | Work-item/Task | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
-|----------|--------|------------|----------------|---------------------|-------------|-----------------------------------------|
-|          |        | ID   | Title | Description |      |             |                                         |
-|          | Sprint 2 | US01 - Registro de cuenta | TA01 | Realizar componente del registro | Se desarrolla todas las funcionalidades del componente registro con sus estilos | 3 | Brayan Smith | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio encargado de enviar los datos de registro al backend. | 0.30 | Brayan | Done |
-|          |        | US02 - Inicio de sesión | TA01 | Crear componente con estilos | Se creará los componentes con sus estilos | 2 | Brayan | Done |
-|          |        |            | TA02 | Agregar al servicio de auth la posibilidad de logearse | Se desarrolla la función de logeo en el servicio y conservación de la sesión | 2 | Brayan | Done |
-|          |        |            | TA03 | Definir rutas para la parte del logeo | Se definirá la ruta en el módulo routing module | 1 | Brayan | Done |
-|          |        | US03 - Cierre de sesión | TA01 | Implementar función en el servicio que permita el cierre de sesión | Se implementará una función Log Out que borre los datos del usuario del local storage. | 1 | Brayan | Done |
-|          |        | US05 - Visualizar información de la cuenta | TA01 | Crear componente que permita ver el perfil del usuario | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar los datos del perfil y modificarlos. | 2 | Brayan | Done |
-|          |        | US04 - Actualizar información de cuenta | TA01 | Crear un componente dialog que permita editar la cuenta | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
-|          |        | US06 - Eliminar permanentemente la cuenta | TA01 | Crear un componente dialog que confirme la eliminación | Se desarrollará los estilos y lógicas | 2 | Brayan Smith | Done |
-|          |        | US07 - Agregar un producto al inventario | TA01 | Crear el componente que será la página principal para ver el inventario | Se desarrollará los estilos y lógicas | 4 | Piero Alonso | Done |
-|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar la información de los productos. | 2 | Piero Alonso | Done |
-|          |        |            | TA03 | Crear un dialog con un formulario | Se creará un componente dialog para agregar productos | 2 | Piero Alonso | Done |
-|          |        | US08 - Eliminar un producto del inventario | TA01 | Crear un componente que se encargue de confirmar la eliminación de un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
-|          |        | US09 - Actualizar un producto en el inventario | TA01 | Crear un componente que se encargue de actualizar un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
-|          |        | US10 - Ver todos los productos del inventario | TA01 | Crear un componente que funcione de página que muestre los productos | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US01 </td>
+    <td rowspan="2" align="center"> Registro de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar componente del registro</td>
+    <td align="justify"> Se desarrolla todas las funcionalidades del componente registro con sus estilos</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
 
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio encargado de enviar los datos de registro al backend. </td>
+    <td align="center"> 0.30</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> US02 </td>
+    <td rowspan="3" align="center">Inicio de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente con estilos </td>
+    <td align="justify"> Se creara los componentes con sus estilos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar al servicio de auth la posibilidad de logearse</td>
+    <td align="justify"> Se desarrolla la funcion de logeo en el servicio y conservacion de la sesion</td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Definir rutas para la parte del logeo </td>
+    <td align="justify"> Se definira la ruta en el modulo routing module</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US03 </td>
+    <td rowspan="1" align="center"> Cierre de sesión</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementar funcion en el servicio que permita el cierre de sesion </td>
+    <td align="center"> Se implementara una funcion Log Out que borre l;os datos del usuario del local storage.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Brayan</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US05 </td>
+    <td rowspan="2" align="center"> Visualizar información de la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente que permita ver el perfil del usuario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar los datos del perfil y modificarlos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Brayan</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US04 </td>
+    <td rowspan="1" align="center"> Actualizar información de cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que permita editar la cuenta</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US06 </td>
+    <td rowspan="1" align="center"> Eliminar permanentemente la cuenta </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente dialog que confirmar la eliminacion</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Brayan Smith</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US07 </td>
+    <td rowspan="3" align="center">Agregar un producto al inventario </td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear el componente que sera la pagina principal para ver el inventario</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 4 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Crear servicio </td>
+    <td align="center"> Se crea el servicio para solicitar la informacion de los productos. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">Done</td>
+  </tr>
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Crear un dialog con un formulario </td>
+    <td align="center"> Se creara un componente dialog para agregar productos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Piero Alonso</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US08 </td>
+    <td rowspan="1" align="center">Eliminar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de confirmar la eliminacion de un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US09 </td>
+    <td rowspan="1" align="center">Actualizar un producto al inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente q se encarge de actualizar un producto</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center"> US10 </td>
+    <td rowspan="1" align="center">ver todos los productos del inventario</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Crear un componente que funcione de pagina que muestre los productos</td>
+    <td align="justify"> Se desarrollara los estilos y logicas </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Piero alonso</td>
+    <td align="center">Done</td>
+  </tr>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
