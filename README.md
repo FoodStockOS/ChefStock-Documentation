@@ -2,8 +2,8 @@
 ![UPC](assets/UPC_logo_transparente.png)
 # APLICACIONES WEB (SW55)
 ## PROFESOR: Francisco José Cáceres Honores
-## "INFORME DE TRABAJO 1 APLICACIONES WEB"
-## STARTUP: FoodStovkOS
+## "INFORME DE TRABAJO TF APLICACIONES WEB"
+## STARTUP: FoodStockOS
 ## NOMBRE DEL PRODUCTO: ChefStock
 - - -
 ### INTEGRANTES
@@ -12,7 +12,7 @@
 - Tomás Ortiz Fajardo                   (U201910146) 
 - Vittorio Marcelo Eduardo Espinoza     (U20231B547)
   
-### FECHA: MARZO 2024
+### FECHA: JUNIO 2024
 
 - - - 
 # Registro de Versiones del Informe
