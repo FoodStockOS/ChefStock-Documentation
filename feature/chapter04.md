@@ -48,7 +48,7 @@ Esta sección se centra en cómo está organizado y presentado el contenido tant
 A continuación, estarán los tipos de estructura visual que tendría cada segmento: 
 
 - Landing Page
-[![image.png](https://i.postimg.cc/Nf86LLnc/image.png)](https://postimg.cc/crHgb1Z9)
+[![Picture1.png](https://i.postimg.cc/SN1xYtZG/Picture1.png)](https://postimg.cc/9rThv1H4)
 
 - Web Application
 [![image.png](https://i.postimg.cc/wj6hNgKs/image.png)](https://postimg.cc/dLxkPMVq)
