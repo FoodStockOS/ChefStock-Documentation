@@ -1349,6 +1349,211 @@ URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 <br>
     Resumen de entrevista: Jose Lopez nos ha brindado un feedback muy bueno para nuestra Web Application. Nos comentaba que le gusta mucho la aplicacion, es muy intuitiva y facil de entender y manejar. Ademas que le gusta la paleta de colores que hemos escogido. Nos comenta que esto es de mucha ayuda para personal de restaurante como él, ya que él todavia trabaja con papel y lapiz, y esto la facilitaria mucho la vida, incluyendo a sus compañeros de trabajo. Nos comenta que siempre se puede mejorar, y que nuestra aplicación esta por un muy buen inicio. <br>
+
+
+### 5.3.3. Evaluaciones según heurísticas. 
+# SITE o APP A EVALUAR:
+### FOODOS
+
+Meta: El propósito general de la evaluación es encontrar problemas existentes en la aplicación web VERSOFT.
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+TAREAS A EVALUAR:
+1.	Desktop landing page
+1.	Información y descripción de la aplicación y sus funcionalidades
+2.	Visualización de planes de pago y precio de la aplicación
+3.	Header y footer apropiado para la landing page
+4.	Interacción del landing page con la aplicación
+2.	Web Application
+1.	Inicio de sesión con usuario existente
+2.	Indicadores claros de progreso o estado del proceso
+3.	Iconografía comprensible y consistente con el mundo real
+4.	Mensajes de error que reflejen el registro de datos incorrectos
+5.	Acciones de retroceso dentro de la aplicación
+6.	Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+ 
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1.	Desktop landing page
+1.	Redes sociales asociadas al startup
+2.	Política de privacidad y condiciones de uso
+2.	Web Application
+1.	Registro de nuevo usuario
+2.	Modificación y eliminación de procesos o cultivos registrados
+3.	Notificaciones de la aplicación respecto a los cambios efectuados por cualquier empleado de la empresa
+4.	Documentación y exportación de registros
+5.	Flexibilidad de uso a través de atajos por teclado
+6.	Acceso a recursos de ayuda dentro de la aplicación
+7.	Política de privacidad y condiciones de uso
+
+# ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+| Nivel | Descripción                                                                                                                            |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+# TABLA RESUMEN:
+Desktop landing page
+
+| #   | Problema                                                                                                                 | Escala de severidad | Heurística/Principio violado   |
+|-----|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
+| 1   | Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar | 4                   | Usability: Control y libertad del usuario |
+| 2   | Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión | 4                   | Usability: Control y libertad del usuario |
+| 3   | Al seleccionar el botón “about us” no se redirige a ningún espacio en la landing page                                   | 3                   | Usability: Coincidencia entre el sistema y el mundo real |
+| 4   | La iconografía empleada en la sección “What we offer?” resalta más que el contenido informativo                        | 2                   | Usability: Diseño estético y minimalista |
+| 5   | No se encuentra mucha información acerca del Startup y qué es lo que ofrece                       | 3                   | Inclusive Design: Diseño Centrado en el Usuario |
+| 6   | Al seleccionar el botón de “Contact Us” el usuario no es redirigido al apartado de contacto aunque este si esta implementado en la landing page   | 4                   | Usability: Coincidencia entre el sistema y el mundo real |
+
+
+__Problema #01:__  Al seleccionar el plan de suscripción, el usuario no es redireccionado a la interfaz de pago ni a ningún otro lugar
+de pago.
+
+__Escala de Severidad:__ 04
+
+__Heurística relacionada:__ Usability - Control y libertad del usuario
+
+__Descripción del problema:__ Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al apartado de pago nos da una visión más clara de a dónde se dirige nuestra aplicación y que no lo haga puede generar confusión y una sensación de bloqueo en el usuario. Esto podría ocasionar confusión en el usuario y podría preguntarse si podrá adquirir el servicio o quizá ha cometido un error al momento de seleccionar el plan de pago 
+ 
+![](/Assets/Img/Chapter%20V/heuristica%201.png)
+
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se
+recomienda redirigir de manera clara y visible al usuario al apartado donde pueda realizar el pago y obtener su paquete de suscripción. Además, para afinar la seguridad del usuario con nuestra aplicación se podría mostrar un mensaje de confirmación una vez realizado el pago y que se confirme que se adquirido su plan de suscripción.
+
+__Problema #02:__ Al seleccionar los botones interactivos “Start Now” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión.
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “Start Now” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start Now” no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+ ![](/Assets/Img/Chapter%20V/heuristica%202.png)
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones “Start Now”, el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta “Start Now” debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. 
+
+
+
+__Problema #03:__ Al seleccionar los botones interactivos “About us” del landing, el usuario no es direccionado al apartado dónde se describe nuestro “About us”
+
+__Escala de severidad:__ 03
+
+__Principio violado:__ Usability - Coincidencia entre el sistema y el mundo real
+
+__Descripción del problema:__ Cuando un usuario hace clic en un botón con etiqueta “About us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado dónde se debería hablar de nostros, de nuestro equipo, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en "About us” no se direcciona al usuario al apartado de “About us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![](/Assets/Img/Chapter%20V/heuristica%203.png)
+ 
+
+__Recomendación:__ Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “About us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
+
+
+__PROBLEMA #04:__ La iconografía empleada en la sección “what we offer?” resalta más que el contenido informativo.
+
+__Escala de severidad:__ 02
+
+__Principios violados:__
+
+__Heurística:__ Usabilidad-Diseño estético y minimalista
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+__Information Arquitecture:__ Jerarquía de la información
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+__Descripción del problema:__
+El problema identificado es que en la sección "what we offer" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas
+
+![](/Assets/Img/Chapter%20V/heuristica%204.png)
+
+
+__PROBLEMA #05:__ La información acerca del Startup y qué es lo que ofrece es insuficiente o inexacta 
+
+__Escala de severidad:__ 03
+
+__Principios violados:__ Inclusive Design: Diseño Centrado en el Usuario
+
+
+El Inclusive Desing esta centrado en el usuario e implica satisfacer sus necesidades y las expectativas del usuario. Que se encuentre información inexacta o insuficiente viola este este principio, en conclusión, no aborda las necesidades del usuario y sus necesidades, así que, no se podría usar el producto de manera efectiva.
+
+
+__Descripción del problema:__
+
+El problema es identificado por la inexactitud e insuficiencia de información relacionada con el la utilidad del producto y lo que llega a ofrecer nuestro servicio, lo que puede llevar a confusión en el usuario, dificultades para comprender que es lo que están adquiriendo los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+![](/Assets/Img/Chapter%20V/heu5.png)
+
+
+__Recomendación:__
+Para solucionar este problema se recomienda ampliar la información o crear un apartado con información acerca de “about the product” así se podría mostrar información más detallada acerca de lo que ofrece nuestro servicio.
+
+__PROBLEMA #06:__ Al seleccionar el botón de “Contact Us” el usuario no es redirigido al apartado de contacto aunque este si esta implementado en la landing pag
+
+__Escala de severidad:__ 03
+
+__Principios violados:__ Usability - Coincidencia entre el sistema y el mundo real
+
+
+El Inclusive Desing esta centrado en el usuario e implica satisfacer sus necesidades y las expectativas del usuario. Que se encuentre información inexacta o insuficiente viola este este principio, en conclusión, no aborda las necesidades del usuario y sus necesidades, así que, no se podría usar el producto de manera efectiva.
+
+
+__Descripción del problema:__
+
+Cuando un usuario hace clic en un botón con etiqueta “Contact Us” se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el apartado donde el usuario podría ponerse en contacto con nosotros, pero este apartado no está redirigiendo al apartado en específico. Si al hacer clic en " Contact Us” no se direcciona al usuario al apartado de “Contact Us” dónde pueden encontrar información pertinente acerca de nosotros, esto puede ser confuso y no coincide con la expectativa del usuario.
+
+![](/Assets/Img/Chapter%20V/heu6.png)
+
+
+__Recomendación:__
+Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionas, se recomienda que al seleccionar el botón de “Contact Us”, el usuario sea redirigido al aparatado adecuado y muestre la información pertinente para el usuario.
+
+ WEB APPLICATION:
+
+| #   | Problema                                                                                                                 | Escala de severidad | Heurística/Principio violado   |
+|-----|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------------------|
+| 1   | Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario | 3                   | Usability - Flexibilidad y eficiencia de uso /Usability – Prevenir errores |
+| 2   | Percepción imprecisa, dentro del apartado de proveedores de la aplicación, respecto a lo que se tiene como meta transmitir al usuario | 4                  | Usability: Control y libertad del usuario |
+
+
+__PROBLEMA #01:__ Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario.
+
+__Escala de severidad:__ 03
+
+__Principios violados:__ Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar la gestión de sus perfiles y cuentas. 
+
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.
+
+__Descripción del problema:__
+
+El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales. 
+
+
+![](/Assets/Img/Chapter%20V/heu3.png)
+
+
+__Recomendación:__
+Para solucionar este problema se recomienda incorporar las funcionalidades para actualizar y eliminar cuenta de manera eficiente y accesible al usuario. Además, incluir protección de datos y sistema de notificación en caso de que quieras eliminar la cuenta para confirmar si es que realmente se necesita su pronta eliminación.
+
+
+__PROBLEMA #02:__ Percepción imprecisa, dentro del apartado de proveedores de la aplicación, respecto a lo que se tiene como meta transmitir al usuario
+
+__Escala de severidad:__ 01
+
+__Principios violados:__ Usability – Consistencia y estándares/ Estética y diseño minimalista
+La confusión sobre qué componente que despliega y muestra el apartado de proveedores es poco intuitiva. Esto sugiere una violación de la heurística de "Diseño y coherencia estética". Esto podría generar confusión en los usuarios acerca de lo que se tiene que hacer en este apartado y indiquen la diferencia entre proveedores y reportes.
+
+
+__Descripción del problema:__
+
+El problema identificado radica en la incapacidad de la aplicación para transmitir el mensaje en el apartado de proveedores.
+
+![](/Assets/Img/Chapter%20V/heu4.png)
+
+__Recomendación:__
+Se recomienda mejorar la interfaz de proveedores para así tener un mejor mensaje de la empresa al usuario. 
     
 
 
