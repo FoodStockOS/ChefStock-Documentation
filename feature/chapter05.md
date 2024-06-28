@@ -1654,3 +1654,4 @@ Video About The Team Participants: https://upcedupe-my.sharepoint.com/:v:/g/pers
 
 Video Validation Sprint 4 Interviews: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=fFLc2n
 
+Video expo:  https://youtu.be/sx9U8p_3xXM
