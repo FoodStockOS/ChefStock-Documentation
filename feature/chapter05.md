@@ -1141,9 +1141,7 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
 
 
 #### 5.2.4.2. Sprint Backlog 4.
-En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior ...
-
-## Sprint 2
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior
 
 <table>
   <tr>
