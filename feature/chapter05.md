@@ -1291,24 +1291,30 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 
 ![Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png](assets/Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png)
 
+URL Microsoft Stream (plataforma): [Clic aquí para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBqZRo7VlHocMKjNyPI3427g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dsGTqI)
 
+URL de YouTube: [Clic aquí para ver la entrevista](https://youtu.be/5vSirT8C68U)
 
 <br>
-
 
 Resumen de entrevista: <br>
 Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock, diseñada para la gestión de inventarios en restaurantes. Considera que la interfaz de usuario es fácil de navegar y que las funciones son intuitivas y fáciles de usar. Le gustaría que la aplicación tuviera más opciones de personalización y considera que tiene el potencial de volverse más popular si se le diera más publicidad entre los restaurantes que necesiten este tipo de servicio. En general, considera que la aplicación es útil y fácil de usar, y que le daría un uso más cotidiano por la utilidad que ofrece.
 
 
   **Entrevista #2**<br>
-[![image.png](https://i.postimg.cc/s2tcbYR7/image.png)](https://postimg.cc/QBJ1TWCd)
+
     
    Nombre y apellidos: Sebastian Samora <br>
    Edad:  25 años <br>
    Distrito: San Borja, Lima <br>
    Inicio de Entrevista: 16:43 <br>
+
+[![image.png](https://i.postimg.cc/s2tcbYR7/image.png)](https://postimg.cc/QBJ1TWCd)
+
    Resumen de entrevista: <br>
    Sebastian Samora nos da varias recomendaciones para nuestra aplicacion. Desde la posicion de algunos botones como el diseño de la pagina, sentimos que su feedback nos ayuda mucho a poder mejorar la aplicación y cumplir con los estandares del area de logistica de los restaurantes. Por otro lado, le gusto mucho la funcionalidad de la aplicación, y en algunos momentos sonó impresionado con algunos botones y secciones de la web application. Termino contandonos que le gusto mucho la aplicacion y que para ser la fase beta, es una muy buena aplicación. 
+
+<br>
 
 - **Personal de restaurantes**
 <br>
@@ -1318,11 +1324,17 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
     Edad: 41 años <br>
     Distrito: San Miguel <br>
     Inicio de Entrevista: 4:18  <br>
+<br>
     ![Entrevista1.jpg](assets/Entrevista1.jpg)
-    URL Microsoft Stream (plataforma): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EWBD2tUMpLVFnH9mJ4DZQuMBCph_QJezfgbLmryJywMKWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AWYAgR <br>
-    URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EcWuUuQp57dLsYzxQDkAM6sBY7kJZFncPKyVXKOerHjcnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OtuEW9 <br>
-    Resumen de entrevista: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión acerca de nuestra plataforma y su experiencia al respecto. Ella opina que la plataforma es intuitiva y fácil de navegar, ya que le permite utlizar las funciones deseadas sin muchas complicaciones. Cree que la aplicación tiene suficientes funciones para realizar el inventario y que le gustaría más opciones de personalización en el futuro. Tambien dice que le daría un uso más cotidiano a la plataforma por la utilidad que ofrece y sin mucha información que llegue a complicar al usuario. Finalmente, piensa que tiene el potencial de volverse más popular si se le diera más publicidad entre los resturantes que necesiten este tipo de servicio. <br>
 
+Resumen de entrevista: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión acerca de nuestra plataforma y su experiencia al respecto. Ella opina que la plataforma es intuitiva y fácil de navegar, ya que le permite utlizar las funciones deseadas sin muchas complicaciones. Cree que la aplicación tiene suficientes funciones para realizar el inventario y que le gustaría más opciones de personalización en el futuro. Tambien dice que le daría un uso más cotidiano a la plataforma por la utilidad que ofrece y sin mucha información que llegue a complicar al usuario. Finalmente, piensa que tiene el potencial de volverse más popular si se le diera más publicidad entre los resturantes que necesiten este tipo de servicio. <br>
+
+<br>
+
+URL Microsoft Stream (plataforma): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EWBD2tUMpLVFnH9mJ4DZQuMBCph_QJezfgbLmryJywMKWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AWYAgR <br>
+URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EcWuUuQp57dLsYzxQDkAM6sBY7kJZFncPKyVXKOerHjcnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OtuEW9 <br>
+   
+<br>
 
   **Entrevista #2**<br>
     Nombre y apellidos: Jose Lopez Flores <br>
@@ -1332,6 +1344,7 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
 
 
 [![image.png](https://i.postimg.cc/T38yXKWn/image.png)](https://postimg.cc/3dBrXJ1w)
+
 <br>
     Resumen de entrevista: Jose Lopez nos ha brindado un feedback muy bueno para nuestra Web Application. Nos comentaba que le gusta mucho la aplicacion, es muy intuitiva y facil de entender y manejar. Ademas que le gusta la paleta de colores que hemos escogido. Nos comenta que esto es de mucha ayuda para personal de restaurante como él, ya que él todavia trabaja con papel y lapiz, y esto la facilitaria mucho la vida, incluyendo a sus compañeros de trabajo. Nos comenta que siempre se puede mejorar, y que nuestra aplicación esta por un muy buen inicio. <br>
     
@@ -1383,7 +1396,7 @@ En este segmento, mostramos la elaboración del despegue y la conexión del back
 
 
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910146_upc_edu_pe/ERwe6nnVH8ZGpHO52fl521UBh58ZNnOBZTdf3EVvSo77jg?e=fFLc2n\
-- URL Youtube:  https://youtu.be/ncf4iDsBS1E
+- URL Youtube:  https://youtu.be/dGCqVdhAmPg
 
 
 ## Bibliografía
