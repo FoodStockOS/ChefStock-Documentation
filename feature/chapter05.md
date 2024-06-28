@@ -1162,9 +1162,6 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
 Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
 
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-
 | Repository | Branch           | Commit ID | Commit Message                                                                  | Commit Date |
 |------------|-------------------|-----------|---------------------------------------------------------------------------------|-------------|
 | ChefStock-UPC | feat/dev     | 74e1e7852557ad8b2cd3df4675bfc00cb39188e2   | Fix: fix corrected ID errors for PUT, DELETE and POST                                                       | 09/06/2024  |
@@ -1173,6 +1170,11 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 |            | feat/dev    | 8f5c5eb113171ca34e5e1157396ef7cdb946acfb   | Refactor: Update products bounded context integration with backend                                               | 21/06/2024  |
 |            | feat/dev     | 29f43b52884ea92be8b4fdac93a2e4d287b2781f  | Feat: Add supplie commands, queries, repository and controller                                                  | 21/06/2024  |
 |            | feat/dev      | d7d8e1de634c25a51cab04c542f7c387e6daf5ef   | Feat: Update the Program.cs file                                    | 23/06/2024  |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
