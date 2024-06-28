@@ -1270,7 +1270,7 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
     Nombre y apellidos: Maykol Valencia  <br>
     Edad:  22 años <br>
     Distrito: Selva Alegre <br>
-    Inicio de Entrevista: 00:05  <br>
+    Inicio de Entrevista: 00:00  <br>
 
 ![Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png](assets/Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png)
 
@@ -1288,7 +1288,7 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
     Nombre y apellidos:  <br>
     Edad:  años <br>
     Distrito: ----- <br>
-    Inicio de Entrevista:   <br>
+    Inicio de Entrevista:  <br>
     Resumen de entrevista: <br>
 
 - **Personal de restaurantes**
@@ -1298,20 +1298,20 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
     Nombre y apellidos: Carla Gutiérrez <br>
     Edad: 41 años <br>
     Distrito: San Miguel <br>
-    Inicio de Entrevista:   <br>
+    Inicio de Entrevista: 4:18  <br>
     ![Entrevista1.jpg](assets/Entrevista1.jpg)
     URL Microsoft Stream (plataforma): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EWBD2tUMpLVFnH9mJ4DZQuMBCph_QJezfgbLmryJywMKWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AWYAgR <br>
     URL Microsoft Stream (entrevista): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b547_upc_edu_pe/EcWuUuQp57dLsYzxQDkAM6sBY7kJZFncPKyVXKOerHjcnQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OtuEW9 <br>
     Resumen de entrevista: Carla Gutiérrez, personal de un restaurante, nos comenta su opinión acerca de nuestra plataforma y su experiencia al respecto. Ella opina que la plataforma es intuitiva y fácil de navegar, ya que le permite utlizar las funciones deseadas sin muchas complicaciones. Cree que la aplicación tiene suficientes funciones para realizar el inventario y que le gustaría más opciones de personalización en el futuro. Tambien dice que le daría un uso más cotidiano a la plataforma por la utilidad que ofrece y sin mucha información que llegue a complicar al usuario. Finalmente, piensa que tiene el potencial de volverse más popular si se le diera más publicidad entre los resturantes que necesiten este tipo de servicio. <br>
 
-
+[![image.png](https://i.postimg.cc/T38yXKWn/image.png)](https://postimg.cc/3dBrXJ1w)
 
   **Entrevista #2**<br>
-    Nombre y apellidos:  <br>
-    Edad:  años <br>
-    Distrito: ----- <br>
-    Inicio de Entrevista:  <br>
-    Resumen de entrevista:  <br>
+    Nombre y apellidos: Jose Lopez Flores <br>
+    Edad:  22 años <br>
+    Distrito: La Molina, Lima <br>
+    Inicio de Entrevista: 11:10 <br>
+    Resumen de entrevista: Jose Lopez nos ha brindado un feedback muy bueno para nuestra Web Application. Nos comentaba que le gusta mucho la aplicacion, es muy intuitiva y facil de entender y manejar. Ademas que le gusta la paleta de colores que hemos escogido. Nos comenta que esto es de mucha ayuda para personal de restaurante como él, ya que él todavia trabaja con papel y lapiz, y esto la facilitaria mucho la vida, incluyendo a sus compañeros de trabajo. Nos comenta que siempre se puede mejorar, y que nuestra aplicación esta por un muy buen inicio. <br>
     
 
 
@@ -1322,11 +1322,6 @@ Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock
   
 - URL Youtube:  https://youtu.be/nwcbH2KVz1c
   
-
-
-
-
-
 
 ## Conclusiones 
 
