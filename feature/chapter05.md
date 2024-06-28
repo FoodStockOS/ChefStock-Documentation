@@ -1143,6 +1143,17 @@ En esta sección se explicaran los detalles presentados y analizados durante la 
 #### 5.2.4.2. Sprint Backlog 4.
 En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior
 
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
+Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -1326,15 +1337,6 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
     <td align="center">Done</td>
   </tr>
 
-#### 5.2.4.3. Development Evidence for Sprint Review.
-En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.<br><br>
-Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3. <br>
-
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4*
-
-#### 5.2.4.5. Execution Evidence for Sprint Review.
 
 En este sprint 4, hemos logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. <br><br>
 
