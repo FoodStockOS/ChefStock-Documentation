@@ -1123,14 +1123,49 @@ Back:
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4.
 En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
-<br>Tabla del planeamiento a profundidad del Sprint 4. <br>
+
+| Sprint #| Sprint |
+|---------|---------|
+|Sprint Planing Background||
+|Date| 2024-06-08|
+|Time | 41.00|
+|Location| Reunion Virtual(Plataforma Discord)|
+|Prepared By| Tomás Ortiz Fajardo|
+|Attendees (to planning meeting)|Todos los asistentes del equipo|
+|Sprint 4 Review Summary|La entrega pasada  tuvimos ciertas correcciones que necesitabamos revisar como el informe, mejorar algunos aspectos de los videos y terminar con el frontend y backend. |
+|Sprint 4 Retrospective Summary| El desarrollo del sprint 4 tuvo varios errores y algunos comentarios de retroalimentación, pero como equipo de trabajo se levanto las observaciones respecto al tercer sprint.  |
+|Sprint Goals & User Stories|US01 al US20|
+|Sprint 4 Goal|Como meta para este sprint queremos dejar terminado la web application completa, incluyendo el frontend, backend y la landing page. Además queremos terminar el informe para su revision en esta entrega.|
+|Sprint 4 Velocity| La velocidad de este sprint es de 23|
+|Sprints of Story Points| |
 
 
 #### 5.2.4.2. Sprint Backlog 4.
 En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior ...
 
 
-*Tabla principal del planeamiento del Sprint Backlog 4.* <br>
+## Sprint 2
+
+| Sprint # | Sprint | User Story | Work-item/Task | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|----------|--------|------------|----------------|---------------------|-------------|-----------------------------------------|
+|          |        | ID   | Title | Description |      |             |                                         |
+|          | Sprint 2 | US01 - Registro de cuenta | TA01 | Realizar componente del registro | Se desarrolla todas las funcionalidades del componente registro con sus estilos | 3 | Brayan Smith | Done |
+|          |        |            | TA02 | Crear servicio | Se crea el servicio encargado de enviar los datos de registro al backend. | 0.30 | Brayan | Done |
+|          |        | US02 - Inicio de sesión | TA01 | Crear componente con estilos | Se creará los componentes con sus estilos | 2 | Brayan | Done |
+|          |        |            | TA02 | Agregar al servicio de auth la posibilidad de logearse | Se desarrolla la función de logeo en el servicio y conservación de la sesión | 2 | Brayan | Done |
+|          |        |            | TA03 | Definir rutas para la parte del logeo | Se definirá la ruta en el módulo routing module | 1 | Brayan | Done |
+|          |        | US03 - Cierre de sesión | TA01 | Implementar función en el servicio que permita el cierre de sesión | Se implementará una función Log Out que borre los datos del usuario del local storage. | 1 | Brayan | Done |
+|          |        | US05 - Visualizar información de la cuenta | TA01 | Crear componente que permita ver el perfil del usuario | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
+|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar los datos del perfil y modificarlos. | 2 | Brayan | Done |
+|          |        | US04 - Actualizar información de cuenta | TA01 | Crear un componente dialog que permita editar la cuenta | Se desarrollará los estilos y lógicas | 3 | Brayan Smith | Done |
+|          |        | US06 - Eliminar permanentemente la cuenta | TA01 | Crear un componente dialog que confirme la eliminación | Se desarrollará los estilos y lógicas | 2 | Brayan Smith | Done |
+|          |        | US07 - Agregar un producto al inventario | TA01 | Crear el componente que será la página principal para ver el inventario | Se desarrollará los estilos y lógicas | 4 | Piero Alonso | Done |
+|          |        |            | TA02 | Crear servicio | Se crea el servicio para solicitar la información de los productos. | 2 | Piero Alonso | Done |
+|          |        |            | TA03 | Crear un dialog con un formulario | Se creará un componente dialog para agregar productos | 2 | Piero Alonso | Done |
+|          |        | US08 - Eliminar un producto del inventario | TA01 | Crear un componente que se encargue de confirmar la eliminación de un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+|          |        | US09 - Actualizar un producto en el inventario | TA01 | Crear un componente que se encargue de actualizar un producto | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+|          |        | US10 - Ver todos los productos del inventario | TA01 | Crear un componente que funcione de página que muestre los productos | Se desarrollará los estilos y lógicas | 2 | Piero Alonso | Done |
+
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
