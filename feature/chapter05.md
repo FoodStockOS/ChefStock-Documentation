@@ -1208,6 +1208,8 @@ Entre varios cambios y mejoras, hemos incluído APIs a nuestro Front-End.  Dejam
 
 [Clic aquí para ir a la Aplicación Web](https://front-end-chefstock.web.app/)
 
+
+
 **Backend Deployment**
 ![Backend_part1.jpeg](assets/Backend_part1.jpeg)
 
@@ -1217,13 +1219,12 @@ Entre varios cambios y mejoras, hemos incluído APIs a nuestro Front-End.  Dejam
 
 ![Backend_part4.jpeg](assets/Backend_part4.jpeg)
 
-![Backend_part5.jpeg](assets/Backend_part5.jpeg)
+![Backend_part5.jpeg](assets/Backend_part5.png)
 
-![Backend_part6.jpeg](assets/Backend_part6.jpeg)
 
 
 Presentamos la primera versión den nuestro BackEnd. Esta primera versión contiene EndPoints que añadan valor a nuestro negocio
-[CLic aquí para ver el Swagger](https://chefstock-backend.up.railway.app/swagger/index.html)
+[CLic aquí para ver el Swagger](https://chefstock-platform.azurewebsites.net/swagger/index.html)
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint..
@@ -1274,7 +1275,10 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 ![Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png](assets/Entrevista_Seg01_MaykolValencia_Propietario-de-Restaurante.png)
 
 
-[URL_De_Entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBA-UEM-kl-euejHsHk2r9yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jNUolt)
+[URL_De_Entrevista ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/ERTdOHtIhP5Bkaq1kLiWw6UBA-UEM-kl-euejHsHk2r9yA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VJeXSp)
+<br>
+[URL_De_Entrevista_YouTube](https://youtu.be/5vSirT8C68U)
+
 
 Resumen de entrevista: <br>
 Maykol Valencia, de 22 años, evaluó positivamente la aplicación web ChefStock, diseñada para la gestión de inventarios en restaurantes. Considera que la interfaz de usuario es fácil de navegar y que las funciones son intuitivas y fáciles de usar. Le gustaría que la aplicación tuviera más opciones de personalización y considera que tiene el potencial de volverse más popular si se le diera más publicidad entre los restaurantes que necesiten este tipo de servicio. En general, considera que la aplicación es útil y fácil de usar, y que le daría un uso más cotidiano por la utilidad que ofrece.
@@ -1339,8 +1343,7 @@ El back-end está diseñado para gestionar eficientemente grandes volúmenes de 
 
 ## Video About The Team
 
-En este segmento, mostramos la elaboración de la parte de seguridad del backend, esto en una llamada grupal en la cual resolvimos la problematica de la implementación.
-Asimismo cada uno explica como lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
+En este segmento, mostramos la elaboración del despegue y la conexión del backend con el frontend, además de la implementación de la landing page. Cada miembro del equipo explica su aporte en el proyecto y cómo lograron los Student Outcomes correspondientes gracias a la aplicación del proyecto.
 
 
 ![VideoAboutTheTeam](assets/VideoAboutTheTeam.png)
@@ -1349,7 +1352,7 @@ Asimismo cada uno explica como lograron los Student Outcomes correspondientes gr
 
 - URL Youtube: https://youtu.be/xCCu7r-03gc
 
-## Video About The Team Back
+ Video About The Team Back
 ---
 ![VideoAboutProductBack](assets/Video-AboutTeam-Back.png)
 - URL Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223781_upc_edu_pe/EYISxDqyVQ9Mko00q1smHOMB54x8ZWxAOsxFCp1JhkmhPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6vZvRp
